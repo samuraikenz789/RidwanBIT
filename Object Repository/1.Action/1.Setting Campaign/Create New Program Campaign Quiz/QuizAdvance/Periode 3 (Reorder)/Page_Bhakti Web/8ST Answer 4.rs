@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>8ST Answer 4</name>
+   <tag></tag>
+   <elementGuidId>ae95aea2-1e95-46c7-8f48-8ec45ecc6146</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.input-title.ng-untouched.ng-pristine.ng-valid.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b7bbf405-166f-4938-b965-5ce81a1e6cba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>419d7aa0-8bd5-4981-a019-218214bd7c71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-title ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>afab7232-9de8-4368-89a2-1bf91d3e968e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Add Answer 4</value>
+      <webElementGuid>26d79cee-ee7c-4f5f-bdf3-34aef779c5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-6&quot;)/div[@class=&quot;cdk-drag ng-star-inserted&quot;]/div[@class=&quot;col-12 p-0 d-flex flex-row&quot;]/div[@class=&quot;card-option w-100&quot;]/input[@class=&quot;input-title ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]</value>
+      <webElementGuid>07182fef-d425-461f-a087-20c05ba29963</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[6]</value>
+      <webElementGuid>aef5ba9b-7c04-44d3-b9c2-b4b79d57cdf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-drop-list-6']/div[4]/div/div[2]/input[2]</value>
+      <webElementGuid>1d9aa017-56d8-47b5-a0e8-58caa14abbf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/input[2]</value>
+      <webElementGuid>c952bcf6-2c18-49f5-a0df-38bb7e20a13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Add Answer 4']</value>
+      <webElementGuid>490b434d-4477-4bd0-be56-934a76a741a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

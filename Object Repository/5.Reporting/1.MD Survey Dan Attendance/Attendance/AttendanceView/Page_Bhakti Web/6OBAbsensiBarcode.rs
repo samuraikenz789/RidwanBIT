@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6OBAbsensiBarcode</name>
+   <tag></tag>
+   <elementGuidId>0477783d-ec95-4387-a2e1-f412ca77fa69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_3-table']/thead/tr/th[2]/div/p-sorticon/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.p-sortable-column-icon.pi.pi-fw.pi-sort-alt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9177cee8-d48f-4244-84f0-c743c2ec87e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-sortable-column-icon pi pi-fw pi-sort-alt</value>
+      <webElementGuid>b200cbe8-71cc-4f20-ac4f-401536676fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>dd678b39-fa3f-4b66-97f3-ef43011491b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_3-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;no-highlight ng-star-inserted&quot;]/th[@class=&quot;p-element p-sortable-column&quot;]/div[@class=&quot;flex justify-content-between align-items-center&quot;]/p-sorticon[@class=&quot;p-element&quot;]/i[@class=&quot;p-sortable-column-icon pi pi-fw pi-sort-alt&quot;]</value>
+      <webElementGuid>03ab69ba-3a14-454b-b7c0-e8458feab3ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_3-table']/thead/tr/th[2]/div/p-sorticon/i</value>
+      <webElementGuid>f524c24c-e607-4d2e-bb9a-8da2489e95d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-sorticon/i</value>
+      <webElementGuid>e97c549f-5c85-453f-90a3-0757f2892380</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

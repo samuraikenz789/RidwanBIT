@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>60 ST Jawaban 3</name>
+   <tag></tag>
+   <elementGuidId>29d5b635-3c17-497a-8ed2-09906b86a067</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c86804dd-d9e6-40c2-9653-1e45c6553ab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>375ca72d-fd58-4ef8-bb3a-8771af8d159c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-title ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>ed952caa-8b58-4e0b-9cdb-d2189ffa3b47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Add Answer 3</value>
+      <webElementGuid>98d63741-0d15-4758-ba63-e9c6cd6e36c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;p-0 content-active&quot;]/setting-d-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/nb-tabset[1]/nb-tab[@class=&quot;tab-periode-style ng-star-inserted content-active&quot;]/div[@class=&quot;d-flex p-1 flex-row ng-star-inserted&quot;]/div[@class=&quot;col-8 d-flex flex-column ng-star-inserted&quot;]/ngx-question[@class=&quot;ng-star-inserted&quot;]/ngx-multi-choice[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column&quot;]/div[@class=&quot;card-option ng-star-inserted&quot;]/input[@class=&quot;input-title ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]</value>
+      <webElementGuid>b63bae75-d5fa-4f10-aa59-dc4ef6c6aa3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[5]</value>
+      <webElementGuid>6e8b6e52-19e2-4458-bc6d-ebaed5baa288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[3]/setting-d-quiz/form/nb-tabset/nb-tab/div/div[2]/ngx-question/ngx-multi-choice/div/div[3]/input[2]</value>
+      <webElementGuid>d49749d1-a95a-4cd7-beb2-b76907fa77ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input[2]</value>
+      <webElementGuid>7c2c1783-a930-4984-91b9-71cdbf0fac0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Add Answer 3']</value>
+      <webElementGuid>2b6238d8-c2fc-47ab-849f-070475a07823</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

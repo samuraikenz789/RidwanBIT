@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>67 Click button_Pilih Wallet</name>
+   <tag></tag>
+   <elementGuidId>ace8f0da-309d-4a2c-a0a5-247bee264fd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[22]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nb-select.appearance-outline.full-width.size-medium.status-basic.shape-rectangle.ng-untouched.ng-pristine.ng-invalid.nb-transition > button.select-button.placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f489311-1acf-477a-a906-7073163cf262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>436ca955-bf8c-4fa2-83cd-748fa4c218a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder</value>
+      <webElementGuid>93953dd4-da17-44a3-98e1-8711d2b822a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>7b963651-ec9e-43c5-a610-c5c47ab8197f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Wallet</value>
+      <webElementGuid>18ec62c7-eb35-417b-a824-31b5fc5705c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[1]/campaign-templates[1]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-g-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;border-bonus my-3 p-3 ng-star-inserted&quot;]/div[@class=&quot;row my-2 vertical-center ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;col-md-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 mt-3&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-basic shape-rectangle ng-untouched ng-pristine ng-invalid nb-transition&quot;]/button[@class=&quot;select-button placeholder&quot;]</value>
+      <webElementGuid>89a887a0-c820-499d-b85f-60c4b1906579</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[22]</value>
+      <webElementGuid>ed8eb248-e657-41b1-bcd1-49159fe370a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[4]/setting-g-quiz/form/div[2]/div[2]/div/div/div/div/div[4]/div/div[2]/nb-select/button</value>
+      <webElementGuid>e80e53c4-f129-4523-b285-977fab8636e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Bonus'])[1]/following::button[1]</value>
+      <webElementGuid>587a4369-06d8-4f9b-9918-1a76ed57f2aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Periode'])[1]/following::button[2]</value>
+      <webElementGuid>f04bac2f-a23e-4481-aa94-cd500258c295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Pengaturan'])[1]/preceding::button[1]</value>
+      <webElementGuid>54da31e6-7394-4896-91b8-b46e3012046f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/nb-select/button</value>
+      <webElementGuid>5b83bc4a-7846-401c-bb8e-47cc11c701a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih Wallet' or . = 'Pilih Wallet')]</value>
+      <webElementGuid>0aa7164d-a0a6-4d26-be5c-43daf0509165</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

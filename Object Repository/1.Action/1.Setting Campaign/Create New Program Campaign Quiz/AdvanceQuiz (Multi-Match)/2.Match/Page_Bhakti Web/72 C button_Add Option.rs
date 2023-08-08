@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>72 C button_Add Option</name>
+   <tag></tag>
+   <elementGuidId>2c89d55b-d18f-4508-a5d9-642c5e0c3180</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mb-3.btn-outline.mt-4.appearance-filled.size-medium.shape-rectangle.icon-start.status-basic.ng-star-inserted.nb-transition</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[20]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a8e7f7f4-2207-4f51-9b67-cbf7d3207d87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>890a5dec-8397-4814-b02d-2c070394e5e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-3 btn-outline mt-4 appearance-filled size-medium shape-rectangle icon-start status-basic ng-star-inserted nb-transition</value>
+      <webElementGuid>7e79b5d3-a7bf-4f86-a6bf-f3ad1777f527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>b21b8cb1-caac-443e-a415-726680553071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e148ac78-816a-4b32-96cf-8e08c88a76c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Option </value>
+      <webElementGuid>73e476bf-6c73-4c7a-85e7-c68a4c6c732f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;p-0 content-active&quot;]/setting-d-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/nb-tabset[1]/nb-tab[@class=&quot;tab-periode-style ng-star-inserted content-active&quot;]/div[@class=&quot;d-flex p-1 flex-row ng-star-inserted&quot;]/div[@class=&quot;col-8 d-flex flex-column ng-star-inserted&quot;]/ngx-question[@class=&quot;ng-star-inserted&quot;]/ngx-match-choice[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex justify-content-center align-items-center&quot;]/button[@class=&quot;mb-3 btn-outline mt-4 appearance-filled size-medium shape-rectangle icon-start status-basic ng-star-inserted nb-transition&quot;]</value>
+      <webElementGuid>0006d53c-93c9-4807-98cd-6515cc1b1437</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[20]</value>
+      <webElementGuid>6755b14a-6e64-4875-86af-a9ea98987086</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[3]/setting-d-quiz/form/nb-tabset/nb-tab[2]/div/div[2]/ngx-question/ngx-match-choice/div[2]/button</value>
+      <webElementGuid>b429b465-a1a1-4a1f-9b59-a36d9dd948f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image'])[1]/following::button[1]</value>
+      <webElementGuid>9d3f12ae-0c55-44c5-b977-753b2564d7a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio'])[1]/following::button[1]</value>
+      <webElementGuid>11c61946-8fcd-4e80-b26a-ea3c68080426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[3]/preceding::button[1]</value>
+      <webElementGuid>8e7798dd-1f9f-424d-9ad9-fafb6ab63801</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting E: Aturan Reward Berdasarkan Periode'])[1]/preceding::button[2]</value>
+      <webElementGuid>562279a7-64aa-4398-9d8d-51e296861f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Option']/parent::*</value>
+      <webElementGuid>223a5297-b36f-4cfa-8d4f-b2e35641ab1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>1058f81c-16ab-4839-902a-8a27d74fc3d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Add Option ' or . = ' Add Option ')]</value>
+      <webElementGuid>ccf4804f-10e9-4bb1-8faa-7851d153817f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

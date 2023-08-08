@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>14Click button_Master Grouping Peserta</name>
+   <tag></tag>
+   <elementGuidId>7c7128ec-8060-43d9-870e-27ba4809fdbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.cdk-focused.cdk-mouse-focused.placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7b4f5e48-38ce-4fca-900c-8a4dc7f4d223</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9851783-0f69-4bf7-af48-be100efa1c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button cdk-focused cdk-mouse-focused placeholder</value>
+      <webElementGuid>139f8021-c852-4f51-87e4-e5ab717a7c20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>d2c8bed5-ad40-4355-8d91-648b8418d24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Grouping Peserta</value>
+      <webElementGuid>7018f131-fd87-4412-a354-de50c226025c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-display[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-b-display[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9 mb-4&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-basic shape-rectangle ng-untouched ng-pristine ng-invalid nb-transition&quot;]/button[@class=&quot;select-button cdk-focused cdk-mouse-focused placeholder&quot;]</value>
+      <webElementGuid>1675693b-342e-434f-bb58-20764d5d6ce8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>06cc0955-3b48-462f-951c-c2247cd19a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-display/nb-tabset/nb-tab/setting-b-display/form/div/div[4]/nb-select/button</value>
+      <webElementGuid>2291aaf8-33e5-416e-a6d4-69aa8ca633c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Target Group Peserta'])[1]/following::button[1]</value>
+      <webElementGuid>e388bdf9-e52a-4e94-b8e5-1e54d3d99452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='msr-1 Lihat Detail'])[1]/following::button[1]</value>
+      <webElementGuid>e177caec-caee-4dad-b63c-bd81515d4c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Peserta yang tidak diizinkan ikut campaign'])[1]/preceding::button[1]</value>
+      <webElementGuid>0b5630fb-e303-4864-9b24-33c0d9a87e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/nb-select/button</value>
+      <webElementGuid>09357391-d62b-4e4b-b449-196c4f84576a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Master Grouping Peserta' or . = 'Master Grouping Peserta')]</value>
+      <webElementGuid>1e038d84-4a2d-4b34-8c9f-1966666ba17f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>33Click div_Reward_add-peringkat-icon</name>
+   <tag></tag>
+   <elementGuidId>efc04604-1ab7-4b89-804a-d625a278bdca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.p-3.my-3.ng-star-inserted > div.col-md-12 > div.row.mt-3 > div.col-md-12 > div.add-peringkat-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-qrcode/nb-tabset/nb-tab[3]/setting-g-qrcode/div[2]/div/div[4]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9ca2c69-bb88-4a69-ac20-bd38ceeb5060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-peringkat-icon</value>
+      <webElementGuid>6e4d3f9d-b373-4900-8171-923f2beb074f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[1]/campaign-templates[1]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-qrcode[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-g-qrcode[@class=&quot;ng-star-inserted&quot;]/div[2]/div[@class=&quot;row p-3 my-3 ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;add-peringkat-icon&quot;]</value>
+      <webElementGuid>e3d21c4d-abcd-4f78-8dc3-7e60da05cd90</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-qrcode/nb-tabset/nb-tab[3]/setting-g-qrcode/div[2]/div/div[4]/div/div/div</value>
+      <webElementGuid>90c33ca3-dbed-4439-83a6-1b149c3f5d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reward'])[2]/following::div[5]</value>
+      <webElementGuid>49c9167d-79e9-4c61-a53d-c312978e697a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peringkat'])[2]/following::div[5]</value>
+      <webElementGuid>2cf87b72-16b2-47fd-b2d9-1519863f32cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Pengaturan'])[1]/preceding::div[1]</value>
+      <webElementGuid>52dfcbbc-7fb7-4c25-9971-04b20ca3b0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selanjutnya'])[3]/preceding::div[3]</value>
+      <webElementGuid>0e8a19d1-c1fd-488b-bb04-d595de2814ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div/div</value>
+      <webElementGuid>1ec1a9db-beae-4d05-bd2d-28d6ee7b4f3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

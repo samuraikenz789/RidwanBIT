@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect</name>
+   <tag></tag>
+   <elementGuidId>5b234cc3-8094-4c37-be44-a1782c6116f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.placeholder.cdk-focused.cdk-mouse-focused > nb-icon > svg > g > g > rect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>9156b9a6-5356-43b9-84a3-088eb3d0e39e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>3c153695-a6fb-439f-8832-f7b7f1040c42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>486c6cc1-4c04-4332-8c06-a92d24066236</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>opacity</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c28dffc2-9432-47b9-be4f-02765df19932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/user-group[1]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/user-tags-md[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mt-2&quot;]/div[@class=&quot;col-md-10 mt-2&quot;]/nb-select[@class=&quot;appearance-outline size-medium status-primary shape-rectangle ng-untouched ng-pristine ng-valid nb-transition&quot;]/button[@class=&quot;select-button placeholder cdk-focused cdk-mouse-focused&quot;]/nb-icon[1]/svg[1]/g[1]/g[1]/rect[1]</value>
+      <webElementGuid>7fa00b3c-f56a-4233-93f2-2ff4f331ab96</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nb-layout-column_Jenis Program Campaign Pro_188c74</name>
+   <tag></tag>
+   <elementGuidId>a9ea31e5-ddfd-4699-b6d4-614ba37beee4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-layout-column</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-layout-column</value>
+      <webElementGuid>6be3640b-27af-46f7-94ad-fb5959992dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Jenis Program Campaign Program Campaign QuizHeader CampaignPeriodeDesign QuizAturan PermainanReview &amp; Approval Setting A: Tampilan Card Campaign pada Menu Campaign Mishirin Kode CampaignNama CampaignPeriode Tayang Campaign s/d Periode Transaksi Campaign s/d Kuota Join CampaignWarna Dasar CampaignWarna Tulisan Campaign Banner Campaign  Banner akan ditampilkan di card campaign di sebelah kanan atas.  Flyer Campaign  Flyer yang memanjang ke bawah dengan ukuran lebar 320pxl.  Flyer tampil di halaman depan aplikasi setara dengan tampilan artikel lainnya  Header Campaign  File gambar Header Campaign yang berisi tentang detail informasi dan cara permainan campaign. Setting B: Pengaturan Zona &amp; Peserta Campaign Pembagian Zona  msr-1 Lihat Detail Target Group Peserta kabupaten-msr-1, provinsi-msr-1, provinsi-msr-2, user-msr-1 Group Peserta yang tidak diizinkan ikut campaign GROUP TOKO CURANG Peserta yang diizinkan ikut campaign  Pemilik Toko Dealer, Subdealer Karyawan Toko Karyawan SPG Pilih Status Peserta SPG Sales Pilih Status Peserta Sales Selanjutnya Setting C: Pengaturan Periode CampaignPeriode 1Tipe QuizQuiz RegularTanggal Mulai Quiz s/d  Tambah Periode  Selanjutnya Setting D: Design Quiz Selanjutnya Setting E: Aturan Reward Berdasarkan PeriodePilih Aturan Peserta wajib mengikuti jumlah periode tertentu untuk mendapatkan reward Masukkan Jumlah Periode Peserta wajib mengikuti jumlah periode secara berturut-turut untuk mendapatkan reward Masukkan Jumlah Periode Peserta akan mendapatkan reward jika telah mengikuti jumlah periode yang telah ditentukan secara berturut-turut. Masukkan Jumlah PeriodeReward Periode 1Pilih WalletJawaban Benar Untuk Mendapatkan RewardJawaban Benar untuk mendapatkan rewardSetting F: Aturan Reward Per SoalPeriode 1Target WalletPilih WalletSetting Reward Reward Tiap Soal Berbeda  Reward Tiap Soal Sama Setting G: Aturan Bonus Reward Berdasarkan PeriodeBonus Reward akan Berlaku jika peserta campaign telah mengikuti jumlah periode yang telah ditentukan Jumlah Periode Masukkan Jumlah Periode Jumlah Bonus Pilih WalletTambah Pengaturan Selanjutnya Review &amp; Approval Setting A : Tampilan Card Campaign Pada Menu Campaign Mishirin  Setting B : Pengaturan Zona &amp; Peserta Campaign  Setting C : Pengaturan Periode Campaign  Setting D : Pengaturan Design Quiz  Setting E : Pengaturan Reward Berdasarkan Periode  Setting F : Pengaturan Reward Per Soal  Setting G : Pengaturan Bonus Reward Berdasarkan Periode Request Approval Campaign akan dikirimkan ke email dibawah ini : 1. Hartoko  hartoko@bhakti.co.id  2. Romy  romy@bhakti.co.id  3. Wirya  wirya@bhakti.co.id  Kirim </value>
+      <webElementGuid>1be27562-997f-41c0-b1ca-fb67fe8e376c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]</value>
+      <webElementGuid>d3308eed-c519-4935-8cbc-0f146227b2ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column</value>
+      <webElementGuid>4685b3c6-4fef-449d-ac99-0095fa1d5616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring Vendor IAK'])[1]/following::nb-layout-column[1]</value>
+      <webElementGuid>ed35b1a0-5ed0-415e-b1d8-7ca6d71c3688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring Sys Action Log'])[1]/following::nb-layout-column[1]</value>
+      <webElementGuid>f88fbb73-f068-44c7-9184-864d50a9f4df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-layout-column</value>
+      <webElementGuid>1547a912-851a-4f5b-a19b-18eef66f3168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-layout-column[(text() = ' Jenis Program Campaign Program Campaign QuizHeader CampaignPeriodeDesign QuizAturan PermainanReview &amp; Approval Setting A: Tampilan Card Campaign pada Menu Campaign Mishirin Kode CampaignNama CampaignPeriode Tayang Campaign s/d Periode Transaksi Campaign s/d Kuota Join CampaignWarna Dasar CampaignWarna Tulisan Campaign Banner Campaign  Banner akan ditampilkan di card campaign di sebelah kanan atas.  Flyer Campaign  Flyer yang memanjang ke bawah dengan ukuran lebar 320pxl.  Flyer tampil di halaman depan aplikasi setara dengan tampilan artikel lainnya  Header Campaign  File gambar Header Campaign yang berisi tentang detail informasi dan cara permainan campaign. Setting B: Pengaturan Zona &amp; Peserta Campaign Pembagian Zona  msr-1 Lihat Detail Target Group Peserta kabupaten-msr-1, provinsi-msr-1, provinsi-msr-2, user-msr-1 Group Peserta yang tidak diizinkan ikut campaign GROUP TOKO CURANG Peserta yang diizinkan ikut campaign  Pemilik Toko Dealer, Subdealer Karyawan Toko Karyawan SPG Pilih Status Peserta SPG Sales Pilih Status Peserta Sales Selanjutnya Setting C: Pengaturan Periode CampaignPeriode 1Tipe QuizQuiz RegularTanggal Mulai Quiz s/d  Tambah Periode  Selanjutnya Setting D: Design Quiz Selanjutnya Setting E: Aturan Reward Berdasarkan PeriodePilih Aturan Peserta wajib mengikuti jumlah periode tertentu untuk mendapatkan reward Masukkan Jumlah Periode Peserta wajib mengikuti jumlah periode secara berturut-turut untuk mendapatkan reward Masukkan Jumlah Periode Peserta akan mendapatkan reward jika telah mengikuti jumlah periode yang telah ditentukan secara berturut-turut. Masukkan Jumlah PeriodeReward Periode 1Pilih WalletJawaban Benar Untuk Mendapatkan RewardJawaban Benar untuk mendapatkan rewardSetting F: Aturan Reward Per SoalPeriode 1Target WalletPilih WalletSetting Reward Reward Tiap Soal Berbeda  Reward Tiap Soal Sama Setting G: Aturan Bonus Reward Berdasarkan PeriodeBonus Reward akan Berlaku jika peserta campaign telah mengikuti jumlah periode yang telah ditentukan Jumlah Periode Masukkan Jumlah Periode Jumlah Bonus Pilih WalletTambah Pengaturan Selanjutnya Review &amp; Approval Setting A : Tampilan Card Campaign Pada Menu Campaign Mishirin  Setting B : Pengaturan Zona &amp; Peserta Campaign  Setting C : Pengaturan Periode Campaign  Setting D : Pengaturan Design Quiz  Setting E : Pengaturan Reward Berdasarkan Periode  Setting F : Pengaturan Reward Per Soal  Setting G : Pengaturan Bonus Reward Berdasarkan Periode Request Approval Campaign akan dikirimkan ke email dibawah ini : 1. Hartoko  hartoko@bhakti.co.id  2. Romy  romy@bhakti.co.id  3. Wirya  wirya@bhakti.co.id  Kirim ' or . = ' Jenis Program Campaign Program Campaign QuizHeader CampaignPeriodeDesign QuizAturan PermainanReview &amp; Approval Setting A: Tampilan Card Campaign pada Menu Campaign Mishirin Kode CampaignNama CampaignPeriode Tayang Campaign s/d Periode Transaksi Campaign s/d Kuota Join CampaignWarna Dasar CampaignWarna Tulisan Campaign Banner Campaign  Banner akan ditampilkan di card campaign di sebelah kanan atas.  Flyer Campaign  Flyer yang memanjang ke bawah dengan ukuran lebar 320pxl.  Flyer tampil di halaman depan aplikasi setara dengan tampilan artikel lainnya  Header Campaign  File gambar Header Campaign yang berisi tentang detail informasi dan cara permainan campaign. Setting B: Pengaturan Zona &amp; Peserta Campaign Pembagian Zona  msr-1 Lihat Detail Target Group Peserta kabupaten-msr-1, provinsi-msr-1, provinsi-msr-2, user-msr-1 Group Peserta yang tidak diizinkan ikut campaign GROUP TOKO CURANG Peserta yang diizinkan ikut campaign  Pemilik Toko Dealer, Subdealer Karyawan Toko Karyawan SPG Pilih Status Peserta SPG Sales Pilih Status Peserta Sales Selanjutnya Setting C: Pengaturan Periode CampaignPeriode 1Tipe QuizQuiz RegularTanggal Mulai Quiz s/d  Tambah Periode  Selanjutnya Setting D: Design Quiz Selanjutnya Setting E: Aturan Reward Berdasarkan PeriodePilih Aturan Peserta wajib mengikuti jumlah periode tertentu untuk mendapatkan reward Masukkan Jumlah Periode Peserta wajib mengikuti jumlah periode secara berturut-turut untuk mendapatkan reward Masukkan Jumlah Periode Peserta akan mendapatkan reward jika telah mengikuti jumlah periode yang telah ditentukan secara berturut-turut. Masukkan Jumlah PeriodeReward Periode 1Pilih WalletJawaban Benar Untuk Mendapatkan RewardJawaban Benar untuk mendapatkan rewardSetting F: Aturan Reward Per SoalPeriode 1Target WalletPilih WalletSetting Reward Reward Tiap Soal Berbeda  Reward Tiap Soal Sama Setting G: Aturan Bonus Reward Berdasarkan PeriodeBonus Reward akan Berlaku jika peserta campaign telah mengikuti jumlah periode yang telah ditentukan Jumlah Periode Masukkan Jumlah Periode Jumlah Bonus Pilih WalletTambah Pengaturan Selanjutnya Review &amp; Approval Setting A : Tampilan Card Campaign Pada Menu Campaign Mishirin  Setting B : Pengaturan Zona &amp; Peserta Campaign  Setting C : Pengaturan Periode Campaign  Setting D : Pengaturan Design Quiz  Setting E : Pengaturan Reward Berdasarkan Periode  Setting F : Pengaturan Reward Per Soal  Setting G : Pengaturan Bonus Reward Berdasarkan Periode Request Approval Campaign akan dikirimkan ke email dibawah ini : 1. Hartoko  hartoko@bhakti.co.id  2. Romy  romy@bhakti.co.id  3. Wirya  wirya@bhakti.co.id  Kirim ')]</value>
+      <webElementGuid>7e2934d8-afba-4fcc-9423-eb1adbf7fa46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

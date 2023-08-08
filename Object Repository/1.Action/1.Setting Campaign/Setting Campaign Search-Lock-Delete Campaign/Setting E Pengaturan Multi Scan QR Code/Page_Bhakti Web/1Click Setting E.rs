@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1Click Setting E</name>
+   <tag></tag>
+   <elementGuidId>ad11c14e-0a93-4a51-a5c6-1f666d3a6f1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-checkbox.status-control.ng-untouched.ng-pristine.ng-valid.nb-transition > label.label > span.custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-qrcode/nb-tabset/nb-tab[3]/setting-e-qrcode/form/div/div[2]/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bb4a0ce5-b235-4875-ac48-768558b576df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>9984fad4-7d12-4b2f-b998-81f6b3c9cf49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-qrcode[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-e-qrcode[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;mb-4 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row setting-title mt-4&quot;]/div[@class=&quot;mt-2&quot;]/nb-checkbox[@class=&quot;status-control ng-untouched ng-pristine ng-valid nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>2efdee55-5885-4e1e-8c2c-be559b8c3a0f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-qrcode/nb-tabset/nb-tab[3]/setting-e-qrcode/form/div/div[2]/nb-checkbox/label/span</value>
+      <webElementGuid>f9f558da-881e-453d-b224-a53bca2df5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting E: Pengaturan Multi Scan QR Code'])[1]/following::span[1]</value>
+      <webElementGuid>92a599b7-e4ce-4767-b3e5-6e27a8072ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Pengaturan Bonus Point'])[1]/following::span[1]</value>
+      <webElementGuid>2b1e1c1a-27f6-4ef0-9ec3-95b8e3a4fac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dealer (Belum Dipilih)'])[1]/preceding::span[2]</value>
+      <webElementGuid>2476d170-0976-476f-bf7b-d37ad1c345f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subdealer (Belum Dipilih)'])[1]/preceding::span[2]</value>
+      <webElementGuid>075cdc53-e3f8-4f76-96c0-317a4470e281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//setting-e-qrcode/form/div/div[2]/nb-checkbox/label/span</value>
+      <webElementGuid>97dab117-5fbc-424b-a802-5def1d7c8e29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

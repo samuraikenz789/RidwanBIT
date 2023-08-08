@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>9Clicka_Periode 2</name>
+   <tag></tag>
+   <elementGuidId>97f96421-2afe-4ee2-8fe8-5de3b5d5ad3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-reporting/ngx-quiz-report/ngx-quiz-report-detail/div/nb-card/nb-card-body/nb-tabset/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a8bce16c-68ba-47c1-8c7d-145a0d68e544</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>eb99c197-687b-4ed8-b18b-26f9a1e27491</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-link</value>
+      <webElementGuid>5a016fa1-0916-4bea-99cf-da01defa098c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Periode 2</value>
+      <webElementGuid>6bc21e83-31e2-4550-a849-cd9c0a5f81a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-reporting[@class=&quot;ng-star-inserted&quot;]/ngx-quiz-report[@class=&quot;ng-star-inserted&quot;]/ngx-quiz-report-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/nb-tabset[1]/ul[@class=&quot;tabset&quot;]/li[@class=&quot;tab responsive ng-star-inserted&quot;]/a[@class=&quot;tab-link&quot;]</value>
+      <webElementGuid>e1911fd9-506c-4d9f-aa07-f925fb3e2bce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-reporting/ngx-quiz-report/ngx-quiz-report-detail/div/nb-card/nb-card-body/nb-tabset/ul/li[2]/a</value>
+      <webElementGuid>d72ca321-a9b5-4a36-add3-cc3d69581bb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Periode 1'])[1]/following::a[1]</value>
+      <webElementGuid>3a6fcbe9-08a4-407e-a450-1e2f9b03c233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gebyar Quiz | ali idrus darusalam | subdealer'])[1]/following::a[2]</value>
+      <webElementGuid>a2531a3f-dc06-4cf2-b7f1-7fcef59eaaf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Jawaban Benar'])[1]/preceding::a[1]</value>
+      <webElementGuid>4b3d0441-7886-4562-a3a8-bbf282f5343a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[38]</value>
+      <webElementGuid>ca8e1b5a-dac2-49ff-bc3e-e970465aef5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-tabset/ul/li[2]/a</value>
+      <webElementGuid>fc7e8ce7-020e-4605-b4bf-4457b1165ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Periode 2' or . = 'Periode 2')]</value>
+      <webElementGuid>44736f9f-f213-4010-b297-4f4cbf499792</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

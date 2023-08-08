@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Wallet Point MSR</name>
+   <tag></tag>
+   <elementGuidId>ae93c57d-d856-4b2a-883e-4d24f2845a0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.cdk-focused.cdk-program-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4331ce40-938c-446b-b1ec-6a463e30f235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0a00369b-6633-4727-ac9f-bc8e32af4d1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button cdk-focused cdk-program-focused</value>
+      <webElementGuid>2c90b36c-3786-4503-95a3-bf84de3ab60d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wallet Point MSR</value>
+      <webElementGuid>d7b9561c-1384-418f-856a-76da3328174f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-administration[@class=&quot;ng-star-inserted&quot;]/user-wallet-detail[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/wallet-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mt-3&quot;]/nb-select[@class=&quot;mt-1 appearance-outline full-width size-medium status-basic shape-rectangle ng-valid nb-transition ng-dirty ng-touched&quot;]/button[@class=&quot;select-button cdk-focused cdk-program-focused&quot;]</value>
+      <webElementGuid>a650453c-9a27-4c0a-ac0d-d1684df999a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>ae384f5c-2317-494c-afcd-be4e05196ce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/user-wallet-detail/nb-card/nb-card-body/div[2]/div/nb-tabset/nb-tab/wallet-component/div/div[2]/nb-select/button</value>
+      <webElementGuid>77a30cf1-82ce-4283-a82b-61e757603f32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Wallet Untuk Menampilkan Data'])[1]/following::button[1]</value>
+      <webElementGuid>c70d30d3-3186-490e-bef9-dd6531fd2885</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Saldo'])[1]/preceding::button[1]</value>
+      <webElementGuid>f755ca8d-e8cf-446c-9ab1-249be8e582c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-select/button</value>
+      <webElementGuid>89409147-abc9-4238-8ba5-f6dbed755950</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Wallet Point MSR' or . = 'Wallet Point MSR')]</value>
+      <webElementGuid>60185006-bdaa-4d73-ad0f-1075a84a75ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

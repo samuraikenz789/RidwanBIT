@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3Click ComboBox Opsi</name>
+   <tag></tag>
+   <elementGuidId>cf0d3337-af9b-4f01-8a38-69130b3888c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a1c09f0e-cd63-4050-a0de-29505cf2da8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7ad83d9-ba80-4f0a-9766-79472a7a12c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button</value>
+      <webElementGuid>fac12275-cfa0-4b93-a9cb-b3694096c357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Sales</value>
+      <webElementGuid>47911bdc-84ed-47cf-8f2b-97b569f2f184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-user-mdinfo[1]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row justify-content-between&quot;]/div[@class=&quot;col-6 d-flex flex-row align-items-center&quot;]/div[@class=&quot;col-4 mr-2 p-0&quot;]/nb-select[@class=&quot;mr-4 custom-style pl-2 pr-2 appearance-outline full-width size-medium status-basic shape-rectangle ng-untouched ng-pristine ng-valid nb-transition&quot;]/button[@class=&quot;select-button&quot;]</value>
+      <webElementGuid>262ea263-0bcd-4fff-a3ee-5287a41580ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>0630e746-6fe9-4740-81c9-37e09da23694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-user-mdinfo/div/div/div/div/nb-select/button</value>
+      <webElementGuid>bdbae16f-4c84-4aa7-9c50-59192f2621fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Config Application'])[1]/following::button[1]</value>
+      <webElementGuid>a2c2f733-0586-4ecb-a8d5-bc7f59b6f8ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Form'])[1]/following::button[1]</value>
+      <webElementGuid>63aacf0b-c00a-4e9e-a009-7fbdbf140ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA'])[1]/preceding::button[1]</value>
+      <webElementGuid>48bae7c6-76a4-4a84-922b-d84f4bebb195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>9a760286-3ecf-48e3-a78c-f67f616d63dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Nama Sales' or . = 'Nama Sales')]</value>
+      <webElementGuid>cb2b7ea8-2bc3-45aa-b292-71b42202be8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

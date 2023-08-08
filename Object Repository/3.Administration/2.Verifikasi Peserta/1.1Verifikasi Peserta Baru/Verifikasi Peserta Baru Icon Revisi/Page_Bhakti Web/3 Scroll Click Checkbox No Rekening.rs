@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3 Scroll Click Checkbox No Rekening</name>
+   <tag></tag>
+   <elementGuidId>ce802497-236a-4a00-9f1e-cd03c83375b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-7']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/form[3]/div/div/nb-accordion/nb-accordion-item/nb-accordion-item-header/div/div[2]/div[3]/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eeda1875-9f0c-4baa-a9fc-81649bc3f33b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>e001feb4-2708-4b26-84e0-0d41498fe7b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-7&quot;)/nb-dialog-container[1]/user-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[@class=&quot;modals&quot;]/nb-card-body[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-accordion[1]/nb-accordion-item[@class=&quot;collapsed&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-138 accordion-item-header-collapsed ng-star-inserted&quot;]/div[@class=&quot;row ng-tns-c182-138&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-1&quot;]/nb-checkbox[@class=&quot;status-basic nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>24dfc487-e3ab-4432-9c23-855873d6264c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-7']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/form[3]/div/div/nb-accordion/nb-accordion-item/nb-accordion-item-header/div/div[2]/div[3]/div/nb-checkbox/label/span</value>
+      <webElementGuid>fcc389e5-33d8-4e30-92d0-65ceee09f264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Rekening'])[1]/following::span[1]</value>
+      <webElementGuid>3791383b-d8e7-41ac-9775-c57ac3d9b5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revisi'])[11]/following::span[1]</value>
+      <webElementGuid>68df7ac7-8713-48ad-955f-e97eaba1fae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revisi'])[12]/preceding::span[1]</value>
+      <webElementGuid>4c643c2e-6055-4ffa-8b23-230d6111e045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peserta adalah Dealer / Subdealer:'])[1]/preceding::span[2]</value>
+      <webElementGuid>e735d873-9ed3-4441-ba86-479f54372156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form[3]/div/div/nb-accordion/nb-accordion-item/nb-accordion-item-header/div/div[2]/div[3]/div/nb-checkbox/label/span</value>
+      <webElementGuid>ea85a567-6504-486e-aa57-891a7fc0303d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

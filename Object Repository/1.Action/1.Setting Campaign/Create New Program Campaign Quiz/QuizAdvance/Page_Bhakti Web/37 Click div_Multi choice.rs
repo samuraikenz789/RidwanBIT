@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>37 Click div_Multi choice</name>
+   <tag></tag>
+   <elementGuidId>09ad89e3-01d6-4c39-880b-c9bb472595f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-choice</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-21']/nb-dialog-container/ngx-choose-question-type-modal/div/div/nb-card/nb-card-body/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>694fd147-8163-424e-91b5-7e2a43636239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-choice</value>
+      <webElementGuid>6cf3d258-52ec-4c2a-ada7-5e4589fc8815</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Multi choice</value>
+      <webElementGuid>d3efdedd-343b-42ad-b349-1f14e3b34bed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-21&quot;)/nb-dialog-container[1]/ngx-choose-question-type-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;mt-3 d-flex flex-row flex-wrap&quot;]/div[@class=&quot;col-4 mt-2 mb-2&quot;]/div[@class=&quot;box-choice&quot;]</value>
+      <webElementGuid>48086bc9-08bd-40f9-8d8b-b1cbc53ec035</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-21']/nb-dialog-container/ngx-choose-question-type-modal/div/div/nb-card/nb-card-body/div[2]/div/div</value>
+      <webElementGuid>6d00b0a0-ae09-4d1c-b29f-9b30449aab65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Template'])[1]/following::div[3]</value>
+      <webElementGuid>3c8c35f4-2796-417d-89e9-d4c5e5570a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Match'])[1]/preceding::div[1]</value>
+      <webElementGuid>1010f4c8-29d1-4788-8521-f637c3eb15cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-card-body/div[2]/div/div</value>
+      <webElementGuid>5b1d111e-0f8e-489a-b74a-b420fbe0ab4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Multi choice' or . = 'Multi choice')]</value>
+      <webElementGuid>696a05c3-5796-4ec6-9390-a77f2cefb034</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

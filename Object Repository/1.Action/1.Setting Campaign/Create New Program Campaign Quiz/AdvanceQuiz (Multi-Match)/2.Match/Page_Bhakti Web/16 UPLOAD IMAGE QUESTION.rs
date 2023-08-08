@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>16 UPLOAD IMAGE QUESTION</name>
+   <tag></tag>
+   <elementGuidId>6547516c-db3f-47c9-a5e6-fb4a72f0ca4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[3]/setting-d-quiz/form/nb-tabset/nb-tab[2]/div/div[2]/ngx-question/div[2]/div[2]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>473692fe-bb58-4d20-8441-04a11e6c743c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-icon</value>
+      <webElementGuid>59c609ec-466e-47e4-a32c-74837289bb8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Image</value>
+      <webElementGuid>4c8acc60-7392-42c7-ad1a-25626b8f415c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;p-0 content-active&quot;]/setting-d-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/nb-tabset[1]/nb-tab[@class=&quot;tab-periode-style ng-star-inserted content-active&quot;]/div[@class=&quot;d-flex p-1 flex-row ng-star-inserted&quot;]/div[@class=&quot;col-8 d-flex flex-column ng-star-inserted&quot;]/ngx-question[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-row justify-content-between mt-3&quot;]/div[@class=&quot;d-flex flex-column ng-star-inserted&quot;]/div[@class=&quot;box-icon&quot;]</value>
+      <webElementGuid>d9c5597c-6b42-4f52-9901-493805aeeb54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[3]/setting-d-quiz/form/nb-tabset/nb-tab[2]/div/div[2]/ngx-question/div[2]/div[2]/div[3]</value>
+      <webElementGuid>cd9eaed9-32a6-41d2-93aa-8bd180e27d0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio'])[1]/following::div[1]</value>
+      <webElementGuid>698de193-4621-431d-af18-80d5ca6b620b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/following::div[3]</value>
+      <webElementGuid>51e6bdf5-8ce2-40a8-a921-921c34a355eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Answer 1'])[1]/preceding::div[2]</value>
+      <webElementGuid>edbc1e4e-d706-4491-9a03-2b8baf1b9b19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-question/div[2]/div[2]/div[3]</value>
+      <webElementGuid>69c95b9d-092c-4e71-b73c-3a0827e58c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Image' or . = 'Image')]</value>
+      <webElementGuid>487f2b95-7f88-4fc9-bab4-7b2e99f4be17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

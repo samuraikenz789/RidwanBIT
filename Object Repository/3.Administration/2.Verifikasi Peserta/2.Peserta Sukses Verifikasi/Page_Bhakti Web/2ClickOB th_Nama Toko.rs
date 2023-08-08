@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2ClickOB th_Nama Toko</name>
+   <tag></tag>
+   <elementGuidId>df8809b3-061b-4a83-9585-076860e1d5e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pr_id_8-table > thead.p-datatable-thead > tr.ng-star-inserted > th.p-element.p-sortable-column.p-resizable-column.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//th[(text() = ' Nama Toko ' or . = ' Nama Toko ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>7ebf9507-a69c-4f0c-9241-f7642d235792</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-sortable-column p-resizable-column ng-star-inserted</value>
+      <webElementGuid>bbe7dff1-b901-41ed-8d91-3a803f79bafd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-field</name>
+      <type>Main</type>
+      <value>nama_toko</value>
+      <webElementGuid>7a5af1e6-0f5f-4601-bb35-0a8a00aa74b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a5518504-71b3-43bc-9819-a24a385b06a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>columnheader</value>
+      <webElementGuid>2f10c528-7386-476e-813a-8f49993b1f1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-sort</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>c6a44a3b-92e6-4f42-b40d-beedafa80c42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Nama Toko </value>
+      <webElementGuid>b2eeaabc-8095-4e6b-8811-4a25ad04cc8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_8-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[@class=&quot;p-element p-sortable-column p-resizable-column ng-star-inserted&quot;]</value>
+      <webElementGuid>d085aab9-3318-42d7-8776-f79bea141c5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_8-table']/thead/tr/th</value>
+      <webElementGuid>f9d19bad-137a-49a2-9e7c-08eca893d263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peserta Terverifikasi'])[1]/following::th[1]</value>
+      <webElementGuid>cd6bae95-5c13-4082-8fa7-3878c65f0ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Export To Excel'])[6]/following::th[1]</value>
+      <webElementGuid>91cf64c9-882b-40a1-947c-542b9edc19b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pemilik'])[6]/preceding::th[1]</value>
+      <webElementGuid>cf264f09-439f-4f27-85ff-6c8388be7e9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[6]/preceding::th[2]</value>
+      <webElementGuid>4bf3c8d5-1a85-4e02-98d2-25d924b12a33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/p-tabview/div/div[2]/p-tabpanel/div/p-table/div/div/table/thead/tr/th</value>
+      <webElementGuid>9e1cfb0c-315a-4b33-b47c-1fcdf9ef55d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Nama Toko ' or . = ' Nama Toko ')]</value>
+      <webElementGuid>be304750-7154-470d-828f-5f926b5dddc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

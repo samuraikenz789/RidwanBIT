@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>61Click span_Reward Tiap Soal Berbeda_outer-circle</name>
+   <tag></tag>
+   <elementGuidId>1291f4c5-99b5-4bad-8380-6d4df1d8de35</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[4]/setting-f-quiz/form/div[2]/div/div[2]/div[4]/div/div/nb-radio-group/nb-radio[2]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>41becd61-be43-42dd-a6b0-d489eafcb4a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>outer-circle</value>
+      <webElementGuid>5b02aa51-ead5-4dab-8cc2-bb113956b732</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[1]/campaign-templates[1]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-f-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;col-md-12 my-4 p-3 ng-star-inserted&quot;]/div[@class=&quot;row mt-4 mb-2 ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;col-md-10 mb-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 ng-untouched ng-pristine ng-valid&quot;]/nb-radio-group[1]/nb-radio[@class=&quot;radio-reward col-5 status-basic ng-star-inserted&quot;]/label[1]/span[@class=&quot;outer-circle&quot;]</value>
+      <webElementGuid>95703888-0bb2-4b4d-95ee-8e87581b393a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[4]/setting-f-quiz/form/div[2]/div/div[2]/div[4]/div/div/nb-radio-group/nb-radio[2]/label/span</value>
+      <webElementGuid>08837346-42bb-4a5a-853f-2769d8d5e407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/nb-radio-group/nb-radio[2]/label/span</value>
+      <webElementGuid>c9e26ad5-c8ba-42ff-b02d-d63802d6ef78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

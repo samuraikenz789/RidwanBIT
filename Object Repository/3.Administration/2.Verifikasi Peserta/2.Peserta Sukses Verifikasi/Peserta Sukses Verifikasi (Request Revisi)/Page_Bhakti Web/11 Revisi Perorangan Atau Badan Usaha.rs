@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>11 Revisi Perorangan Atau Badan Usaha</name>
+   <tag></tag>
+   <elementGuidId>5694a3eb-8cbe-4508-aca7-5995cc375525</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.row > div.col-sm-1 > nb-checkbox.status-basic.nb-transition > label.label > span.custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/form[2]/div/div/nb-accordion/nb-accordion-item/nb-accordion-item-header/div/div[2]/div/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a836de6-0c4e-4365-8084-182e29b625fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>dacef2cc-393f-4596-a6a3-e919c9ea97f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/user-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[@class=&quot;modals&quot;]/nb-card-body[1]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-accordion[1]/nb-accordion-item[@class=&quot;expanded&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-77 ng-star-inserted accordion-item-header-expanded&quot;]/div[@class=&quot;row ng-tns-c182-77&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-sm-1&quot;]/nb-checkbox[@class=&quot;status-basic nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>5db92bb6-4ad4-4fee-a9d4-ce858e7c49ee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/form[2]/div/div/nb-accordion/nb-accordion-item/nb-accordion-item-header/div/div[2]/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>c350d824-8b1a-40b3-bd1f-fe9eafcb8c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PERORANGAN'])[1]/following::span[1]</value>
+      <webElementGuid>e8f3e948-ca01-4ac3-9b70-3f4021058b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perorangan / Badan Usaha'])[1]/following::span[1]</value>
+      <webElementGuid>d24a3052-245a-473a-8fc8-4a10e6e96840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revisi'])[11]/preceding::span[1]</value>
+      <webElementGuid>735b1335-b819-4cec-814a-06bb6b37d28c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap (sesuai KTP/NPWP)'])[1]/preceding::span[2]</value>
+      <webElementGuid>e154ce9a-c8b0-4dc0-83f5-0624beb07b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>3ef65434-2740-4630-bab0-aacff2255844</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

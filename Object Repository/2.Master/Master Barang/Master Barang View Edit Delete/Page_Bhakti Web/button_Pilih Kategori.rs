@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Kategori</name>
+   <tag></tag>
+   <elementGuidId>fe170a0c-8d47-4971-90b6-aa8d2a81426c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[8]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.placeholder.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9dd22a59-4aba-4130-97f7-e34abaa97cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>591b6284-3526-4859-9683-4e56129eb06b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>14c72762-31b5-4a7c-8610-d4c29fe802d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>7a8ccb31-6175-4f7d-aa5b-77e3934c6ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Kategori</value>
+      <webElementGuid>7d485a38-6562-4bb8-abea-ff2deee5bb2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/form-master-barang[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-touched ng-dirty ng-invalid&quot;]/div[@class=&quot;row p-3&quot;]/div[@class=&quot;col-md-12&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-primary shape-rectangle ng-untouched ng-pristine nb-transition ng-invalid&quot;]/button[@class=&quot;select-button placeholder cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>1f1b25be-d6df-496b-bb0d-4c9810dcf2d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>e59e8267-cbae-4bb3-83b9-5914c47c86b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/form-master-barang/div/div/nb-card/nb-card-body/form/div[3]/div/nb-select/button</value>
+      <webElementGuid>641316dc-9380-453b-9424-d337e03e746d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Produk'])[1]/following::button[1]</value>
+      <webElementGuid>cf601cf4-b028-4a8a-92be-c10a93434049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BKT'])[6]/following::button[1]</value>
+      <webElementGuid>4b313647-e054-4844-b529-33d2efefd966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product ID'])[2]/preceding::button[1]</value>
+      <webElementGuid>efbd312d-37fa-46ad-91d9-da992e1f6cae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/nb-select/button</value>
+      <webElementGuid>e987df5d-b631-482d-958f-48d09485e890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih Kategori' or . = 'Pilih Kategori')]</value>
+      <webElementGuid>5144456f-c069-4734-95ca-631d3e8d904a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

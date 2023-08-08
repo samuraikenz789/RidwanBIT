@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>14 Setelah Page Down Click butMasukan</name>
+   <tag></tag>
+   <elementGuidId>8b61446b-e505-45ec-b46c-4f46eb5d2d5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.my-2.vertical-center.ng-untouched.ng-pristine.ng-invalid > div.col-md-10 > nb-select.appearance-outline.full-width.size-medium.status-basic.shape-rectangle.ng-untouched.ng-pristine.ng-invalid.nb-transition > button.select-button.placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5c43609-33fb-4d0c-81df-c02887aff393</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c67bc93-ca65-4f89-a6fb-3b39d2bef17b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder</value>
+      <webElementGuid>1f2b0820-4624-4651-a933-0f032bb71fae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>5c563a13-4b28-473b-891c-96717fd3af1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan Jumlah Periode</value>
+      <webElementGuid>cfaed6e9-a3a3-4f3f-9714-6c9425830fcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[1]/campaign-templates[1]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-g-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;border-bonus my-3 p-3 ng-star-inserted&quot;]/div[@class=&quot;row my-2 vertical-center ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;col-md-10&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-basic shape-rectangle ng-untouched ng-pristine ng-invalid nb-transition&quot;]/button[@class=&quot;select-button placeholder&quot;]</value>
+      <webElementGuid>89e3aef8-566b-416a-a303-616acbec8598</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>f4a2a1b3-563e-477c-aee8-1c17423fab06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[4]/setting-g-quiz/form/div[2]/div[2]/div/div/div/div/div[2]/nb-select/button</value>
+      <webElementGuid>a840826a-e75e-4107-a908-c9abe7280cdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Periode'])[1]/following::button[1]</value>
+      <webElementGuid>177f05c1-189e-48cf-8af6-5359ffb5a7c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting G: Aturan Bonus Reward Berdasarkan Periode'])[1]/following::button[1]</value>
+      <webElementGuid>879216ef-de40-452d-9260-31bd7cb1604d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Bonus'])[1]/preceding::button[1]</value>
+      <webElementGuid>1c0feeb1-ee99-4d4d-9775-137e8068f851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[2]/nb-select/button</value>
+      <webElementGuid>3a3b3a61-439c-4c69-aea4-0eb1f5b2a892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Masukkan Jumlah Periode' or . = 'Masukkan Jumlah Periode')]</value>
+      <webElementGuid>e00b0aa8-6ee6-479f-84db-f6df5933435e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

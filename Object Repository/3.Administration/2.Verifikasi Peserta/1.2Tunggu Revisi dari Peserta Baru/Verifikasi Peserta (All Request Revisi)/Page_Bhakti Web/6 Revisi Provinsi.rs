@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6 Revisi Provinsi</name>
+   <tag></tag>
+   <elementGuidId>99849fab-6c85-467d-8513-e874c2594e38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-12 > div.row > div.col-sm-1 > nb-checkbox.status-basic.nb-transition > label.label > span.custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/form/div[2]/div/nb-accordion/nb-accordion-item/nb-accordion-item-header/div/div[2]/div/div/div/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>340282e3-d21f-44dc-8e92-3a006936619b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>098155a0-eae0-485d-8a2c-8c3e69034c44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/user-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[@class=&quot;modals&quot;]/nb-card-body[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-accordion[1]/nb-accordion-item[@class=&quot;collapsed ng-star-inserted&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-104 accordion-item-header-collapsed ng-star-inserted&quot;]/div[@class=&quot;row ng-tns-c182-104&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-1&quot;]/nb-checkbox[@class=&quot;status-basic nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>50543f7d-9d5f-495a-9cba-273ae6740f7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/form/div[2]/div/nb-accordion/nb-accordion-item/nb-accordion-item-header/div/div[2]/div/div/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>9f4f6e8f-b09b-4ac4-bf5c-b596513bfcd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daerah Khusus Ibukota Jakarta'])[1]/following::span[1]</value>
+      <webElementGuid>ea862302-426d-44c2-8278-50aeef02825c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provinsi'])[1]/following::span[1]</value>
+      <webElementGuid>c33e8fd6-f7c1-4898-b2f7-77e01cf57bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revisi'])[7]/preceding::span[1]</value>
+      <webElementGuid>4130e557-8bfc-407e-8ebe-f26e09bb320f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daerah Khusus Ibukota Jakarta (GPS)'])[1]/preceding::span[2]</value>
+      <webElementGuid>27697de6-72b4-404f-be85-0badeb6791be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>92cceffd-9d2c-428e-aafe-2ed123e2f740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

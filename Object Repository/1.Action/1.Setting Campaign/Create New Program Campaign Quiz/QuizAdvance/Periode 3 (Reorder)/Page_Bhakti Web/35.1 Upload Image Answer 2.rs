@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>35.1 Upload Image Answer 2</name>
+   <tag></tag>
+   <elementGuidId>a802518e-af22-4787-8305-eeac23ca9b24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-drop-list-9']/div[2]/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e95068d3-c468-4754-b62a-0cc966a8795f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-icon</value>
+      <webElementGuid>45f7aa41-5f9c-4548-b598-e5ec9ea06a43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-drop-list-9&quot;)/div[@class=&quot;cdk-drag ng-star-inserted&quot;]/div[@class=&quot;col-12 p-0 d-flex flex-row&quot;]/div[@class=&quot;card-option w-100&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/span[@class=&quot;box-icon&quot;]</value>
+      <webElementGuid>ad88e9bd-bb8b-45bf-9679-f348c2703d43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-drop-list-9']/div[2]/div/div[2]/div/span</value>
+      <webElementGuid>33453da8-2ce6-4b47-b22b-aa084e1a75be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Image'])[1]/following::span[5]</value>
+      <webElementGuid>ddca7063-965f-4283-84d1-ae13e7c16eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio'])[1]/following::span[5]</value>
+      <webElementGuid>eb0f6fc2-42a6-4e5b-a0e6-9ef3d61240f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Option'])[1]/preceding::span[8]</value>
+      <webElementGuid>6d158775-93a4-4b45-8924-861916843eac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Question'])[4]/preceding::span[8]</value>
+      <webElementGuid>026ac688-e5bc-485d-8e3a-e2079579b3b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/span</value>
+      <webElementGuid>452dbd2f-989c-4dd4-bbfc-b7aee8461e0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

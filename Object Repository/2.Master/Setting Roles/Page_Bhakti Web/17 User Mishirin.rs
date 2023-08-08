@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>17 User Mishirin</name>
+   <tag></tag>
+   <elementGuidId>3f5462e9-aa02-426a-88a4-97498de5061b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-accordion-item-header.ng-tns-c182-62.ng-star-inserted.accordion-item-header-expanded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[13]/nb-accordion-item-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-accordion-item-header</value>
+      <webElementGuid>934e9cb6-c822-4cc5-ab31-061fa97492ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c182-62 ng-star-inserted accordion-item-header-expanded</value>
+      <webElementGuid>dde67c9d-d9a0-4d54-a93e-1dbf6e60f7bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>55900777-353a-45f4-81b7-3f5856c06b30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>461197a5-3bdc-4064-9dc4-b041c6454f72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>5a8782c7-7896-4a23-b08b-8e78024a5935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Mishirin</value>
+      <webElementGuid>2edca99f-052b-4ea0-bfb3-35afa6c07982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-roles-menus[1]/nb-accordion[@class=&quot;box-noshadow&quot;]/nb-accordion-item[@class=&quot;ng-star-inserted expanded&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-62 ng-star-inserted accordion-item-header-expanded&quot;]</value>
+      <webElementGuid>d4e00938-51cb-4c3f-b2e1-39196f8db4f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[13]/nb-accordion-item-header</value>
+      <webElementGuid>81d55c4c-36ba-4afd-b41b-e6e6c2c205a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[12]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>f3280f73-801f-49a8-b748-84d238c452e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[12]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>2babcc0f-a6d0-4cac-9074-ab4813ec3bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[13]/preceding::nb-accordion-item-header[1]</value>
+      <webElementGuid>b8c7e740-bd34-47ef-a6ac-8a4a941972a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-accordion-item[13]/nb-accordion-item-header</value>
+      <webElementGuid>896e24d2-a7f3-4c20-905e-9159231c1e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-accordion-item-header[(text() = 'User Mishirin' or . = 'User Mishirin')]</value>
+      <webElementGuid>1fab4503-fcca-4c3c-be69-e4e933bee180</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

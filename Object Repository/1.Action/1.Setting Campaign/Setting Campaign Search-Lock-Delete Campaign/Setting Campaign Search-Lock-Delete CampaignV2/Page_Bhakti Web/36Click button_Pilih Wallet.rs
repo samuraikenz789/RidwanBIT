@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>36Click button_Pilih Wallet</name>
+   <tag></tag>
+   <elementGuidId>fb1c6856-1d44-464a-9ea1-9e0227a6f28e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-select.mt-1.appearance-outline.full-width.size-medium.status-primary.shape-rectangle.ng-untouched.ng-pristine.ng-invalid.nb-transition > button.select-button.placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[42]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7a5bf9f7-3006-4e2f-a7bd-b64d5af2bb1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3c5d3ec4-8f75-4363-acb7-44fb3f866786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder</value>
+      <webElementGuid>e513ff33-fe80-4cdd-b8cd-7047629b9357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>8fa17af3-efb8-40dc-a10e-a6b26f01fddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Wallet</value>
+      <webElementGuid>1b7dab7d-406b-442c-b53f-0d2c490b5b85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-11&quot;)/nb-dialog-container[1]/form-setting-peringkat[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mt-1 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;col-md-6&quot;]/nb-select[@class=&quot;mt-1 appearance-outline full-width size-medium status-primary shape-rectangle ng-untouched ng-pristine ng-invalid nb-transition&quot;]/button[@class=&quot;select-button placeholder&quot;]</value>
+      <webElementGuid>e1dd466b-82e0-4de4-a4e9-8fee4da1ca56</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[42]</value>
+      <webElementGuid>e339f567-44ab-42d9-a92b-0f4ee3d2eaeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-11']/nb-dialog-container/form-setting-peringkat/div/div/nb-card/nb-card-body/form/div/div[3]/div/div[2]/nb-select/button</value>
+      <webElementGuid>784076f3-049e-4cb0-b6a8-33e45c6eac95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting Reward'])[1]/following::button[1]</value>
+      <webElementGuid>e2d5babc-4beb-49a9-bfb3-bda3f5064d62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SD'])[1]/following::button[1]</value>
+      <webElementGuid>e618e3aa-da9f-47aa-9183-43b59715caf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::button[1]</value>
+      <webElementGuid>41f010a8-b86e-42e2-aefe-fd74f1024f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/nb-select/button</value>
+      <webElementGuid>e5f96b48-c314-4bcb-8441-2a1b732ac158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih Wallet' or . = 'Pilih Wallet')]</value>
+      <webElementGuid>5b61b9a4-72ad-4494-946d-f6e33842d990</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

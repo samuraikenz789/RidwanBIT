@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_KALIMANTAN</name>
+   <tag></tag>
+   <elementGuidId>b5f8082d-0fd1-4d92-8ef5-d042fa85c93d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/ngx-campaign-scan/div/nb-card/nb-card-body/ngx-campaign-scan-detail/div/div/div/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cc8f429e-b976-4f9e-b554-81fb60a6a59a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>badge ng-star-inserted</value>
+      <webElementGuid>03fec361-6ed8-4b14-afef-abcaefbf06fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>KALIMANTAN</value>
+      <webElementGuid>912f3c1c-4df6-47c0-883f-ea192ebe4146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-monitoring[@class=&quot;ng-star-inserted&quot;]/ngx-campaign-scan[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/ngx-campaign-scan-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mt-4 w-100&quot;]/div[@class=&quot;col d-flex flex-row justify-content-between p-0&quot;]/div[@class=&quot;col d-flex flex-row&quot;]/span[@class=&quot;badge ng-star-inserted&quot;]</value>
+      <webElementGuid>16a91610-9e85-439a-b6da-7bc87080e846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/ngx-campaign-scan/div/nb-card/nb-card-body/ngx-campaign-scan-detail/div/div/div/span[3]</value>
+      <webElementGuid>ea53c860-a6bd-458b-bf1c-3586103ea994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA'])[1]/following::span[1]</value>
+      <webElementGuid>baa87247-67ce-4188-a91c-a62985ae8efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEMARANG'])[1]/following::span[2]</value>
+      <webElementGuid>07f65ca0-0f52-4f50-827a-15c7fd6295a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BALI'])[1]/preceding::span[1]</value>
+      <webElementGuid>7f63f825-fd11-41f2-957a-e709c56626ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Result'])[1]/preceding::span[2]</value>
+      <webElementGuid>c296cac7-963e-431d-afdc-7a6e46a1ed83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='KALIMANTAN']/parent::*</value>
+      <webElementGuid>37476e3c-0a7b-413c-bceb-bebcffe25434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]</value>
+      <webElementGuid>95093a5f-c03f-4f87-a59b-e20bb2fc6e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'KALIMANTAN' or . = 'KALIMANTAN')]</value>
+      <webElementGuid>876b721e-7d88-4a36-9133-b8334c000853</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

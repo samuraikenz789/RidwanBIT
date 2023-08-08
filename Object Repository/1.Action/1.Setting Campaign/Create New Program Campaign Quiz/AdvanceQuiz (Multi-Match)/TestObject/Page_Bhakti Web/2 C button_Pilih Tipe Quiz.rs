@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2 C button_Pilih Tipe Quiz</name>
+   <tag></tag>
+   <elementGuidId>6caad995-d6fd-4429-98cf-64b365dd63ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-select.appearance-outline.full-width.size-medium.status-basic.shape-rectangle.ng-untouched.ng-pristine.ng-invalid.nb-transition > button.select-button.placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>96a6c2cb-0984-4e10-bf07-a71885e24720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8c37e754-cf27-449b-8f0d-b2d248590da9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder</value>
+      <webElementGuid>07b37892-53eb-49db-8702-34e221e1b2f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>03716d2c-c348-48f2-a9cd-ca89bf814f42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Tipe Quiz</value>
+      <webElementGuid>74b078e3-a114-4eec-8407-810f677700eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-c-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-dirty ng-touched ng-invalid&quot;]/div[@class=&quot;row ng-dirty ng-touched ng-invalid&quot;]/div[@class=&quot;col-md-12 my-4 p-3 ng-star-inserted&quot;]/div[@class=&quot;row mt-4 mb-2 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;col-md-9 mb-2&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-basic shape-rectangle ng-untouched ng-pristine ng-invalid nb-transition&quot;]/button[@class=&quot;select-button placeholder&quot;]</value>
+      <webElementGuid>9308083b-8861-49e3-958b-7ed268ceabff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>4352fe6e-97da-4422-8a93-31a0b42e9397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[2]/setting-c-quiz/form/div[2]/div[2]/div[2]/div[2]/nb-select/button</value>
+      <webElementGuid>34afedda-c33c-462c-b24a-8ffa169ec263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Quiz'])[2]/following::button[1]</value>
+      <webElementGuid>6159bcce-557c-47ff-a700-e00464ef3366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Periode 2'])[1]/following::button[1]</value>
+      <webElementGuid>4c1e3ce6-ec0c-4850-b54e-1bfa17fe9e61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Mulai Quiz'])[2]/preceding::button[1]</value>
+      <webElementGuid>a99e7307-2700-43bc-a346-ace74013542e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/nb-select/button</value>
+      <webElementGuid>3a454af5-8088-4a83-94b6-2651d0648f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih Tipe Quiz' or . = 'Pilih Tipe Quiz')]</value>
+      <webElementGuid>ec78e9f5-08c4-4684-ab40-ff9661e06a44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

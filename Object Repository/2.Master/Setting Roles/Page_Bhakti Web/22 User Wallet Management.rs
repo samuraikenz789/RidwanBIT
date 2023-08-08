@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>22 User Wallet Management</name>
+   <tag></tag>
+   <elementGuidId>ff86fcbb-0393-4309-9e15-386fa5ee8cb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-accordion-item-header.ng-tns-c182-72.accordion-item-header-collapsed.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[18]/nb-accordion-item-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-accordion-item-header</value>
+      <webElementGuid>36ded22c-6aa7-461a-b9c1-a09847f72cd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c182-72 accordion-item-header-collapsed ng-star-inserted</value>
+      <webElementGuid>86abcd0f-b0d4-4603-a502-7a53b604fc69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>845d7d99-2bae-4e49-b498-d6d7b3cd5c25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>3f8bab54-1d7a-4d95-909a-5ff5e9626edc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>03e10ee1-b416-462a-b405-ba4f246cbb8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Wallet Management</value>
+      <webElementGuid>4c32467d-bab6-41ff-9c49-048ecaefc794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-roles-menus[1]/nb-accordion[@class=&quot;box-noshadow&quot;]/nb-accordion-item[@class=&quot;collapsed ng-star-inserted&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-72 accordion-item-header-collapsed ng-star-inserted&quot;]</value>
+      <webElementGuid>9a0cdf1f-a77b-45dc-94ce-69603d2b4fe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[18]/nb-accordion-item-header</value>
+      <webElementGuid>cf8b73d4-7853-4388-9af0-f678d020d17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[17]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>f496d10b-6f6f-4e99-97a8-ded7a7d6e364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[17]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>03a23956-991c-4e2b-a442-a799b24a1e78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[18]/preceding::nb-accordion-item-header[1]</value>
+      <webElementGuid>fd586e5e-b318-4a84-bc4f-39a598a54733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-accordion-item[18]/nb-accordion-item-header</value>
+      <webElementGuid>28013b95-6485-49b1-aba8-df5eb4a6da6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-accordion-item-header[(text() = 'User Wallet Management' or . = 'User Wallet Management')]</value>
+      <webElementGuid>1510c7f2-b3ed-4bbd-b3f5-981209e007a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

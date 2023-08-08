@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10.1 Read</name>
+   <tag></tag>
+   <elementGuidId>eeaa7870-b224-4fb9-a121-7a6bf3005b3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-column.ng-tns-c181-49 > div.d-flex.flex-row.mb-2 > p-checkbox[name=&quot;filter-cabang&quot;] > div.p-checkbox.p-component > div.p-checkbox-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[6]/nb-accordion-item-body/div/div/div/div/p-checkbox/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>71e03c9a-d084-47ea-8e6c-d15b16bf9853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box</value>
+      <webElementGuid>1d3ac162-7cfb-4299-9aa8-05ea60f8850b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>0382202f-1f51-4297-916a-571e22c892d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-roles-menus[1]/nb-accordion[@class=&quot;box-noshadow&quot;]/nb-accordion-item[@class=&quot;ng-star-inserted expanded&quot;]/nb-accordion-item-body[@class=&quot;ng-tns-c181-49 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c181-49 ng-trigger ng-trigger-accordionItemBody&quot;]/div[@class=&quot;item-body ng-tns-c181-49&quot;]/div[@class=&quot;d-flex flex-column ng-tns-c181-49&quot;]/div[@class=&quot;d-flex flex-row mb-2&quot;]/p-checkbox[@class=&quot;p-element mr-2 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box&quot;]</value>
+      <webElementGuid>d723095b-10c5-46e4-8da4-b8611cb7eed6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[6]/nb-accordion-item-body/div/div/div/div/p-checkbox/div/div[2]</value>
+      <webElementGuid>dae9e33b-ed5c-4320-8741-6180e3fb51f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Redeem'])[2]/following::div[7]</value>
+      <webElementGuid>6732279c-746e-4b94-acc6-f91098e7886b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[5]/following::div[9]</value>
+      <webElementGuid>e88458c4-c86b-4923-9929-c3fb06158622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[6]/preceding::div[1]</value>
+      <webElementGuid>64170c3b-cedc-4180-a5af-f0f91df7167b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[6]/preceding::div[4]</value>
+      <webElementGuid>ecb53558-1ed8-48ba-b879-8cd7dbdf476b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-accordion-item[6]/nb-accordion-item-body/div/div/div/div/p-checkbox/div/div[2]</value>
+      <webElementGuid>53ef299b-d2ba-4c3b-ac45-1ae7b5a802eb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

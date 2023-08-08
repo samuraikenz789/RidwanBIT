@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>18 Verifikasi Peserta</name>
+   <tag></tag>
+   <elementGuidId>5832c21e-ee83-43a0-a1da-7dc9b5cc5625</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-accordion-item-header.ng-tns-c182-64.ng-star-inserted.accordion-item-header-collapsed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[14]/nb-accordion-item-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-accordion-item-header</value>
+      <webElementGuid>3a78dce9-2d85-4b9f-8f9e-8ed1cf61192d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c182-64 ng-star-inserted accordion-item-header-collapsed</value>
+      <webElementGuid>2fe49e57-34e7-4a01-abf8-ad7ff705c67d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>be776765-d12f-47f5-8fd9-531ce7ad47c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>426970b1-6043-4c9a-9f5b-d17ef64375f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>0bca36a4-a0cb-4036-a792-cc9464813e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verifikasi Peserta</value>
+      <webElementGuid>a791a944-bac6-4b60-aa6c-f5b7b97ebb4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-roles-menus[1]/nb-accordion[@class=&quot;box-noshadow&quot;]/nb-accordion-item[@class=&quot;ng-star-inserted collapsed&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-64 ng-star-inserted accordion-item-header-collapsed&quot;]</value>
+      <webElementGuid>5f207a82-823a-4dc3-a535-fcc38fdd07d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[14]/nb-accordion-item-header</value>
+      <webElementGuid>e5ad2a82-9304-4436-b5b6-14929fcc1b22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[13]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>c6d2c0d6-cc14-4fcc-a8b3-182123cc8ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[13]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>f6973c41-af6c-4fec-873d-67ed03d72694</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[14]/preceding::nb-accordion-item-header[1]</value>
+      <webElementGuid>540e1ae8-d810-4c7b-a4be-0c73f970b37c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-accordion-item[14]/nb-accordion-item-header</value>
+      <webElementGuid>55c49b23-df03-4330-aa08-65baf691ec69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-accordion-item-header[(text() = 'Verifikasi Peserta' or . = 'Verifikasi Peserta')]</value>
+      <webElementGuid>e2d572ac-9576-404e-9b93-0bc11f8ef36d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

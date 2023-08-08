@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>16 Setting Roles</name>
+   <tag></tag>
+   <elementGuidId>9e6a3f6a-1a00-4f53-920d-07248a5b5ea9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-accordion-item-header.ng-tns-c182-60.accordion-item-header-collapsed.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[12]/nb-accordion-item-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-accordion-item-header</value>
+      <webElementGuid>ba76245c-0b54-4e20-aca2-3041dc8b0230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c182-60 accordion-item-header-collapsed ng-star-inserted</value>
+      <webElementGuid>64f6f4ba-fcd8-446a-b8a4-fa76414a6923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fde9a938-44ea-40b0-a436-1e8b4a0904c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>485b1b41-6318-42e9-9db2-6cf244928566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6016439c-c721-4063-83e5-6b3695281a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setting Roles</value>
+      <webElementGuid>93e5ca38-f775-40ad-b434-31403579d314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-roles-menus[1]/nb-accordion[@class=&quot;box-noshadow&quot;]/nb-accordion-item[@class=&quot;collapsed ng-star-inserted&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-60 accordion-item-header-collapsed ng-star-inserted&quot;]</value>
+      <webElementGuid>fa238c61-ee3b-4483-9680-a6d189eae289</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[12]/nb-accordion-item-header</value>
+      <webElementGuid>901d2aa0-e3e3-46e2-a56f-0f71a4f56103</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[11]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>289ffe41-1be3-40c3-bbd4-1390d45d3ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[11]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>8a39c88d-3a50-4f9c-83cb-5e571c568e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[12]/preceding::nb-accordion-item-header[1]</value>
+      <webElementGuid>9220a2cf-7082-4ffb-9fdc-730f02dd4eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-accordion-item[12]/nb-accordion-item-header</value>
+      <webElementGuid>f8d109df-8496-4bfe-8638-ab9817816e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-accordion-item-header[(text() = 'Setting Roles' or . = 'Setting Roles')]</value>
+      <webElementGuid>c8867e67-fc3e-4f01-b574-114ea14d6a1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

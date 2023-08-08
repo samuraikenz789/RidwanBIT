@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>5Click button_Jawaban Benar untuk mendapatkan reward</name>
+   <tag></tag>
+   <elementGuidId>94f4966b-01bf-4804-9e99-810f953e1728</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-10 > nb-select.appearance-outline.full-width.size-medium.status-basic.shape-rectangle.ng-untouched.ng-pristine.ng-valid.nb-transition > button.select-button.placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[23]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e77223ae-ca25-4386-afb3-db450f46b238</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b6678eb9-686e-4cd1-9533-d2432a17fa6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder</value>
+      <webElementGuid>f35423e3-7718-401c-983c-7f711c13d493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>e41c8ee5-bedf-4d22-a55c-2e6b029045c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jawaban Benar untuk mendapatkan reward</value>
+      <webElementGuid>5647c584-51bb-4d5e-a24d-b4bdaa6e2a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-e-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row p-3 mx-1 border-aturan-reward&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;ng-invalid ng-star-inserted ng-dirty ng-touched&quot;]/div[@class=&quot;row my-4 vertical-center&quot;]/div[@class=&quot;col-md-10&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-basic shape-rectangle ng-untouched ng-pristine ng-valid nb-transition&quot;]/button[@class=&quot;select-button placeholder&quot;]</value>
+      <webElementGuid>d42fd427-6c05-4116-80b5-8f63e3c143c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[23]</value>
+      <webElementGuid>d6c01bf4-aa0b-4a00-acf1-89091b5caf15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[4]/setting-e-quiz/form/div[2]/div/div[2]/div/div[2]/div[2]/nb-select/button</value>
+      <webElementGuid>aae588c3-a8e7-4ff7-b5dc-b4bb63f35b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawaban Benar Untuk Mendapatkan Reward'])[1]/following::button[1]</value>
+      <webElementGuid>3b906610-62ec-4219-9a71-e2496b792172</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Rupiah MSR'])[1]/following::button[1]</value>
+      <webElementGuid>d1cf647f-5c07-49ea-b109-1e84565f22a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting F: Aturan Reward Per Soal'])[1]/preceding::button[1]</value>
+      <webElementGuid>daddcacc-77a6-40dc-859b-3d29df3673b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/div[2]/nb-select/button</value>
+      <webElementGuid>4c029deb-bae0-49f1-b38d-4c366e3abbdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Jawaban Benar untuk mendapatkan reward' or . = 'Jawaban Benar untuk mendapatkan reward')]</value>
+      <webElementGuid>60c2e28b-9ddd-41b4-8dc0-319127792371</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

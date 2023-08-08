@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4Click button_Search with</name>
+   <tag></tag>
+   <elementGuidId>a97443a9-a391-4a4f-8adf-5169938e9faf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6 > nb-select.appearance-outline.full-width.size-medium.status-primary.shape-rectangle.nb-transition > button.select-button.placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[40]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8b43ff99-c25c-4775-9490-c36b6988ee02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>67cf3a94-eec4-4ecf-8560-08abda81199b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder</value>
+      <webElementGuid>0fbb6a17-7762-4bba-8451-159b27ce0837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>a001a6d9-472d-49c9-aaf4-0cabb4a5d51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search with ...</value>
+      <webElementGuid>0c19a071-88a6-45e6-bd11-bf388a12aa07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/browse-user-for-cakupan[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-md-6&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-primary shape-rectangle nb-transition&quot;]/button[@class=&quot;select-button placeholder&quot;]</value>
+      <webElementGuid>84a16e1e-cd81-4c88-8f3f-70afcee7d198</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[40]</value>
+      <webElementGuid>dd920517-0bf8-4c8d-be8c-0f9d36380e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/browse-user-for-cakupan/div/div/nb-card/nb-card-body/div/div[2]/nb-card/nb-card-body/div/div/nb-select/button</value>
+      <webElementGuid>8aa595e1-614c-4e33-a44e-b4dbdc66f8a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Data User'])[1]/following::button[1]</value>
+      <webElementGuid>955ef31d-cfa2-42da-84dc-4ca591bce682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>5c15cb5f-53c5-4a71-931b-0e55063cd76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-card-body/div/div/nb-select/button</value>
+      <webElementGuid>d75d2b1b-8caa-4ef3-b0ed-0cb108086aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Search with ...' or . = 'Search with ...')]</value>
+      <webElementGuid>99755a48-51b0-4788-ba63-f9d8c105b0ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

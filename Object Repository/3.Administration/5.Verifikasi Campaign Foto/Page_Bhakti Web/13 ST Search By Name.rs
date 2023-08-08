@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>13 ST Search By Name</name>
+   <tag></tag>
+   <elementGuidId>0d32e4b5-40dc-497f-9f70-b4cf605772a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#pr_id_2-table > thead.p-datatable-thead > tr:nth-of-type(2) > th > div.p-inputgroup > input.p-inputtext.p-component.p-element.p-column-filter</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5f01221d-3081-4736-8440-b58e82e14143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>64f5445e-0e2d-472b-8325-abe2d6a002f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-element p-column-filter</value>
+      <webElementGuid>2383a646-4443-4760-a858-f33309917e95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_2-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[2]/th[1]/div[@class=&quot;p-inputgroup&quot;]/input[@class=&quot;p-inputtext p-component p-element p-column-filter&quot;]</value>
+      <webElementGuid>2554fddd-e9c7-4b27-8dd5-6177b3815398</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>8dce6032-358f-4622-90d0-50e1238a0e9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_2-table']/thead/tr[2]/th/div/input</value>
+      <webElementGuid>3b1ed875-c26b-4de0-bd56-bc7e66331278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-tabpanel[2]/div/div/div/p-table/div/div/table/thead/tr[2]/th/div/input</value>
+      <webElementGuid>5afbc873-3644-4487-b8bc-58f80a7d9522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>0879cc73-06a0-42e2-bbda-e01dcb2c2b41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>29 Monitoring Sys Action Log</name>
+   <tag></tag>
+   <elementGuidId>fab1632f-be41-4cf1-a0f9-280d1c96b76e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-accordion-item-header.ng-tns-c182-86.ng-star-inserted.accordion-item-header-expanded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[25]/nb-accordion-item-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-accordion-item-header</value>
+      <webElementGuid>aa290476-8102-4a28-bed9-413076d65ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c182-86 ng-star-inserted accordion-item-header-expanded</value>
+      <webElementGuid>b2f72e53-8752-4496-ab42-22ac2d903b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6cac2c1b-37d5-48db-b3b8-1f641f65d6a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>b42abf97-15c6-4c5c-8cfc-e7173a5ebfd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>8470f614-124a-401b-bd49-dc3f8a54e00c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monitoring Sys Action Log</value>
+      <webElementGuid>b831cecd-e43f-41db-99a0-9e97202865e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-roles-menus[1]/nb-accordion[@class=&quot;box-noshadow&quot;]/nb-accordion-item[@class=&quot;ng-star-inserted expanded&quot;]/nb-accordion-item-header[@class=&quot;ng-tns-c182-86 ng-star-inserted accordion-item-header-expanded&quot;]</value>
+      <webElementGuid>2afe5675-b210-4ff6-abf9-5329b089282c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-roles-menus/nb-accordion/nb-accordion-item[25]/nb-accordion-item-header</value>
+      <webElementGuid>dfa92a59-387a-4b56-910f-5acfe2848d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write'])[24]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>7bd26532-c32d-4033-85e9-941a8422a364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[24]/following::nb-accordion-item-header[1]</value>
+      <webElementGuid>8b569c47-dcdf-49b7-a6fe-ea0bd2c3c75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read'])[25]/preceding::nb-accordion-item-header[1]</value>
+      <webElementGuid>c08970d0-01b1-4292-9dbd-7fb1dfa89700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-accordion-item[25]/nb-accordion-item-header</value>
+      <webElementGuid>e4c72eca-c379-4ec5-8660-bb1ca33e59c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-accordion-item-header[(text() = 'Monitoring Sys Action Log' or . = 'Monitoring Sys Action Log')]</value>
+      <webElementGuid>7fb29288-71a1-44ca-9e2f-a59625942ba5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

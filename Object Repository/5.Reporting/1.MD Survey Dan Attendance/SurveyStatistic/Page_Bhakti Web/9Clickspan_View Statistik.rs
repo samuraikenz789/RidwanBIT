@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>9Clickspan_View Statistik</name>
+   <tag></tag>
+   <elementGuidId>7c1c684d-1be2-4e1f-ad4a-04261b9f8d60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_1-table']/tbody/tr/td[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn-outline</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5762e7b1-bd3f-4d33-b0a6-4a51fff60595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-outline</value>
+      <webElementGuid>b26a55a6-86cc-4625-968b-35ead4744b2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View Statistik</value>
+      <webElementGuid>8e65c268-5df4-43e7-80e9-70f5c3068252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_1-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;text-center&quot;]/span[@class=&quot;btn-outline&quot;]</value>
+      <webElementGuid>488a27e5-28e3-483e-9352-189bd60ed36c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_1-table']/tbody/tr/td[5]/span</value>
+      <webElementGuid>72fd6c36-6db4-4283-bd67-e3273ea2a603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='survey mishirin'])[1]/following::span[1]</value>
+      <webElementGuid>d739a0e8-f3ff-44f2-ab43-ec1753f17573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Respondents'])[1]/following::span[1]</value>
+      <webElementGuid>a8d5a010-6112-45a4-b0f0-3369441c6003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='survey mishirin perbaikan'])[1]/preceding::span[1]</value>
+      <webElementGuid>791229b4-c52b-4a92-8627-abb170ff6941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Statistik'])[2]/preceding::span[1]</value>
+      <webElementGuid>fbeb01d4-01b6-4ebb-a85a-bfa754a87bcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View Statistik']/parent::*</value>
+      <webElementGuid>25d9ec38-0b2c-4d90-9ac8-1692747187e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/span</value>
+      <webElementGuid>4ddbf6fb-31c1-4362-ac11-65dbec7038ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View Statistik' or . = 'View Statistik')]</value>
+      <webElementGuid>0c7293e7-1344-4270-966d-93e504c37238</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

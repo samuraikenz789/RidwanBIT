@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1Click Checkbox Permintaan Revisi</name>
+   <tag></tag>
+   <elementGuidId>1cb0809c-2ba3-4c5c-a872-43549b93997c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12 > nb-checkbox.status-basic.ng-untouched.ng-pristine.ng-valid.nb-transition > label.label > span.custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c5acac9-f837-4510-afbf-dc3dac9dc1ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>be99bebf-8e7a-432a-b738-5b1c39de980f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/user-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[@class=&quot;modals&quot;]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-checkbox[@class=&quot;status-basic ng-untouched ng-pristine ng-valid nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>ef370b43-b7ca-4da1-9189-e4d5e72ef919</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>fe6439a8-64bd-413f-9264-713928a6c396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='latitude:-6.1905629, longitude:106.765933'])[1]/following::span[1]</value>
+      <webElementGuid>80202edc-8699-4358-948f-39158c1cab49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko: ridwan owner'])[1]/following::span[1]</value>
+      <webElementGuid>21d0fe55-331d-4c3c-83b5-c37684a1f752</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permintaan Revisi'])[1]/preceding::span[1]</value>
+      <webElementGuid>35543e82-c833-452d-9ebb-880b625d05aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Toko'])[7]/preceding::span[2]</value>
+      <webElementGuid>780a9635-9e56-4469-b2c4-270aa3651224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//user-detail/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>1c14122a-dd30-4def-a4eb-ec5f9df42868</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

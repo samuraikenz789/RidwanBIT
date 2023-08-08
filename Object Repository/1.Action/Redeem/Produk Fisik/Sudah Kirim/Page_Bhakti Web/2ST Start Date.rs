@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2ST Start Date</name>
+   <tag></tag>
+   <elementGuidId>890e0249-50d6-42c1-b955-5dcf10f7ec74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='date'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#p-tabpanel-1 > div.row.my-2 > div.col-md > input.ng-untouched.ng-pristine.ng-valid.size-medium.status-basic.shape-rectangle.nb-transition</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c4c30f21-5ea0-4d04-8cb2-02006bf6e3ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>date</value>
+      <webElementGuid>b563d744-9e28-4e56-82b3-e46bf46869fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-model</name>
+      <type>Main</type>
+      <value>2023-06-28</value>
+      <webElementGuid>9908b520-1be8-435c-87e8-696215aae26c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid size-medium status-basic shape-rectangle nb-transition</value>
+      <webElementGuid>3e1cb58a-dc27-4d89-b581-1556f25cbdd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-1&quot;)/div[@class=&quot;row my-2&quot;]/div[@class=&quot;col-md&quot;]/input[@class=&quot;ng-untouched ng-pristine ng-valid size-medium status-basic shape-rectangle nb-transition&quot;]</value>
+      <webElementGuid>ec0db42d-99d7-4e86-95ea-9e2741aa88cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='date'])[3]</value>
+      <webElementGuid>bccd10aa-3ada-4dab-bec2-faee74aad828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-1']/div[2]/div[4]/input</value>
+      <webElementGuid>697d236a-cfc6-42fd-adcc-cfd02c74a1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-tabpanel[2]/div/div[2]/div[4]/input</value>
+      <webElementGuid>f3397470-b5e8-4cab-a4cc-7ab09e1c9ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'date']</value>
+      <webElementGuid>89d94846-de46-4ecd-9746-14703ccd9114</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

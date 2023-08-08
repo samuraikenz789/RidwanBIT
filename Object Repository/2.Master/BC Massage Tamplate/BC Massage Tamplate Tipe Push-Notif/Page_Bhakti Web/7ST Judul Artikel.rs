@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>7ST Judul Artikel</name>
+   <tag></tag>
+   <elementGuidId>e01c22d9-6cfe-4465-977c-3cbb07f8c514</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ng-pristine.ng-valid.input-full-width.size-medium.status-basic.shape-rectangle.nb-transition.ng-touched.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[6]/nb-card/nb-card-body/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cc764cc7-1586-44b3-a78f-70327b1fcd37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Judul Artikel</value>
+      <webElementGuid>c972cab0-59f2-46c4-835b-62d6896c4767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-valid input-full-width size-medium status-basic shape-rectangle nb-transition ng-touched cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>a54320c2-496f-4793-bf89-93d20442c839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-master[@class=&quot;ng-star-inserted&quot;]/ngx-ckeditor-msg-template[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mb-0&quot;]/nb-card[1]/nb-card-body[1]/input[@class=&quot;ng-pristine ng-valid input-full-width size-medium status-basic shape-rectangle nb-transition ng-touched cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>37b6d1a6-9fd3-4ab0-94c5-467e2dd9202e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[6]/nb-card/nb-card-body/input</value>
+      <webElementGuid>65c7bf00-2510-48eb-9e60-c8fe776fe01a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-card-body/input</value>
+      <webElementGuid>2cb8cd74-a11c-4a1e-9279-3f009dcd5862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Judul Artikel']</value>
+      <webElementGuid>6cb37b37-8a4c-4392-94ca-5ee6ffb71604</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

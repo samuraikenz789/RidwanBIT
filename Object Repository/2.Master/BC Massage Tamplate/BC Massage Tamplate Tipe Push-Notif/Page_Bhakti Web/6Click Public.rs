@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6Click Public</name>
+   <tag></tag>
+   <elementGuidId>75db607d-e660-48cb-bda5-5d3e47f17de4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toggle.ng-tns-c252-118</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[3]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c903c52a-4487-4a4c-bb9b-18a378c629a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle ng-tns-c252-118</value>
+      <webElementGuid>92d151df-3408-4c31-8b51-21d408383376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-master[@class=&quot;ng-star-inserted&quot;]/ngx-ckeditor-msg-template[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/nb-card[1]/nb-card-body[1]/nb-toggle[@class=&quot;ng-tns-c252-118 status-success toggle-label-end ng-untouched ng-pristine ng-valid ng-star-inserted nb-transition&quot;]/label[@class=&quot;toggle-label ng-tns-c252-118&quot;]/div[@class=&quot;toggle ng-tns-c252-118&quot;]</value>
+      <webElementGuid>9d9b30fc-4d97-4f12-a11d-67c34835aac8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[3]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      <webElementGuid>57b63df3-65d4-4cd6-aaaf-265e3acc9395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/following::div[1]</value>
+      <webElementGuid>5f1f7c8a-05d0-461f-956d-39b7903d6e93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow Broadcast'])[1]/following::div[3]</value>
+      <webElementGuid>52dede72-bdd3-48cc-aad6-f88eb9c762e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[2]</value>
+      <webElementGuid>960ce3a8-6af0-4dd6-95b8-fcfa93d96607</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rich Text Editor, editor1'])[1]/preceding::div[4]</value>
+      <webElementGuid>6a586ab0-f8e4-45ad-a78a-572e606fcb0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      <webElementGuid>94cdced2-2d7b-4752-97c9-b4ca3d05feb4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

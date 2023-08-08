@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>53 C div_Match</name>
+   <tag></tag>
+   <elementGuidId>c11fbeb7-d799-46b9-b082-34a554f69208</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-24']/nb-dialog-container/ngx-choose-question-type-modal/div/div/nb-card/nb-card-body/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1b6e826-58ae-4d42-84e5-e1053b49c9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-choice</value>
+      <webElementGuid>999677d8-9b14-49a6-8fc5-8a2092fcbe19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Match</value>
+      <webElementGuid>b2259f99-243c-43dd-b527-b32eed16387a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-24&quot;)/nb-dialog-container[1]/ngx-choose-question-type-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;mt-3 d-flex flex-row flex-wrap&quot;]/div[@class=&quot;col-4 mt-2 mb-2&quot;]/div[@class=&quot;box-choice&quot;]</value>
+      <webElementGuid>e254b308-0882-4d24-9ef6-8725e4081106</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-24']/nb-dialog-container/ngx-choose-question-type-modal/div/div/nb-card/nb-card-body/div[2]/div[2]/div</value>
+      <webElementGuid>ddb73def-5d06-4a71-b590-fbbc9197c6b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi choice'])[1]/following::div[2]</value>
+      <webElementGuid>a62925bf-7980-47ab-be73-b7678380a1ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Template'])[1]/following::div[5]</value>
+      <webElementGuid>8f9e6a69-9782-4e2b-b5d6-f54ecb5c0caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reorder'])[1]/preceding::div[1]</value>
+      <webElementGuid>c5e06d20-228e-4ff6-b286-723ff90234de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-card-body/div[2]/div[2]/div</value>
+      <webElementGuid>12866282-bb62-43e6-b0c8-e9205c3ccec6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Match' or . = 'Match')]</value>
+      <webElementGuid>b15bda82-bdb0-4174-8539-6cc7d19e7e52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

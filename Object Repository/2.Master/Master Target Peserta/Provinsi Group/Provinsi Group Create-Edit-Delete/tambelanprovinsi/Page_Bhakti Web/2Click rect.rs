@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>2Click rect</name>
+   <tag></tag>
+   <elementGuidId>c19443dd-443f-46fc-a659-f6f09f91269f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.delete-group-icon.ng-star-inserted > nb-icon.status-danger > svg.eva.eva-trash-2-outline > g > g > rect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>2420b6a6-eba4-44ce-b176-56a3f09b23a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>43405282-8f11-4d75-af28-f3b432a108c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>16018bf4-ec1d-460e-9020-33d3a4eb6c56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>opacity</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>15379ccd-4b36-475d-b783-b70772ecbbf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/form-provinsi-group[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;delete-group-icon ng-star-inserted&quot;]/nb-icon[@class=&quot;status-danger&quot;]/svg[@class=&quot;eva eva-trash-2-outline&quot;]/g[1]/g[1]/rect[1]</value>
+      <webElementGuid>ff32b921-aebe-4950-87e5-09bfc5c89bb8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

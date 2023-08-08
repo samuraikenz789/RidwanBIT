@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10 ST Nama Catalog</name>
+   <tag></tag>
+   <elementGuidId>14ee4f08-e966-496d-9b8c-00e43dc8048e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pr_id_3-table > thead.p-datatable-thead > tr.ng-star-inserted > th > div.p-inputgroup > input.p-inputtext.p-component.p-element</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2889845d-1317-4a90-8a48-95dad1cd9f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>9a53d129-a2d0-4182-9865-36f54e601c4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari Nama Catalog...</value>
+      <webElementGuid>670a0e7a-97c0-49fb-8cfe-116d81e45376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-element</value>
+      <webElementGuid>5dd93082-b7ea-4b08-af99-7c8cb20d8710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_3-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/th[1]/div[@class=&quot;p-inputgroup&quot;]/input[@class=&quot;p-inputtext p-component p-element&quot;]</value>
+      <webElementGuid>c63d7335-c8e7-4adb-8123-bf5003e1d166</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[3]</value>
+      <webElementGuid>240d7d44-0440-4722-9480-b783854dd4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_3-table']/thead/tr[2]/th/div/input</value>
+      <webElementGuid>4a28572b-cb87-4690-88c9-59f232d02405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-tabpanel[3]/div/div[2]/div/p-table/div/div/table/thead/tr[2]/th/div/input</value>
+      <webElementGuid>b95d13c0-5c7f-4bb9-a900-d93dd07b732b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari Nama Catalog...']</value>
+      <webElementGuid>4d976095-9c1d-43d1-8a6f-1884b6ef43fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

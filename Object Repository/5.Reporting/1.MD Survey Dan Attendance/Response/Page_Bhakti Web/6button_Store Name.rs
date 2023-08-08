@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6button_Store Name</name>
+   <tag></tag>
+   <elementGuidId>fe421fef-f4e7-404f-8e6c-d83830c3bddd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.bottom.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e80c169-2815-48c3-aa38-40bb907f84ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>49517848-8c13-435d-bec4-5594e4a92f49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button bottom cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>e9ab7b6c-9794-454b-b6ce-56d2aa5f6458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>bottom</value>
+      <webElementGuid>ad27e6b6-327f-493b-9d02-472e9851b63f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Store Name</value>
+      <webElementGuid>c86f6bc3-6343-4f8b-ae0a-55f52dc5c244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-51&quot;)/div[@class=&quot;ng-star-inserted&quot;]/ngx-survey-response-cabang-report[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row justify-content-between mt-3 mb-2&quot;]/div[@class=&quot;col mb-2 p-0 d-flex flex-column flex-sm-row align-items-end&quot;]/nb-select[@class=&quot;custom-style mr-2 appearance-outline size-medium status-basic shape-rectangle ng-valid nb-transition ng-touched ng-dirty open&quot;]/button[@class=&quot;select-button bottom cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>1bc36885-b141-4a22-872a-4fdb03f5eac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>3bd1916f-4bc4-4957-84a1-cf76fc69ed8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-51']/div/ngx-survey-response-cabang-report/div/div[3]/div/nb-select/button</value>
+      <webElementGuid>450c6f6d-b0df-4fb4-8d6e-5c73a9d9739d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Response Survey Toko'])[1]/following::button[1]</value>
+      <webElementGuid>fe74b32e-36e6-4bec-bf7d-edabf75346aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA'])[1]/following::button[1]</value>
+      <webElementGuid>d0f6f2ca-92e9-4fb1-b594-b67bbb477a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export To Excel'])[1]/preceding::button[1]</value>
+      <webElementGuid>a37ebeaa-e6fe-4c79-b9b6-c4fac2e622cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>967ca46f-52cf-4b76-8bbf-bad826133f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Store Name' or . = 'Store Name')]</value>
+      <webElementGuid>d013cab1-7abb-4afb-b9cf-317dd3ad6080</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

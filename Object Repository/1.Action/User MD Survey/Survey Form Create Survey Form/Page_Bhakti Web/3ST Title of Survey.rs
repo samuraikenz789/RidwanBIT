@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3ST Title of Survey</name>
+   <tag></tag>
+   <elementGuidId>f0faa494-81f3-4c81-88ff-729cbd6907cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.col-6.p-0.input-text-style.title.mt-2.mb-2.ng-untouched.ng-pristine.ng-valid.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>133d3e89-479f-4c7d-ac54-04f3c4575935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>54704219-5b6d-49f5-b62c-5573d69ed45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your title of Survey</value>
+      <webElementGuid>5dad4cd3-68ee-4144-ad3c-5706a205a64d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-6 p-0 input-text-style title mt-2 mb-2 ng-untouched ng-pristine ng-valid ng-star-inserted</value>
+      <webElementGuid>86c6ea36-cada-459f-8080-6b8316e49946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-4&quot;)/ngx-add-survey-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content-width&quot;]/div[@class=&quot;d-flex flex-column align-items-center w-100&quot;]/ngx-form-title[@class=&quot;w-100 pl-2 pr-2 mb-5&quot;]/div[@class=&quot;d-flex flex-row justify-content-center mt-4&quot;]/div[@class=&quot;card-style p-0 d-flex flex-column w-100&quot;]/div[@class=&quot;col mt-2 d-flex flex-column&quot;]/div[@class=&quot;row col pl-4 flex-row justify-content-between&quot;]/input[@class=&quot;col-6 p-0 input-text-style title mt-2 mb-2 ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]</value>
+      <webElementGuid>a88bc54a-da71-47b0-9044-8341d3eb053e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>0bf2f492-154a-4e52-b1ac-a38ec9ebb606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-4']/ngx-add-survey-form/div/div/div[2]/ngx-form-title/div/div/div/div/input</value>
+      <webElementGuid>f6f56d0d-2aaf-4998-8d81-0143fe960685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>493ce1ea-0372-47af-8cb6-5899eb83d2e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter your title of Survey']</value>
+      <webElementGuid>fe51bfbc-bab3-4664-a51f-450e35d40ea1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

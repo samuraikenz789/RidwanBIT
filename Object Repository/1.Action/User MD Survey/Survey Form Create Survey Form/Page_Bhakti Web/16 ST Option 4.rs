@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>16 ST Option 4</name>
+   <tag></tag>
+   <elementGuidId>e666f1f5-c13a-4f1e-91e8-cc4692dddb74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.label-option.col-6.p-0.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0abc34ca-6960-4f90-b10b-f7269c6fc284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>c6abe27c-3b01-460d-806b-b3826d43ee7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>label-option col-6 p-0 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>b5ae13c8-552c-412e-b193-8278c697b592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Option 4</value>
+      <webElementGuid>b8610b4b-77eb-42cd-83be-65e41e0c0f21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/ngx-add-survey-form[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;content-width&quot;]/div[@class=&quot;d-flex flex-column align-items-center w-100&quot;]/ngx-form-template[@class=&quot;w-100 pl-2 pr-2 ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-row justify-content-center mb-5&quot;]/div[@class=&quot;card-style p-0 d-flex flex-column w-100&quot;]/div[@class=&quot;pl-4 pr-4 mb-2 ng-star-inserted&quot;]/div[@class=&quot;col p-0&quot;]/div[@class=&quot;d-flex flex-row align-items-center mb-2 ng-star-inserted&quot;]/input[@class=&quot;label-option col-6 p-0 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>3db01f33-32a7-4d16-ab73-2240a9a1283b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[8]</value>
+      <webElementGuid>798b11dd-ca4e-4ece-8623-195595211460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/ngx-add-survey-form/div/div/div[2]/ngx-form-template/div/div/div[3]/div/div[4]/input</value>
+      <webElementGuid>1b1cbc90-3091-41c8-a61f-9030521e5bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/input</value>
+      <webElementGuid>c4ce0edf-f926-4034-bc04-539ecb7b365d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Option 4']</value>
+      <webElementGuid>8e938d5e-a471-4976-9b7f-6da6edfba653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

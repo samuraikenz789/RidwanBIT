@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Wallet Rupiah MSR_p-checkbox-box</name>
+   <tag></tag>
+   <elementGuidId>bc96eba2-4767-403e-ae30-c211e022c0f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-setting-modal/div/div/nb-card/nb-card-body/div[2]/div[4]/p-checkbox/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2452d70-9f67-4423-a9cc-40fb1b05e939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-box</value>
+      <webElementGuid>d7eba394-10c2-4f97-91ad-8d47a07d2e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>7c0e8543-d1a7-4104-b38d-0422957eae78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/ngx-setting-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;d-flex flex-column border-bottom mt-3&quot;]/div[@class=&quot;d-flex flex-row align-items-center mb-2 ng-star-inserted&quot;]/p-checkbox[@class=&quot;p-element mr-3 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;p-checkbox p-component&quot;]/div[@class=&quot;p-checkbox-box&quot;]</value>
+      <webElementGuid>bb95cabd-f4b3-4d3a-8665-2a07c38f1c37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-setting-modal/div/div/nb-card/nb-card-body/div[2]/div[4]/p-checkbox/div/div[2]</value>
+      <webElementGuid>5abdeb2b-548e-4019-8ea5-34b8040d1b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Rupiah MSR'])[1]/following::div[4]</value>
+      <webElementGuid>5eb9e211-76ac-4e20-932b-27b9b695a892</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Point MSR'])[1]/following::div[8]</value>
+      <webElementGuid>314823ce-cf41-4362-85c2-07c480fbea96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UNDIAN AKHIR TAHUN MISHIRIN'])[1]/preceding::div[1]</value>
+      <webElementGuid>ee54bf9a-6c49-4f06-a73c-a33a56ecf08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UNDIAN AKHIR TAHUN MISHIRIN'])[2]/preceding::div[4]</value>
+      <webElementGuid>c6f6d590-035a-4dea-9895-d00e6fcb81a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/p-checkbox/div/div[2]</value>
+      <webElementGuid>f7314cf2-26dc-40d7-a85b-e1523e02f673</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

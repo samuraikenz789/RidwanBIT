@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Anda yakin ingin update data peserta RI_d2766b</name>
+   <tag></tag>
+   <elementGuidId>c440a750-1262-4098-a226-e757e4e7f660</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-dialog-content.ng-tns-c462-99</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-3']/nb-dialog-container/user-detail/div/p-confirmdialog/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f38a97f5-f7c0-418a-868f-9fc197e1f996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-dialog-content ng-tns-c462-99</value>
+      <webElementGuid>5cbf2f0d-fb2d-4145-9ba2-2ac0edb14875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Anda yakin ingin update data peserta RIDWAN OWNER ?</value>
+      <webElementGuid>caef896c-a5ee-4a34-b9d4-35ba53221db5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-3&quot;)/nb-dialog-container[1]/user-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/p-confirmdialog[@class=&quot;p-element ng-tns-c462-99 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c462-99 ng-star-inserted p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]/div[@class=&quot;ng-trigger ng-trigger-animation ng-tns-c462-99 p-dialog p-confirm-dialog p-component ng-star-inserted ng-animating&quot;]/div[@class=&quot;p-dialog-content ng-tns-c462-99&quot;]</value>
+      <webElementGuid>45d3ebd2-d467-4109-b9a8-0660e8dafa7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-3']/nb-dialog-container/user-detail/div/p-confirmdialog/div/div/div[2]</value>
+      <webElementGuid>4a1da23d-a497-4d45-bd99-3817caedad55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::div[7]</value>
+      <webElementGuid>1aaab1d7-1f7f-4c15-b73b-dd4b93595da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. HP'])[2]/following::div[7]</value>
+      <webElementGuid>98b201da-2c9c-435d-bff6-24c70018aad5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::div[1]</value>
+      <webElementGuid>c56d768b-e3f2-4321-abc8-39656c0f91b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-confirmdialog/div/div/div[2]</value>
+      <webElementGuid>55d6b7f8-af28-42a2-a201-4962b1361733</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Anda yakin ingin update data peserta RIDWAN OWNER ?' or . = 'Anda yakin ingin update data peserta RIDWAN OWNER ?')]</value>
+      <webElementGuid>fbf44acd-c2a5-4534-841d-0d0b16e6311d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

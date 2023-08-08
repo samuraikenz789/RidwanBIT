@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10Click button_-- Pilih Kurir --</name>
+   <tag></tag>
+   <elementGuidId>8bfd3e01-b99a-4f73-a4ff-a792403aca28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.placeholder</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[15]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2bff8557-fe28-4b1a-abcc-6195cf67e373</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0feb3bdc-e1e8-457b-affc-36c09eb5582f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button placeholder</value>
+      <webElementGuid>29483229-77e6-41a0-84b3-900b4d89ddcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>ab5b44de-067e-4ab8-a521-e9e3f65688b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih Kurir --</value>
+      <webElementGuid>2a1303f3-f76c-4076-a011-cb3af7537787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-8&quot;)/nb-dialog-container[1]/form-approve-produk-fisik[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;row px-3&quot;]/div[@class=&quot;col-md-12&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-primary shape-rectangle ng-pristine ng-invalid nb-transition ng-touched&quot;]/button[@class=&quot;select-button placeholder&quot;]</value>
+      <webElementGuid>2c282780-34c6-4887-9754-6c5841d29469</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>dc38beba-9a81-4ce1-ba84-14d5b0721431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-8']/nb-dialog-container/form-approve-produk-fisik/div/div/nb-card/nb-card-body/form/div[3]/div/nb-select/button</value>
+      <webElementGuid>c86f6515-2e10-4d47-a9a4-64b3e26caebd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kurir'])[1]/following::button[1]</value>
+      <webElementGuid>36960d02-03af-4fcb-8676-ffd4c17795a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jl. pademangan 2 gang 12'])[2]/following::button[1]</value>
+      <webElementGuid>f326d877-5bd4-44bd-9ab4-dc97fc664a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input No Resi'])[1]/preceding::button[1]</value>
+      <webElementGuid>7c87e7f1-c831-47e3-96c5-077818d39d20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-select/button</value>
+      <webElementGuid>8aaf0ac9-2d10-4b1f-ba0b-90efe9200b5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '-- Pilih Kurir --' or . = '-- Pilih Kurir --')]</value>
+      <webElementGuid>933c0dc5-a1cf-4f38-8320-dd6c37eab3dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

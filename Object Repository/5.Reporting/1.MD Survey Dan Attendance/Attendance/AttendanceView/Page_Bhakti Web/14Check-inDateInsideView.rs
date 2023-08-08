@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>14Check-inDateInsideView</name>
+   <tag></tag>
+   <elementGuidId>53df1782-4650-4fa9-aa50-8c0852ec00f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_7-table']/thead/tr/th[3]/div/p-sorticon/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.p-sortable-column-icon.pi.pi-fw.pi-sort-amount-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4e10748f-c6d6-4203-be53-d2a2b7af9811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-sortable-column-icon pi pi-fw pi-sort-amount-down</value>
+      <webElementGuid>bce7cc43-f1b2-4c70-9f07-3d76447efdd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>4c79df0c-bd56-428c-b42b-383083e7617f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_7-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;no-highlight ng-star-inserted&quot;]/th[@class=&quot;p-element p-sortable-column p-highlight&quot;]/div[@class=&quot;flex justify-content-between align-items-center text-center&quot;]/p-sorticon[@class=&quot;p-element&quot;]/i[@class=&quot;p-sortable-column-icon pi pi-fw pi-sort-amount-down&quot;]</value>
+      <webElementGuid>4afc75f1-3310-47b4-9b87-6ad10e616ab4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_7-table']/thead/tr/th[3]/div/p-sorticon/i</value>
+      <webElementGuid>a8e3c772-5d2b-4e7d-898d-6d5cc3f7ceca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/div/p-sorticon/i</value>
+      <webElementGuid>c7b9ec17-cd35-4005-bec9-2c91b661aa3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

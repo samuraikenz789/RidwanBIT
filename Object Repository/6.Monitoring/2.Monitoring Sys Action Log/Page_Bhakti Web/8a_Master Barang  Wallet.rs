@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>8a_Master Barang  Wallet</name>
+   <tag></tag>
+   <elementGuidId>d6687fe2-02e9-4bf7-b6bb-ae38639603eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/sys-action-log-detail/div/div/nb-card/nb-card-body/sys-action-log-detail-setting-campaign/nb-card/nb-card-body/program-qrcode/nb-tabset/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>948b184e-a216-4124-accd-897e0c729a86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>485dac74-0364-4bc5-a6f9-c5a1d410424b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-link</value>
+      <webElementGuid>32542969-7373-4258-97a9-0956c6f92648</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Barang &amp; Wallet</value>
+      <webElementGuid>d9f3f913-f943-4e4a-8b6a-eff6ea4eaf18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-monitoring[@class=&quot;ng-star-inserted&quot;]/sys-action-log-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/nb-card[1]/nb-card-body[1]/sys-action-log-detail-setting-campaign[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-qrcode[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/ul[@class=&quot;tabset&quot;]/li[@class=&quot;tab responsive ng-star-inserted&quot;]/a[@class=&quot;tab-link&quot;]</value>
+      <webElementGuid>a8deef2b-0611-4709-9ee0-56bba6a68ebf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/sys-action-log-detail/div/div/nb-card/nb-card-body/sys-action-log-detail-setting-campaign/nb-card/nb-card-body/program-qrcode/nb-tabset/ul/li[2]/a</value>
+      <webElementGuid>5f95a658-1420-4d61-9678-31d3864ece8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Header Campaign'])[1]/following::a[1]</value>
+      <webElementGuid>728b0753-ffcc-427a-9c00-73d40981a6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Scan QR Code'])[1]/following::a[2]</value>
+      <webElementGuid>3c85d95c-3874-46b8-a9f4-71e64d438e8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting Tambahan'])[1]/preceding::a[1]</value>
+      <webElementGuid>f09cff6b-498a-4eae-afaa-b4769b26f494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[38]</value>
+      <webElementGuid>3074f507-6918-4169-8b8c-aaa788743244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-tabset/ul/li[2]/a</value>
+      <webElementGuid>8a148d7d-45fd-41e0-a96f-5450611a2776</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Master Barang &amp; Wallet' or . = 'Master Barang &amp; Wallet')]</value>
+      <webElementGuid>70476eee-a5d2-4730-b1ed-ff5888c605d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

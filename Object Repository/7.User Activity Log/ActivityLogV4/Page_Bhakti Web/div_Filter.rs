@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filter</name>
+   <tag></tag>
+   <elementGuidId>a7d93ba9-7968-48d0-8893-583b5387a8d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.flex-row.justify-content-between > div.subtitle.bold.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/ngx-user-detail-log-history/div[2]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>98f197b4-4996-4d1b-90b0-84fad2736ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitle bold pointer</value>
+      <webElementGuid>fe96596a-9cd5-4b89-b0d0-1b84583d7130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Filter </value>
+      <webElementGuid>32aa32b0-1ee2-4acd-81fd-436af7bd8dcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-administration[@class=&quot;ng-star-inserted&quot;]/ngx-user-activity-log[@class=&quot;ng-star-inserted&quot;]/ngx-user-detail-log[@class=&quot;ng-star-inserted&quot;]/ngx-user-detail-log-history[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column layout-padding&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;col-8 card-activity&quot;]/div[@class=&quot;d-flex flex-row justify-content-between&quot;]/div[@class=&quot;subtitle bold pointer&quot;]</value>
+      <webElementGuid>6c67a532-77bd-4aba-bd2a-b99123420cdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/ngx-user-detail-log-history/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>a3e63c4c-50df-4394-bb46-57f75ec937b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Logs Summary'])[1]/following::div[1]</value>
+      <webElementGuid>93c1612a-59c8-48dd-93d1-bb007a32ddfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='saya ingin mengikuti campaign yang sedang berlangsung'])[1]/following::div[6]</value>
+      <webElementGuid>14ec2b3d-91ce-46a4-8670-7ea2f5dc9cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/preceding::div[1]</value>
+      <webElementGuid>422c7fae-cf54-482f-8fa4-1902e8dc3d4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[2]/preceding::div[1]</value>
+      <webElementGuid>f1b997e6-1730-45d0-ba1a-c4581e567e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter']/parent::*</value>
+      <webElementGuid>eb907809-a9bf-46c8-b5bc-90b61fa29bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]</value>
+      <webElementGuid>d88049af-28c9-46b6-8ee3-11ee55dd20c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Filter ' or . = ' Filter ')]</value>
+      <webElementGuid>593f60c0-9dbf-4bd3-9a78-5add080423e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

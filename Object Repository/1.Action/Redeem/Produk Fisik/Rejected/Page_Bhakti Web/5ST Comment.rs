@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>5ST Comment</name>
+   <tag></tag>
+   <elementGuidId>d700858d-8d37-4999-9f2d-6e92c6961fa5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-2']/div[3]/div/div/div[2]/nb-card/nb-card-footer/textarea</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.ng-untouched.ng-pristine.ng-valid.input-full-width.size-medium.status-basic.shape-rectangle.nb-transition.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>80bf7b05-fb74-4837-a607-2560516d761b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>6efcef89-ac20-4817-ac03-0e88b603766a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Type here...</value>
+      <webElementGuid>a29100c9-32ee-48df-9f04-d6bd997fba23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-pristine ng-valid input-full-width size-medium status-basic shape-rectangle nb-transition cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>23e024f6-f6bd-473c-808f-1b2233bb5e49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-2&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 search-results&quot;]/div[@class=&quot;row mt-4 ng-star-inserted&quot;]/div[@class=&quot;col-md-4&quot;]/nb-card[@class=&quot;card-comment&quot;]/nb-card-footer[1]/textarea[@class=&quot;ng-untouched ng-pristine ng-valid input-full-width size-medium status-basic shape-rectangle nb-transition cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>4f3281a9-4303-4b10-9bb1-e2cadb42466f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-2']/div[3]/div/div/div[2]/nb-card/nb-card-footer/textarea</value>
+      <webElementGuid>cfb3cd3d-8a32-4b16-98d1-d1e7443528ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>b8d52a43-515b-4cb6-9240-0b041ae8dad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Type here...']</value>
+      <webElementGuid>0c86d79b-6594-4e46-97be-82d1fd200844</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

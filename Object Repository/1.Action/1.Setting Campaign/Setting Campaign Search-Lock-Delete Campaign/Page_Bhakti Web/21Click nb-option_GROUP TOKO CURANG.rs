@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>21Click nb-option_GROUP TOKO CURANG</name>
+   <tag></tag>
+   <elementGuidId>02f0f62b-0f01-4290-b534-c32165d132e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nb-option-37</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='A-PEMENANG-PERINGKAT'])[1]/following::nb-option[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-option</value>
+      <webElementGuid>00605ef6-b045-4406-b9d0-cf6018acb6d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-value</name>
+      <type>Main</type>
+      <value>GROUP TOKO CURANG</value>
+      <webElementGuid>1aa3242d-d60a-431f-9c34-c4ddb37281aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>00f12cd3-5af0-4d2f-9619-0be430a5ddb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nb-option-37</value>
+      <webElementGuid>2fabd128-2c9d-4578-8fce-7bb3c510d461</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>multiple nb-transition ng-star-inserted</value>
+      <webElementGuid>dba585ee-9e4d-4537-90a0-91756b8f297b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GROUP TOKO CURANG</value>
+      <webElementGuid>7a87e085-542a-4e71-ac87-bef9977f9d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nb-option-37&quot;)</value>
+      <webElementGuid>d81bf9e3-eb31-4c9f-94bb-8721ad2c59da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//nb-option[@id='nb-option-37']</value>
+      <webElementGuid>452ff898-6910-4c69-baa2-ac166ae407ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-5']/nb-option-list/ul/nb-option[2]</value>
+      <webElementGuid>25308e15-4278-47e7-a644-60ecac126cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A-PEMENANG-PERINGKAT'])[1]/following::nb-option[1]</value>
+      <webElementGuid>af7ec545-651f-43e5-80b8-81eca2e9b83e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEWGROUPTC'])[1]/preceding::nb-option[1]</value>
+      <webElementGuid>509a72d3-98f3-466e-8630-c6273e6ef092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-option[2]</value>
+      <webElementGuid>ff9ac789-27e2-4cc2-9ee2-526aab5eea5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-option[@id = 'nb-option-37' and (text() = 'GROUP TOKO CURANG' or . = 'GROUP TOKO CURANG')]</value>
+      <webElementGuid>a38ead5a-9586-4978-a6cf-83f8dc2ef4f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

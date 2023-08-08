@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Review  Approval</name>
+   <tag></tag>
+   <elementGuidId>5a0077fe-eff3-4b7e-b0b6-5908d58d1b3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/master-wallet-detail/nb-card/nb-card-body/nb-tabset/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5d0c91cf-9771-4746-be9d-dec1ade51a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>24b7f459-2025-4863-92ca-b85ada69b0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tab-link</value>
+      <webElementGuid>abe9e546-d258-4334-8343-5a70903f0f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Review &amp; Approval</value>
+      <webElementGuid>d4d5fdc4-afab-45cf-80f9-a2fec23751f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-master[@class=&quot;ng-star-inserted&quot;]/master-wallet-detail[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/nb-tabset[1]/ul[@class=&quot;tabset&quot;]/li[@class=&quot;tab responsive ng-star-inserted&quot;]/a[@class=&quot;tab-link&quot;]</value>
+      <webElementGuid>2ec9ffc1-db54-44fc-916f-d1f4743cf9f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/master-wallet-detail/nb-card/nb-card-body/nb-tabset/ul/li[2]/a</value>
+      <webElementGuid>1ce3a349-ed0e-4330-a2d6-c325759db446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Header Wallet'])[1]/following::a[1]</value>
+      <webElementGuid>7d0944b1-b5be-49b0-b768-429723a0b452</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unlock Wallet'])[1]/following::a[2]</value>
+      <webElementGuid>ff596922-53df-441a-be54-9b05e8efd422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remarks:'])[1]/preceding::a[1]</value>
+      <webElementGuid>98885ac9-84ea-4e63-aa65-a6031674ec91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[38]</value>
+      <webElementGuid>1aa8c289-2024-4f8e-8dd3-48fac1caf048</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-tabset/ul/li[2]/a</value>
+      <webElementGuid>d315e36c-62ee-4706-a994-6ed348b60535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Review &amp; Approval' or . = 'Review &amp; Approval')]</value>
+      <webElementGuid>cfe9ab84-51bb-400d-b88c-7c1f19875e64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

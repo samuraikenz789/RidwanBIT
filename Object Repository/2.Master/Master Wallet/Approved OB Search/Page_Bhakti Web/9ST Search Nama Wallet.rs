@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>9ST Search Nama Wallet</name>
+   <tag></tag>
+   <elementGuidId>609b117b-810c-4cc4-b90c-b75833c79c34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#p-tabpanel-9 > div.row.p-3 > div > div.p-inputgroup > input.p-inputtext.p-component.p-element.ng-pristine.ng-valid.ng-touched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3320197f-40f2-46ee-a5b9-080e2f6d9644</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>a46fa476-a377-432d-9447-8a99b9a6db40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari Nama Wallet</value>
+      <webElementGuid>39fb074c-9c25-4a10-9043-636f03c43e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-inputtext p-component p-element ng-pristine ng-valid ng-touched</value>
+      <webElementGuid>d83b7d0d-91d1-4b74-85c2-ea253891fb10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-9&quot;)/div[@class=&quot;row p-3&quot;]/div[1]/div[@class=&quot;p-inputgroup&quot;]/input[@class=&quot;p-inputtext p-component p-element ng-pristine ng-valid ng-touched&quot;]</value>
+      <webElementGuid>a7fbdcf1-4ab3-43bb-ae48-a63d24620c37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>d894f17e-363d-44e4-9f14-e674530a85e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-9']/div/div/div/input</value>
+      <webElementGuid>4ecd8eab-1113-4a1b-8d04-5dbe3d814d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-tabpanel[2]/div/div/div/div/input</value>
+      <webElementGuid>c4a279c1-ebca-4c84-b42d-4711479aec2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari Nama Wallet']</value>
+      <webElementGuid>7decf125-1005-4e47-9a5a-38fa4b4c08c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

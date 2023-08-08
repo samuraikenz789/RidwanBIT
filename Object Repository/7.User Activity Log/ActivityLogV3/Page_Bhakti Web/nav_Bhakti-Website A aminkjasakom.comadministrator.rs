@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nav_Bhakti-Website A aminkjasakom.comadministrator</name>
+   <tag></tag>
+   <elementGuidId>f9c423fc-a251-4ff1-bf08-77f368f8af58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nav.fixed</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/nb-layout-header/nav</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nav</value>
+      <webElementGuid>a99e8dab-d599-4bb6-bc35-c4366acb489c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fixed</value>
+      <webElementGuid>17d68a68-098a-4f06-a85f-51ae3425a0e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bhakti-Website A amink@jasakom.comadministrator</value>
+      <webElementGuid>57147de6-d719-44cd-a493-59ca440c4985</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/nb-layout-header[@class=&quot;fixed&quot;]/nav[@class=&quot;fixed&quot;]</value>
+      <webElementGuid>82b624e6-49be-461b-bded-a5adf74dd5fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/nb-layout-header/nav</value>
+      <webElementGuid>db3353b7-71be-4b94-89ad-cacdab4c8f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav</value>
+      <webElementGuid>6167fc6c-873c-4ae0-99ef-dca89a87b3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nav[(text() = 'Bhakti-Website A amink@jasakom.comadministrator' or . = 'Bhakti-Website A amink@jasakom.comadministrator')]</value>
+      <webElementGuid>31e8916a-c93c-4008-b49f-cb9429a1b910</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

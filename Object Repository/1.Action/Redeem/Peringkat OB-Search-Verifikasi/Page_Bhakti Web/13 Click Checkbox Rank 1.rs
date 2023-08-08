@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>13 Click Checkbox Rank 1</name>
+   <tag></tag>
+   <elementGuidId>282a2c75-d44b-478f-91b4-9a7d0457c2ec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.td-center > nb-checkbox.font-weight-bold.status-basic.ng-valid.nb-transition.ng-dirty.ng-touched > label.label > span.custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_1-table']/tbody/tr/td[6]/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0a72181-d522-4f6b-a816-f7c885a8a512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>e1e684e6-deba-4480-9ce8-e6e24f14d704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_1-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;td-center&quot;]/nb-checkbox[@class=&quot;font-weight-bold status-basic ng-valid nb-transition ng-dirty ng-touched&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>355878ff-49a8-49dd-8d6a-6953fcf4fb34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_1-table']/tbody/tr/td[6]/nb-checkbox/label/span</value>
+      <webElementGuid>3f6a3d08-73e8-4209-9382-e61bf0bfa4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peringkat 1'])[1]/following::span[1]</value>
+      <webElementGuid>4f2eb8f2-0fb4-405b-a278-a609db0fe19e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota Jakarta Barat'])[1]/following::span[1]</value>
+      <webElementGuid>8b603d8d-1e26-4660-847f-5ec6ce2a2532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Bagusss'])[1]/preceding::span[2]</value>
+      <webElementGuid>e4ea4862-ae77-45d2-b00f-091cb7c71c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sonny.wirawan.bhakti@gmail.com'])[1]/preceding::span[2]</value>
+      <webElementGuid>05218d2b-5c6e-4850-b49e-ccb6f9943be4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/nb-checkbox/label/span</value>
+      <webElementGuid>8ad0fe65-e6e8-4e64-b8ec-e5050dcffc3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

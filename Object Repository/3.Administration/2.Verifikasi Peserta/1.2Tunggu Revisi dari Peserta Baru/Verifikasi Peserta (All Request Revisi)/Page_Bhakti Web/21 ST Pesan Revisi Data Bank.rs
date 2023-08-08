@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>21 ST Pesan Revisi Data Bank</name>
+   <tag></tag>
+   <elementGuidId>dca83835-081a-4537-88a0-1a00c28bad0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.form-control.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/div[4]/div/nb-card/nb-card-body/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>a31afdf7-2c34-48c7-8f80-dc2042423054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>39567a61-d673-4dff-b4b8-a66e47c4403b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Memo Tambahan</value>
+      <webElementGuid>cd43dd47-328c-4827-ab9b-f5d037eac6e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>87183ebb-efe2-4c77-8d83-d0264a77ee6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-maxlength</name>
+      <type>Main</type>
+      <value>200</value>
+      <webElementGuid>17738d51-cce2-46a9-afea-cd7ee4d46e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-options</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>c1201d69-ecd6-4956-a75b-9f1833069e6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/user-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[@class=&quot;modals&quot;]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[@class=&quot;accent accent-success ng-star-inserted&quot;]/nb-card-body[1]/textarea[@class=&quot;form-control ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>44ae8fb1-375d-40db-ae1e-08a8cefe649b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nb-dialog-container/user-detail/div/div/nb-card/nb-card-body/div[4]/div/nb-card/nb-card-body/textarea</value>
+      <webElementGuid>fcf8d608-28ad-48ef-9a99-0a98ad181213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/nb-card/nb-card-body/textarea</value>
+      <webElementGuid>6326fe5c-9e19-430c-9b95-92bf3caf17c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Memo Tambahan']</value>
+      <webElementGuid>9bb3e2f0-90ff-45d5-9de3-8bf1e5e4982d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

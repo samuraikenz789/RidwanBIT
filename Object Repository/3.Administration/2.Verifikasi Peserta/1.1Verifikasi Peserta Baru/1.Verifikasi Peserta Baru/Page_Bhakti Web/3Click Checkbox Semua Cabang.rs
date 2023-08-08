@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3Click Checkbox Semua Cabang</name>
+   <tag></tag>
+   <elementGuidId>4024021e-1f19-4bc6-86ee-ad674b2b29be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-0']/candidate-table/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>eaedbc06-245f-4ee4-bfc6-e23763715929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>e641ed49-6a43-4303-8c47-37321f9105c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/candidate-table[1]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/nb-card[@class=&quot;ng-star-inserted&quot;]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/nb-checkbox[@class=&quot;status-basic ng-untouched ng-pristine ng-valid nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>5dea2e4c-3a15-42fb-babe-b50d8a871846</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/candidate-table/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>6fe4a98a-f03c-4e6e-b414-60a5d40d0a8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peserta Belum Update'])[1]/following::span[1]</value>
+      <webElementGuid>500a2fe6-6a28-490d-9817-c4fd270f9bfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peserta Sukses Verifikasi'])[1]/following::span[2]</value>
+      <webElementGuid>71288fcf-1ebb-4eb3-b8d3-bb40dcc9019c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Cabang'])[1]/preceding::span[1]</value>
+      <webElementGuid>b61be5bb-765b-4e53-9a4f-0ca1f4fe8233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SURABAYA'])[1]/preceding::span[2]</value>
+      <webElementGuid>f2239fc6-27be-4953-beb8-a12e5dde0793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>dd6838c6-4ce0-4d46-91fd-365e89b8707e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

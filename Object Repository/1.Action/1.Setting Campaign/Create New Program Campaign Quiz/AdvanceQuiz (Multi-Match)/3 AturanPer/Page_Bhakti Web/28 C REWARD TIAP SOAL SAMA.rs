@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>28 C REWARD TIAP SOAL SAMA</name>
+   <tag></tag>
+   <elementGuidId>549c302f-36f9-49bb-b585-3459ebde0c1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[4]/setting-f-quiz/form/div[2]/div[2]/div[2]/div[4]/div/div/nb-radio-group/nb-radio[2]/label/span[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>57c53ea2-fe81-465f-8370-4d84f7bd8a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>ae995e7d-ebe9-487f-a9c7-a19f3c04e62c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reward Tiap Soal Sama </value>
+      <webElementGuid>98a526be-fa48-448b-b82d-7463f9ff767a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-f-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;row ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;col-md-12 my-4 p-3 ng-star-inserted&quot;]/div[@class=&quot;row mt-4 mb-2 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;col-md-10 mb-2&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 ng-untouched ng-pristine ng-valid&quot;]/nb-radio-group[1]/nb-radio[@class=&quot;radio-reward col-5 status-basic ng-star-inserted&quot;]/label[1]/span[@class=&quot;text&quot;]</value>
+      <webElementGuid>430ef9a8-aecf-47f2-add7-441b3d37d08f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab[4]/setting-f-quiz/form/div[2]/div[2]/div[2]/div[4]/div/div/nb-radio-group/nb-radio[2]/label/span[3]</value>
+      <webElementGuid>e08133d9-a4da-454c-8adf-43058ff62518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reward Tiap Soal Berbeda'])[2]/following::span[3]</value>
+      <webElementGuid>4a54fb81-0d0b-4723-a91f-3debe10db4a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting Reward'])[2]/following::span[6]</value>
+      <webElementGuid>ca9e2740-7d84-43f2-a0ac-e5ebe182c490</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting G: Aturan Bonus Reward Berdasarkan Periode'])[1]/preceding::span[1]</value>
+      <webElementGuid>47ed8d00-d627-4a22-9db8-d3b9b7e76e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Periode'])[1]/preceding::span[4]</value>
+      <webElementGuid>63eb7efc-4f55-4a68-b966-cf1ef21774c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[4]/div/div/nb-radio-group/nb-radio[2]/label/span[3]</value>
+      <webElementGuid>d02fc25e-c377-4f2f-8dde-e9fe3424319f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Reward Tiap Soal Sama ' or . = ' Reward Tiap Soal Sama ')]</value>
+      <webElementGuid>6b85f7f8-d9e3-4073-9c94-bdf18240b4ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

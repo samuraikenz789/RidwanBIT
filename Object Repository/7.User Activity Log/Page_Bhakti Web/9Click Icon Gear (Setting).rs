@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>9Click Icon Gear (Setting)</name>
+   <tag></tag>
+   <elementGuidId>caa693db-f82d-42f3-a856-47954eb63eb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-2 > img.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/div/div/div[2]/div/span[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>beb5d0da-cc1b-48a6-a192-48434aeeed25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/icons/monitoring/setting-icon.svg</value>
+      <webElementGuid>9ea905db-c8f4-4540-bef4-2c5b3818d74c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>7a8b33f4-b508-439b-bc6a-8fd462c2d3c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-administration[@class=&quot;ng-star-inserted&quot;]/ngx-user-activity-log[@class=&quot;ng-star-inserted&quot;]/ngx-user-detail-log[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;background-user-info layout-nopadding-column&quot;]/div[@class=&quot;d-flex flex-row justify-content-start align-items-start&quot;]/div[@class=&quot;ml-2 d-flex flex-column flex-grow&quot;]/div[@class=&quot;info-row align-items-end flex-wrap&quot;]/span[@class=&quot;ml-2&quot;]/img[@class=&quot;pointer&quot;]</value>
+      <webElementGuid>fd94bb25-f913-4671-8198-fe4d91aa3e50</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/div/div/div[2]/div/span[2]/img</value>
+      <webElementGuid>12ade5e0-ac91-4750-abb4-bf9d1ca6ea16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/img</value>
+      <webElementGuid>8d58fb5c-8560-48b0-80f3-81b1353efea3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/icons/monitoring/setting-icon.svg']</value>
+      <webElementGuid>1cbbdbc2-c7d3-43a9-b787-5bc1e8bc1336</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

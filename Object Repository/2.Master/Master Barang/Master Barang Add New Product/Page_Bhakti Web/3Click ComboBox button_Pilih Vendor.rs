@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3Click ComboBox button_Pilih Vendor</name>
+   <tag></tag>
+   <elementGuidId>6222ef02-79ca-4da6-8b4e-d35019115b2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.cdk-focused.cdk-mouse-focused.placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>22ddf4b2-8eac-4cd6-b54d-cb91eccaedde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ff59e797-efcf-40e6-b328-7b03f7a8ce30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button cdk-focused cdk-mouse-focused placeholder</value>
+      <webElementGuid>565ed66f-5e9a-4cb4-916d-b45a94055266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>placeholder</value>
+      <webElementGuid>a5497b4a-9555-4463-826f-fd203092b5b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Vendor</value>
+      <webElementGuid>d9275c43-2b3d-49a1-8eb1-ba8149a4202d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-1&quot;)/nb-dialog-container[1]/form-master-barang[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-pristine ng-invalid ng-touched ng-submitted&quot;]/div[@class=&quot;row p-3&quot;]/div[@class=&quot;col-md-12&quot;]/nb-select[@class=&quot;appearance-outline full-width size-medium status-primary shape-rectangle ng-pristine ng-invalid nb-transition ng-touched&quot;]/button[@class=&quot;select-button cdk-focused cdk-mouse-focused placeholder&quot;]</value>
+      <webElementGuid>d2e55b9c-89b7-4862-81ba-378e2ac41213</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>66e07f85-390e-48fa-a17e-2d441d319864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/nb-dialog-container/form-master-barang/div/div/nb-card/nb-card-body/form/div[2]/div/nb-select/button</value>
+      <webElementGuid>e5fdc5a5-51d6-4fbf-98c2-1457382f28d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor'])[2]/following::button[1]</value>
+      <webElementGuid>baeba627-a79e-4894-90f1-43a8c0a863f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size: 90 x 90, Max 10 MB'])[1]/following::button[1]</value>
+      <webElementGuid>339c8f92-dc73-49c5-b644-aa07d08fa676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Produk'])[1]/preceding::button[1]</value>
+      <webElementGuid>3c52c3ec-5b53-467d-a498-0ca1630e6b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-select/button</value>
+      <webElementGuid>60de197c-cdf5-4a10-8cda-309c87763fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih Vendor' or . = 'Pilih Vendor')]</value>
+      <webElementGuid>5fb5b351-ec22-4fbf-b65f-e29a5bb5d358</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

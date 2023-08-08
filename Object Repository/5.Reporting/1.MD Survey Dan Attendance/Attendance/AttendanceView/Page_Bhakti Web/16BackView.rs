@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>16BackView</name>
+   <tag></tag>
+   <elementGuidId>208a47e4-4f15-4500-88ee-f44bcfd596dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-61']/div/ngx-absensi-mdreport-detail1/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.shadow-lg.bg-dark-orange.p-3.button-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7bcb6dae-9666-4da8-9d3e-feef4fae2290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shadow-lg bg-dark-orange p-3 button-right</value>
+      <webElementGuid>a5dabd5d-ca82-4ab2-ab0a-e311eaeb4a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-61&quot;)/div[@class=&quot;ng-star-inserted&quot;]/ngx-absensi-mdreport-detail1[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;shadow-lg bg-dark-orange p-3 button-right&quot;]</value>
+      <webElementGuid>87d836ba-d0cc-4da7-818c-7aed4fd03655</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-61']/div/ngx-absensi-mdreport-detail1/div/div</value>
+      <webElementGuid>7c39b5e0-51e1-4bae-8368-b22c235d8fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Survey Statistic'])[1]/following::div[6]</value>
+      <webElementGuid>2996b9d8-5c02-4ff5-8f3f-dac365b72067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absensi MD'])[1]/following::div[6]</value>
+      <webElementGuid>259ceba9-7a90-446b-90db-4fc1cca44b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Table'])[1]/preceding::div[1]</value>
+      <webElementGuid>cbf7df65-3dbc-41ca-b1a5-c9701bb5860f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Absensi Oscar Hasan Putra'])[1]/preceding::div[1]</value>
+      <webElementGuid>08a08ed9-f514-4ecd-94fe-ab6f8dca9e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-absensi-mdreport-detail1/div/div</value>
+      <webElementGuid>d386ab71-3327-4c83-af3b-5a9230fa0b5f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

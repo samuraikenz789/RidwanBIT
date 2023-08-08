@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pembagian Zona  msr-1 Lihat Detail Targ_b2a62c</name>
+   <tag></tag>
+   <elementGuidId>ae5f7722-5778-46af-bfa2-50ad2700d8f9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form.ng-invalid.ng-dirty.ng-touched > div.row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab/setting-b-quiz/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>89cc1dce-777e-4f98-8c0e-131d6feeef1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row</value>
+      <webElementGuid>979a0d7b-a96d-4a95-969d-8fd1471ee22c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Pembagian Zona  msr-1 Lihat Detail Target Group Peserta Master Grouping Peserta Group Peserta yang tidak diizinkan ikut campaign Master Grouping Peserta Blacklist Peserta yang diizinkan ikut campaign  Pemilik Toko Pilih Status Peserta Pemilik Toko Karyawan Toko Pilih Status Peserta Karyawan Toko SPG Pilih Status Peserta SPG Sales Pilih Status Peserta Sales</value>
+      <webElementGuid>4dd42c3c-0f20-4c84-a058-cd355e6ade15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-quiz[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-b-quiz[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-invalid ng-dirty ng-touched&quot;]/div[@class=&quot;row&quot;]</value>
+      <webElementGuid>9a4be083-c303-4920-b813-8f5de403d3ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-quiz/nb-tabset/nb-tab/setting-b-quiz/form/div</value>
+      <webElementGuid>6234e9c1-a889-4aae-bdc6-d7a3eab4f283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting B: Pengaturan Zona &amp; Peserta Campaign'])[1]/following::div[1]</value>
+      <webElementGuid>61c33962-b979-4448-9188-270e03fab57c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File gambar Header Campaign yang berisi tentang detail informasi dan cara permainan campaign.'])[1]/following::div[5]</value>
+      <webElementGuid>45dc8538-1d6d-4a32-a15d-01bf71e77dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//setting-b-quiz/form/div</value>
+      <webElementGuid>80239ad1-4fed-402f-b93f-f9252500e0e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Pembagian Zona  msr-1 Lihat Detail Target Group Peserta Master Grouping Peserta Group Peserta yang tidak diizinkan ikut campaign Master Grouping Peserta Blacklist Peserta yang diizinkan ikut campaign  Pemilik Toko Pilih Status Peserta Pemilik Toko Karyawan Toko Pilih Status Peserta Karyawan Toko SPG Pilih Status Peserta SPG Sales Pilih Status Peserta Sales' or . = ' Pembagian Zona  msr-1 Lihat Detail Target Group Peserta Master Grouping Peserta Group Peserta yang tidak diizinkan ikut campaign Master Grouping Peserta Blacklist Peserta yang diizinkan ikut campaign  Pemilik Toko Pilih Status Peserta Pemilik Toko Karyawan Toko Pilih Status Peserta Karyawan Toko SPG Pilih Status Peserta SPG Sales Pilih Status Peserta Sales')]</value>
+      <webElementGuid>551adf9f-d9bd-462c-9b86-8af82ebd2f7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

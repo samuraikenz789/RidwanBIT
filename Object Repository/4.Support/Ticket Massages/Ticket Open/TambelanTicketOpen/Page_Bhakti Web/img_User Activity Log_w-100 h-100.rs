@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_User Activity Log_w-100 h-100</name>
+   <tag></tag>
+   <elementGuidId>ef5fb14d-b2aa-4d22-a6b1-d0bf8f9819db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-icon.menu-icon.ng-tns-c140-24.ng-star-inserted > img.w-100.h-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/nb-sidebar/div/div/nb-menu/ul/li[5]/a/nb-icon/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>ddd7ec9a-da98-4dd3-8660-81b12311539a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-100 h-100</value>
+      <webElementGuid>e0eee4d5-4ee0-4bf7-b4a3-628c6e1701ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/icons/menu-icons/menu-support.svg</value>
+      <webElementGuid>e93bf8f0-bf33-42d5-8486-ce35715ba6a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/nb-sidebar[@class=&quot;menu-sidebar fixed left compacted&quot;]/div[@class=&quot;main-container main-container-fixed&quot;]/div[@class=&quot;scrollable&quot;]/nb-menu[1]/ul[@class=&quot;menu-items&quot;]/li[@class=&quot;menu-item ng-tns-c140-24 ng-star-inserted&quot;]/a[@class=&quot;ng-tns-c140-24 ng-star-inserted&quot;]/nb-icon[@class=&quot;menu-icon ng-tns-c140-24 ng-star-inserted&quot;]/img[@class=&quot;w-100 h-100&quot;]</value>
+      <webElementGuid>9d104fad-75d3-44e1-867f-dea889d42b1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/nb-sidebar/div/div/nb-menu/ul/li[5]/a/nb-icon/img</value>
+      <webElementGuid>3deef57d-36c9-43d0-baaf-a62b41f100f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/nb-icon/img</value>
+      <webElementGuid>884fdb2c-0836-433f-8dfc-02d9b46033a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/icons/menu-icons/menu-support.svg']</value>
+      <webElementGuid>91f21f6f-961c-496d-b01a-c089d5851a12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

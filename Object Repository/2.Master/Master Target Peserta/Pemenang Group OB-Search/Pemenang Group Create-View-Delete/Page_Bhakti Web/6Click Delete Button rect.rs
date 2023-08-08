@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>6Click Delete Button rect</name>
+   <tag></tag>
+   <elementGuidId>ef3a181a-c521-4e76-81cb-e8104f8973c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.eva.eva-trash-2-outline > g > g > rect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>6f303a03-6768-4c17-94c9-89b56873eb70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>6a3b8e2b-413a-4831-b1e0-0a5ebe725771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>0deefec6-461e-49cd-b796-c09f23b8ae20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>opacity</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>84d3026f-cf47-4412-96ad-c99b9159d4b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/form-pemenang-group[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;delete-group-icon ng-star-inserted&quot;]/nb-icon[@class=&quot;status-danger&quot;]/svg[@class=&quot;eva eva-trash-2-outline&quot;]/g[1]/g[1]/rect[1]</value>
+      <webElementGuid>6dc581eb-c1fb-4a8a-9948-cf2ff172455e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

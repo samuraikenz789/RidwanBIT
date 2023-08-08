@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Multi choice</name>
+   <tag></tag>
+   <elementGuidId>43a7043f-17cc-437f-b5dc-ac8c95994607</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.box-choice</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-8']/nb-dialog-container/ngx-choose-question-type-modal/div/div/nb-card/nb-card-body/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9736a0ff-2afb-42d8-a658-e28bb949d337</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>box-choice</value>
+      <webElementGuid>9de25f7c-2c0b-47ef-aca3-802813020a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Multi choice</value>
+      <webElementGuid>095349f7-9462-424a-bf01-4e74777c7f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-8&quot;)/nb-dialog-container[1]/ngx-choose-question-type-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;mt-3 d-flex flex-row flex-wrap&quot;]/div[@class=&quot;col-4 mt-2 mb-2&quot;]/div[@class=&quot;box-choice&quot;]</value>
+      <webElementGuid>2c8ee9f8-beb1-4ccb-8a14-0077cc028804</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-8']/nb-dialog-container/ngx-choose-question-type-modal/div/div/nb-card/nb-card-body/div[2]/div/div</value>
+      <webElementGuid>2ff2ce7a-fbeb-4155-87a2-e8c7827f712e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Template'])[1]/following::div[3]</value>
+      <webElementGuid>03fc7ffd-2199-43e7-86ab-d70f99d52dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Match'])[1]/preceding::div[1]</value>
+      <webElementGuid>b48ca9d0-aa5f-4452-96e2-fb7dd49fa23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-card-body/div[2]/div/div</value>
+      <webElementGuid>ea316559-7d7c-4f47-a042-8595423daf3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Multi choice' or . = 'Multi choice')]</value>
+      <webElementGuid>9820f7d6-d367-48b4-8aec-ac855a7eb61f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

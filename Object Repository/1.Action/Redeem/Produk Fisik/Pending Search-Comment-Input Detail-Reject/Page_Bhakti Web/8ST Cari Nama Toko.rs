@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>8ST Cari Nama Toko</name>
+   <tag></tag>
+   <elementGuidId>ec8d318a-24ec-4369-945e-e8e07c18f1be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.ng-untouched.ng-valid.size-medium.status-basic.shape-rectangle.nb-transition.cdk-focused.cdk-mouse-focused.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>9f0b802a-20f1-40e6-a141-8499648aab1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>f585897c-4e79-4bbc-99cd-034c66ed8a0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Cari Nama Toko...</value>
+      <webElementGuid>c08d7d48-73f6-4c7b-8731-af4a0172035c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-untouched ng-valid size-medium status-basic shape-rectangle nb-transition cdk-focused cdk-mouse-focused ng-dirty</value>
+      <webElementGuid>c0fad6b7-2de0-41b5-8fa6-735463448ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-14&quot;)/div[@class=&quot;row my-2&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;p-inputgroup&quot;]/input[@class=&quot;ng-untouched ng-valid size-medium status-basic shape-rectangle nb-transition cdk-focused cdk-mouse-focused ng-dirty&quot;]</value>
+      <webElementGuid>adcda969-0f21-446d-8683-322ef86ffb98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>bf862d04-e00c-4416-9abe-70427469796b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-14']/div[2]/div[3]/div/input</value>
+      <webElementGuid>e0d3c90e-f60e-4fba-89a2-14b81674f60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>469a6e1c-7fc3-4bc3-a065-abc9d42c5eff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Cari Nama Toko...']</value>
+      <webElementGuid>4ba7652c-8ed0-46e1-832c-42659e1db434</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

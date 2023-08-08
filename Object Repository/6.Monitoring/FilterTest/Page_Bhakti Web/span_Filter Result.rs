@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Filter Result</name>
+   <tag></tag>
+   <elementGuidId>5dada712-e088-4ab1-a8e7-fa4fba6eecda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/ngx-campaign-scan/div/nb-card/nb-card-body/ngx-campaign-scan-detail/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-filter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe23361c-3604-4d27-b79a-cfcdfc0a850b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-filter</value>
+      <webElementGuid>937e7a11-29d5-424c-81a4-7bda99efb126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Filter Result</value>
+      <webElementGuid>b80c3def-235d-4b9a-8d76-aff4e9d2dc13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-monitoring[@class=&quot;ng-star-inserted&quot;]/ngx-campaign-scan[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/ngx-campaign-scan-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mt-4 w-100&quot;]/div[@class=&quot;col d-flex flex-row justify-content-between p-0&quot;]/span[@class=&quot;button-filter&quot;]</value>
+      <webElementGuid>54d4b139-d1d6-4260-812c-01a4ef1528e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/ngx-campaign-scan/div/nb-card/nb-card-body/ngx-campaign-scan-detail/div/div/span</value>
+      <webElementGuid>00f5e903-6dfe-4584-87f6-53bc35acba81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test Sonny QR 2'])[1]/following::span[1]</value>
+      <webElementGuid>ddeffacc-f938-4ae8-9366-a3436523a445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monitoring Vendor IAK'])[1]/following::span[2]</value>
+      <webElementGuid>1129a183-673b-40dd-8f25-b71ddd9f237c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Peserta yang Melakukan Scan'])[1]/preceding::span[1]</value>
+      <webElementGuid>f4f71bce-0ccc-4f91-9dd5-b824237a74e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Detail'])[1]/preceding::span[1]</value>
+      <webElementGuid>57c9eeff-6a0e-475c-924e-e17894e6d132</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter Result']/parent::*</value>
+      <webElementGuid>77498f82-ce5c-4ee5-8255-f8873772ec58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>ad7966b8-181f-4a0d-91dd-3fa4bcd3b050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Filter Result' or . = ' Filter Result')]</value>
+      <webElementGuid>2bd727d7-138a-4f6d-bd47-588fdf514748</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

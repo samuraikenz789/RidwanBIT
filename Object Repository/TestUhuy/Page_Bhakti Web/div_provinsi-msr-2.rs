@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_provinsi-msr-2</name>
+   <tag></tag>
+   <elementGuidId>562291bd-cfff-4b4e-be9b-6b4c4c753950</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nb-option-38 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='provinsi-msr-1'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9ce93543-760e-41d3-9daf-eb40694f420c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>provinsi-msr-2</value>
+      <webElementGuid>a79ce9d0-b338-4dc5-b0ce-8451ec89ad20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nb-option-38&quot;)/div[1]</value>
+      <webElementGuid>d7ae0689-ee4a-4586-aece-adc85035fefc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nb-option[@id='nb-option-38']/div</value>
+      <webElementGuid>49cc567e-3aa7-4144-b933-90bf83d98c21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='provinsi-msr-1'])[1]/following::div[1]</value>
+      <webElementGuid>8303a0f0-8770-40da-906a-befeaf8bb5a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kabupaten-msr-1'])[1]/following::div[2]</value>
+      <webElementGuid>a088d890-94cf-48e1-82ff-9282a24559e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='senen'])[1]/preceding::div[1]</value>
+      <webElementGuid>40098590-8fdf-477a-a2a0-05bd7d5052f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='user-msr-1'])[1]/preceding::div[2]</value>
+      <webElementGuid>70d4f3d0-f605-47c9-a086-4fa956860546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='provinsi-msr-2']/parent::*</value>
+      <webElementGuid>41e829b5-01b9-4be5-a237-96cad9ff40f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-option[13]/div</value>
+      <webElementGuid>47a79def-780d-4440-a73b-f3fd38207250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'provinsi-msr-2' or . = 'provinsi-msr-2')]</value>
+      <webElementGuid>c746e515-68f7-4f7e-a954-840e7b7d8979</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

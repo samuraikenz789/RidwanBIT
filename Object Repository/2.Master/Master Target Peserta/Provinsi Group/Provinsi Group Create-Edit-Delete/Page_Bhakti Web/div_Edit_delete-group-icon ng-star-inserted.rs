@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Edit_delete-group-icon ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>d0dc88d2-7401-4ae0-99cd-8101830f53b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.delete-group-icon.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-9']/nb-dialog-container/form-provinsi-group/div/div/nb-card/nb-card-body/form/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>779d9df5-f019-41fb-a5ed-3f151b33d7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>delete-group-icon ng-star-inserted</value>
+      <webElementGuid>10bc73ae-5b20-451c-bfe7-a8ad83c4a231</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-9&quot;)/nb-dialog-container[1]/form-provinsi-group[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-pristine ng-valid ng-touched&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;delete-group-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>4c2f4113-3a1d-480b-8580-017518a24b87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-9']/nb-dialog-container/form-provinsi-group/div/div/nb-card/nb-card-body/form/div[5]/div/div</value>
+      <webElementGuid>b0406001-b6d7-4cbb-add9-650b328d93ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::div[3]</value>
+      <webElementGuid>19463c53-97ce-4e34-a01e-d1657807d59a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Cakupan Provinsi'])[1]/following::div[5]</value>
+      <webElementGuid>1688c112-212e-4a2f-99a9-e836ad686e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>6dc99fbf-007c-4453-982f-ea088f3603be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

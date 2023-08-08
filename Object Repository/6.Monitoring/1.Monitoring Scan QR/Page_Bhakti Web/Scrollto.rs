@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Scrollto</name>
+   <tag></tag>
+   <elementGuidId>76600ea1-1a5c-4da8-8cdd-6954dc5e921a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/ngx-campaign-scan/div/nb-card/nb-card-body/ngx-campaign-scan-detail/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aed5316b-e899-41fe-b272-137275e7d8bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card d-flex flex-column justify-content-center</value>
+      <webElementGuid>1ab81b6b-f652-4783-baa5-262fa56678fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Peserta dengan Scan Terbanyak NoNamaKota/KabupatenJumlah ScanTotal PointStatus Peserta1ferryKota Pekanbaru60 600 subdealer2ridwan wijayaKota Jakarta Barat38 1780 subdealer3SonnyKabupaten Kubu Raya36 1365 subdealer4BuyungKota Jambi9 90 subdealer5CV BambangKota Padang2 20 dealer</value>
+      <webElementGuid>66721de7-f27f-4a58-810d-6715acd0758a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-monitoring[@class=&quot;ng-star-inserted&quot;]/ngx-campaign-scan[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/ngx-campaign-scan-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col-7&quot;]/div[@class=&quot;card d-flex flex-column justify-content-center&quot;]</value>
+      <webElementGuid>07a44d2b-93c7-4b78-949f-c256982a77c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-monitoring/ngx-campaign-scan/div/nb-card/nb-card-body/ngx-campaign-scan-detail/div[3]/div/div</value>
+      <webElementGuid>bd4f5a6e-a2be-4d02-a2a2-76b97710456c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample Tooltip'])[3]/following::div[3]</value>
+      <webElementGuid>c0ccce7c-61b3-4210-8fa9-5bcec5dd668e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sample Tooltip'])[2]/following::div[9]</value>
+      <webElementGuid>0ffa49d7-779f-43e1-bac3-cf6bebdcee1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div</value>
+      <webElementGuid>58fbea04-b9c6-4770-944e-5cf568c812f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Peserta dengan Scan Terbanyak NoNamaKota/KabupatenJumlah ScanTotal PointStatus Peserta1ferryKota Pekanbaru60 600 subdealer2ridwan wijayaKota Jakarta Barat38 1780 subdealer3SonnyKabupaten Kubu Raya36 1365 subdealer4BuyungKota Jambi9 90 subdealer5CV BambangKota Padang2 20 dealer' or . = ' Peserta dengan Scan Terbanyak NoNamaKota/KabupatenJumlah ScanTotal PointStatus Peserta1ferryKota Pekanbaru60 600 subdealer2ridwan wijayaKota Jakarta Barat38 1780 subdealer3SonnyKabupaten Kubu Raya36 1365 subdealer4BuyungKota Jambi9 90 subdealer5CV BambangKota Padang2 20 dealer')]</value>
+      <webElementGuid>e1d50692-6c5a-43d2-af78-97a90f8e88e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

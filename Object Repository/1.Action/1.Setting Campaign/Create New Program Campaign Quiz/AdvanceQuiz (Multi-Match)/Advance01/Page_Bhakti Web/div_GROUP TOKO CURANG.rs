@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GROUP TOKO CURANG</name>
+   <tag></tag>
+   <elementGuidId>d10b7fdf-d13f-49e7-a52d-e7aa8ae1ac92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nb-option-35 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nb-option[@id='nb-option-35']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb672e9c-7ea9-4915-9497-66eab6f787a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GROUP TOKO CURANG</value>
+      <webElementGuid>19ce4f8b-8128-4b56-9ebc-b8bec7fc5805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nb-option-35&quot;)/div[1]</value>
+      <webElementGuid>16232b99-daec-447b-b5ad-c3d938a65550</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nb-option[@id='nb-option-35']/div</value>
+      <webElementGuid>3e6b2cf3-b15d-49cb-b8d4-f13c01b25d5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A-PEMENANG-PERINGKAT'])[1]/following::div[1]</value>
+      <webElementGuid>d6f4d11d-f7d6-4e6b-aea1-606adac1f443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROVINSI-MSR-3'])[1]/preceding::div[1]</value>
+      <webElementGuid>b47ae0b1-aebc-4022-943c-3c1a81c81a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST'])[1]/preceding::div[2]</value>
+      <webElementGuid>bc8dbea5-7ee4-4ff8-bef4-8b2b839c23c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GROUP TOKO CURANG']/parent::*</value>
+      <webElementGuid>9cd764fa-fce9-4176-8a43-41ff588cf993</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-option[2]/div</value>
+      <webElementGuid>b5e99723-95f7-497f-8405-71ec40f7a215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GROUP TOKO CURANG' or . = 'GROUP TOKO CURANG')]</value>
+      <webElementGuid>7729a43e-b216-4455-8a6a-97841a535b24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

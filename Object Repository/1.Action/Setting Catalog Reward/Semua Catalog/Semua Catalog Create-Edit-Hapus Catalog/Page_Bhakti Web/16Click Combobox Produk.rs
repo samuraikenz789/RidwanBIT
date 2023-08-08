@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>16Click Combobox Produk</name>
+   <tag></tag>
+   <elementGuidId>50c3ac49-281e-4fd1-99c7-25eff7ebe01f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-element.p-ripple.p-autocomplete-dropdown.ng-tns-c521-71.p-button.p-component.p-button-icon-only.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[17]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>353e73c7-7c7a-4d0b-900a-c730088d689f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4a06e37c-c883-40cc-ae36-8a6cc1aa0ccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-element p-ripple p-autocomplete-dropdown ng-tns-c521-71 p-button p-component p-button-icon-only ng-star-inserted</value>
+      <webElementGuid>9e7b9a85-90a7-42cc-8157-ecff48404c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-icon</name>
+      <type>Main</type>
+      <value>pi pi-chevron-down</value>
+      <webElementGuid>db49c3d4-9a9f-42a6-848b-873d4f90966c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-5&quot;)/nb-dialog-container[1]/form-reward-regular[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;row p-3&quot;]/div[@class=&quot;col-md-6&quot;]/p-autocomplete[@class=&quot;p-element p-inputwrapper ng-tns-c521-71 ng-star-inserted ng-pristine ng-valid ng-touched&quot;]/span[@class=&quot;ng-tns-c521-71 p-autocomplete p-component p-autocomplete-dd&quot;]/button[@class=&quot;p-element p-ripple p-autocomplete-dropdown ng-tns-c521-71 p-button p-component p-button-icon-only ng-star-inserted&quot;]</value>
+      <webElementGuid>2df788b0-c587-4550-bc10-d2f5483ec03d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[17]</value>
+      <webElementGuid>814084d0-91ed-4e76-b733-0341f034f4f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-5']/nb-dialog-container/form-reward-regular/div/div/nb-card/nb-card-body/form/div/div[4]/p-autocomplete/span/button</value>
+      <webElementGuid>a4fdd259-48b4-463c-b776-ffad79c5eab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by Category'])[1]/following::button[1]</value>
+      <webElementGuid>9e6b4445-e5fa-45ab-90ef-0e9a0722bc9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by Vendor'])[1]/following::button[1]</value>
+      <webElementGuid>074b0211-519a-48ad-b64c-3789dd2797cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::button[1]</value>
+      <webElementGuid>65d7874c-b788-4d5a-be96-17d47c213929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[2]/preceding::button[2]</value>
+      <webElementGuid>176fea86-f485-4b2d-bec8-31264c7b482e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/button</value>
+      <webElementGuid>38b86cc2-871d-44c9-952d-55c02025f62b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>762c99cb-d774-444d-900d-0723bb547c99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

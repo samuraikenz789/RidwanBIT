@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Toko Rino Shoplatitude-6.1909227, longi_c6a23e</name>
+   <tag></tag>
+   <elementGuidId>ff6867e3-e004-461e-81e0-f4eb0ef338ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.ng-star-inserted > div.col-md-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-2']/nb-dialog-container/user-detail/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>353505c2-8895-4586-a330-92f13c434c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12</value>
+      <webElementGuid>e22694cc-2072-4a4c-b291-a94c438e6678</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toko: Rino Shoplatitude:-6.1909227, longitude:106.7659956 Permintaan Revisi Nama TokoRino Shop Revisi Emailrino.bit82@gmail.com No. HP081310033925 Revisi No. Whatsapp08131003392512 Revisi No. Telp Toko0215323808 Revisi  Revisi  Revisi Foto TokoProvinsiDaerah Khusus Ibukota Jakarta  Revisi Daerah Khusus Ibukota Jakarta (GPS)KabupatenKota Jakarta Barat  Revisi Kota Jakarta Barat (GPS)KecamatanKecamatan Kebon Jeruk Kecamatan Kebon Jeruk (GPS)Kode Pos11530 11530 (GPS)Alamat TokoJalan Perjuangan  Revisi Jalan Perjuangan (GPS)Revisi KTPPerorangan / Badan Usaha PERORANGAN  Revisi Nama Lengkap (sesuai KTP/NPWP)Rino  Revisi Nomor KTP 3828545856833333  Revisi  Revisi RekNama BankBCA Revisi Cabang BankKedoya  Revisi No. Rekening3718254186  Revisi  Peserta adalah Dealer / Subdealer: SubdealerDealer Browse  Update Peserta membeli dari SupplierCSI Unverified  Kirim Revisi  Delete User Similar Data User Nama Toko  Nama Pemilik  Email  Provinsi  No. HP Actions</value>
+      <webElementGuid>a9198981-daa8-4075-8bc9-99a5016341ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-2&quot;)/nb-dialog-container[1]/user-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;col-md-12&quot;]</value>
+      <webElementGuid>a9982aec-f262-4eb5-989b-2ab1fda33da5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-2']/nb-dialog-container/user-detail/div/div</value>
+      <webElementGuid>c6799983-2bbf-488e-ba09-0195b45b9278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Peserta Lama'])[1]/following::div[12]</value>
+      <webElementGuid>01882720-c7d6-458b-afbd-67b8ff3395f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//user-detail/div/div</value>
+      <webElementGuid>559d66ec-df1a-48bb-84ab-902a8d186abf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Toko: Rino Shoplatitude:-6.1909227, longitude:106.7659956 Permintaan Revisi Nama TokoRino Shop Revisi Emailrino.bit82@gmail.com No. HP081310033925 Revisi No. Whatsapp08131003392512 Revisi No. Telp Toko0215323808 Revisi  Revisi  Revisi Foto TokoProvinsiDaerah Khusus Ibukota Jakarta  Revisi Daerah Khusus Ibukota Jakarta (GPS)KabupatenKota Jakarta Barat  Revisi Kota Jakarta Barat (GPS)KecamatanKecamatan Kebon Jeruk Kecamatan Kebon Jeruk (GPS)Kode Pos11530 11530 (GPS)Alamat TokoJalan Perjuangan  Revisi Jalan Perjuangan (GPS)Revisi KTPPerorangan / Badan Usaha PERORANGAN  Revisi Nama Lengkap (sesuai KTP/NPWP)Rino  Revisi Nomor KTP 3828545856833333  Revisi  Revisi RekNama BankBCA Revisi Cabang BankKedoya  Revisi No. Rekening3718254186  Revisi  Peserta adalah Dealer / Subdealer: SubdealerDealer Browse  Update Peserta membeli dari SupplierCSI Unverified  Kirim Revisi  Delete User Similar Data User Nama Toko  Nama Pemilik  Email  Provinsi  No. HP Actions' or . = 'Toko: Rino Shoplatitude:-6.1909227, longitude:106.7659956 Permintaan Revisi Nama TokoRino Shop Revisi Emailrino.bit82@gmail.com No. HP081310033925 Revisi No. Whatsapp08131003392512 Revisi No. Telp Toko0215323808 Revisi  Revisi  Revisi Foto TokoProvinsiDaerah Khusus Ibukota Jakarta  Revisi Daerah Khusus Ibukota Jakarta (GPS)KabupatenKota Jakarta Barat  Revisi Kota Jakarta Barat (GPS)KecamatanKecamatan Kebon Jeruk Kecamatan Kebon Jeruk (GPS)Kode Pos11530 11530 (GPS)Alamat TokoJalan Perjuangan  Revisi Jalan Perjuangan (GPS)Revisi KTPPerorangan / Badan Usaha PERORANGAN  Revisi Nama Lengkap (sesuai KTP/NPWP)Rino  Revisi Nomor KTP 3828545856833333  Revisi  Revisi RekNama BankBCA Revisi Cabang BankKedoya  Revisi No. Rekening3718254186  Revisi  Peserta adalah Dealer / Subdealer: SubdealerDealer Browse  Update Peserta membeli dari SupplierCSI Unverified  Kirim Revisi  Delete User Similar Data User Nama Toko  Nama Pemilik  Email  Provinsi  No. HP Actions')]</value>
+      <webElementGuid>133debc6-e5c5-477e-9670-ce653d127bd1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

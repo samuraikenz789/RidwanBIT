@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>nb-card_Tambah Transaksi</name>
+   <tag></tag>
+   <elementGuidId>138e98f5-ab01-4736-8d8b-69cbfe182edd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-card.add-transaction-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/user-wallet-detail/nb-card/nb-card-body/div[2]/div/nb-tabset/nb-tab/wallet-component/div/div[3]/div/div[4]/nb-card</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-card</value>
+      <webElementGuid>3bef69d9-01b7-4b48-8b09-1b65bd6fe520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-transaction-card</value>
+      <webElementGuid>63eab717-d09d-49a9-9fba-7e345648520c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Transaksi</value>
+      <webElementGuid>2010a1f1-4ff9-412e-bc3a-cfde3c417355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-administration[@class=&quot;ng-star-inserted&quot;]/user-wallet-detail[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/wallet-component[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 ng-star-inserted&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md&quot;]/nb-card[@class=&quot;add-transaction-card&quot;]</value>
+      <webElementGuid>5784b61d-722f-43db-a235-ab13089c3ede</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/user-wallet-detail/nb-card/nb-card-body/div[2]/div/nb-tabset/nb-tab/wallet-component/div/div[3]/div/div[4]/nb-card</value>
+      <webElementGuid>80853a1e-b826-476e-b44f-2996d49fdb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Saldo Spending'])[1]/following::nb-card[1]</value>
+      <webElementGuid>ae48df5d-f4d7-4934-a5d0-c22e716b5218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Saldo Pending'])[1]/following::nb-card[2]</value>
+      <webElementGuid>ca8fb291-d5d7-49f2-8be4-ee47ecbcc693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Transaksi'])[2]/preceding::nb-card[1]</value>
+      <webElementGuid>ecb3d5c2-8328-468b-a54c-80747897634f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/nb-card</value>
+      <webElementGuid>8447d32f-b1b2-4948-abca-7df756a87560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-card[(text() = 'Tambah Transaksi' or . = 'Tambah Transaksi')]</value>
+      <webElementGuid>54f4a6c4-6b9f-4b6b-bdef-f4a2136c2c20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

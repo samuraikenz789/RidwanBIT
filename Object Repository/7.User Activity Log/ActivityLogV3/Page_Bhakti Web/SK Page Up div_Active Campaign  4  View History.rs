@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SK Page Up div_Active Campaign  4  View History</name>
+   <tag></tag>
+   <elementGuidId>c0fe673b-4911-40b6-9ded-f862355d0674</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header.d-flex.flex-row.justify-content-between.align-items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/ngx-user-detail-log-history/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee7f3c40-422a-47f5-9de8-4445d87d47a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header d-flex flex-row justify-content-between align-items-center</value>
+      <webElementGuid>b4f188d8-8fc4-4ee6-bd66-bc882a918901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Active Campaign  4  View History </value>
+      <webElementGuid>fc2edaaa-8422-4376-b824-69c55f883c5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-administration[@class=&quot;ng-star-inserted&quot;]/ngx-user-activity-log[@class=&quot;ng-star-inserted&quot;]/ngx-user-detail-log[@class=&quot;ng-star-inserted&quot;]/ngx-user-detail-log-history[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column layout-padding&quot;]/div[@class=&quot;d-flex flex-row&quot;]/div[@class=&quot;col-4 card-activity&quot;]/div[@class=&quot;header d-flex flex-row justify-content-between align-items-center&quot;]</value>
+      <webElementGuid>980c9ddb-dbc2-4cbe-8a24-f5130317e8c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/ngx-user-detail-log-history/div/div/div[2]/div</value>
+      <webElementGuid>b663a208-238e-4287-8e9e-6b86e44452ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='undian_akhir_tahun_mishirin'])[2]/following::div[3]</value>
+      <webElementGuid>27e7f610-4a0d-4f35-8c09-35560b7ad5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='undian_akhir_tahun_mishirin'])[1]/following::div[6]</value>
+      <webElementGuid>7a689ba8-c590-47b1-8708-5d362111ed55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-user-detail-log-history/div/div/div[2]/div</value>
+      <webElementGuid>d71eabfb-0fcc-4faf-aa73-0343c64978c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Active Campaign  4  View History ' or . = ' Active Campaign  4  View History ')]</value>
+      <webElementGuid>bf5697fe-74a0-4b0e-84a8-21d29fd6bfda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

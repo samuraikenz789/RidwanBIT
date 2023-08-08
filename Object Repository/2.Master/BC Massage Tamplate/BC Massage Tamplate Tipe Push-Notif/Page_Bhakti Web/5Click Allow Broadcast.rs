@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>5Click Allow Broadcast</name>
+   <tag></tag>
+   <elementGuidId>ba15840c-7fb3-4ce6-8770-be28a7617eb6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toggle.ng-tns-c252-117</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[2]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9256975-5d44-4de9-97ff-9781127c1bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle ng-tns-c252-117</value>
+      <webElementGuid>96cff0f3-675c-4621-9a2e-ae6a20845dfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-master[@class=&quot;ng-star-inserted&quot;]/ngx-ckeditor-msg-template[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/nb-card[1]/nb-card-body[1]/nb-toggle[@class=&quot;ng-tns-c252-117 status-success toggle-label-end ng-untouched ng-pristine ng-valid ng-star-inserted nb-transition&quot;]/label[@class=&quot;toggle-label ng-tns-c252-117&quot;]/div[@class=&quot;toggle ng-tns-c252-117&quot;]</value>
+      <webElementGuid>5ae7becf-8000-4945-8125-29024a03508b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[2]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      <webElementGuid>d902b062-2af3-40eb-9f77-04da7e9a6e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow Broadcast'])[1]/following::div[1]</value>
+      <webElementGuid>1d08cd3d-2928-4b72-87fe-b4c145e361b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[2]</value>
+      <webElementGuid>d8502da2-5978-4edf-88e2-8a1698c39c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/preceding::div[1]</value>
+      <webElementGuid>17caeedb-c6c5-4597-8930-15a9b509d765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[4]</value>
+      <webElementGuid>c74ef6f5-4f62-4195-a328-9817a947e5a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>b7b00868-1c55-4fed-9443-43536529123d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

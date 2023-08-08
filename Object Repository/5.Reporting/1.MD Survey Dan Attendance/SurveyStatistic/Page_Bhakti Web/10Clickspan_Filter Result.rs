@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>10Clickspan_Filter Result</name>
+   <tag></tag>
+   <elementGuidId>2d9e8ba0-ea0c-434e-ab54-e61e06c65f4e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-5']/div/ngx-statistic-survey-detail/div[4]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-filter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b8745091-44c7-499e-8a7c-9d280c1a197b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-filter</value>
+      <webElementGuid>c1ede41f-d305-4796-81b7-821d16160285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Filter Result</value>
+      <webElementGuid>4759e256-d6c1-48b7-977e-af518cadcd8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-5&quot;)/div[@class=&quot;ng-star-inserted&quot;]/ngx-statistic-survey-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col d-flex flex-row justify-content-end&quot;]/span[@class=&quot;button-filter&quot;]</value>
+      <webElementGuid>79bec369-e472-4df5-9865-362545aa403c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-5']/div/ngx-statistic-survey-detail/div[4]/div/span</value>
+      <webElementGuid>9fdf22c4-bd12-4709-91a6-4d1042c3e2a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Collectors'])[1]/following::span[1]</value>
+      <webElementGuid>bbd5faf8-9a1e-4e18-b33d-86f97cba7515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Responses'])[1]/following::span[1]</value>
+      <webElementGuid>e489677c-b173-401e-b99c-a78d27a73e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question 1 : survey aplikasi mishirin?'])[1]/preceding::span[1]</value>
+      <webElementGuid>0492c9f9-bb53-408c-bf6b-b7851160c203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[1]/preceding::span[1]</value>
+      <webElementGuid>3b522aae-6725-4cc7-b85d-39b45398d17a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter Result']/parent::*</value>
+      <webElementGuid>01e82228-1e09-4503-95db-c32b0bf70c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/span</value>
+      <webElementGuid>61503bc9-b886-496b-92b6-11d0e3f6a485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Filter Result' or . = ' Filter Result')]</value>
+      <webElementGuid>c2616b3a-fc7e-4685-9a33-74882ef4fe32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

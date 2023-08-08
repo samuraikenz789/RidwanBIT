@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4Click Public</name>
+   <tag></tag>
+   <elementGuidId>a74f370a-7f73-4735-a7fb-9a75385fb9cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toggle.ng-tns-c252-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[3]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9aa298e5-cd0f-4a9d-a413-9fe6c49dae69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle ng-tns-c252-1</value>
+      <webElementGuid>a7e6a788-4dbb-4bed-b810-a56d3f561c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-master[1]/ngx-ckeditor-msg-template[1]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/nb-card[1]/nb-card-body[1]/nb-toggle[@class=&quot;ng-tns-c252-1 status-success toggle-label-end ng-untouched ng-pristine ng-valid ng-star-inserted nb-transition&quot;]/label[@class=&quot;toggle-label ng-tns-c252-1&quot;]/div[@class=&quot;toggle ng-tns-c252-1&quot;]</value>
+      <webElementGuid>f3ecba5b-d230-410a-9ee3-e56c652566cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/ngx-ckeditor-msg-template/div/nb-card/nb-card-body/div/div[3]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      <webElementGuid>89880618-3a0e-4b79-8b82-605d0f91d081</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Public'])[1]/following::div[1]</value>
+      <webElementGuid>ae26da4d-2d95-4e7c-a446-e45e4927cad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow Broadcast'])[1]/following::div[3]</value>
+      <webElementGuid>e59cf3e8-2f29-4035-a689-1e7f9f134855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[2]</value>
+      <webElementGuid>1a0bd5a9-ef33-4217-8fb8-28ed299f8718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::div[4]</value>
+      <webElementGuid>a2e739a0-53a4-4ebc-b00e-e13e4ba018cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/nb-card/nb-card-body/nb-toggle/label/div</value>
+      <webElementGuid>a50d13ae-2c99-4884-8880-ac625f612636</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

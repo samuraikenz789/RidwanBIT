@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_ridwan owner  ridwan wijaya_pointer</name>
+   <tag></tag>
+   <elementGuidId>e9bdf64d-5bd1-49c0-9337-55fbad30839c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-2 > img.pointer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/div/div/div[2]/div/span[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9ad595f9-31d6-4c87-a1c5-d5a30f9a5096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/assets/icons/monitoring/setting-icon.svg</value>
+      <webElementGuid>2518bce1-00f5-48d8-b1cc-c57331e7a70e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>ad09a5e5-ee41-4ca2-8bd3-35468fcc6e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-administration[@class=&quot;ng-star-inserted&quot;]/ngx-user-activity-log[@class=&quot;ng-star-inserted&quot;]/ngx-user-detail-log[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;background-user-info layout-nopadding-column&quot;]/div[@class=&quot;d-flex flex-row justify-content-start align-items-start&quot;]/div[@class=&quot;ml-2 d-flex flex-column flex-grow&quot;]/div[@class=&quot;info-row align-items-end flex-wrap&quot;]/span[@class=&quot;ml-2&quot;]/img[@class=&quot;pointer&quot;]</value>
+      <webElementGuid>732501be-0723-4eab-9a62-b5e59f391847</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-administration/ngx-user-activity-log/ngx-user-detail-log/div/div/div[2]/div/span[2]/img</value>
+      <webElementGuid>64e1d68a-be60-4f1a-bdc5-0dab93583bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/img</value>
+      <webElementGuid>a693acf8-cce9-4db7-b15a-3e2d07d62f59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/assets/icons/monitoring/setting-icon.svg']</value>
+      <webElementGuid>84946867-ff1a-4f90-8a92-1518c2accc80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Filter Export To Excel_custom-checkbox</name>
+   <tag></tag>
+   <elementGuidId>f086368c-c844-4e86-8889-109e5bc92473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-tabpanel-1']/user-table/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4 > nb-checkbox.status-basic.ng-untouched.ng-pristine.ng-valid.nb-transition > label.label > span.custom-checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>58bf291c-9774-423b-b66a-4258f3129797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-checkbox</value>
+      <webElementGuid>eaebf315-077d-49b4-93ff-c83667a15780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-1&quot;)/user-table[1]/div[@class=&quot;ng-star-inserted&quot;]/div[1]/nb-card[@class=&quot;ng-star-inserted&quot;]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/nb-checkbox[@class=&quot;status-basic ng-untouched ng-pristine ng-valid nb-transition&quot;]/label[@class=&quot;label&quot;]/span[@class=&quot;custom-checkbox&quot;]</value>
+      <webElementGuid>b3aaebf9-dbb9-441a-84c2-9ded7faa796b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-1']/user-table/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>2a24d8c6-9782-4d11-9def-b4b260bf7ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Export To Excel'])[5]/following::span[6]</value>
+      <webElementGuid>36ec29d6-5a0e-491a-9ba2-1f0b296a116e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='aktif'])[4]/following::span[8]</value>
+      <webElementGuid>88e7e080-6515-420f-937b-580ba7965736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Semua Cabang'])[2]/preceding::span[1]</value>
+      <webElementGuid>0607e69f-a3e2-4ff5-94f4-6797ac9f4441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA'])[2]/preceding::span[2]</value>
+      <webElementGuid>176302ce-c521-4a37-a2a0-7b309e73e978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//user-table/div/div/nb-card/nb-card-body/div/div/nb-checkbox/label/span</value>
+      <webElementGuid>a270e1cd-66ab-4367-bd6d-c09aef5866a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

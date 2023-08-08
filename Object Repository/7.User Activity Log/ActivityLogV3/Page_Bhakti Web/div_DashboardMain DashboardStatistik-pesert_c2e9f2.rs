@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_DashboardMain DashboardStatistik-pesert_c2e9f2</name>
+   <tag></tag>
+   <elementGuidId>f5e5ffd5-5e80-4f34-a8ae-df3757d591c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.scrollable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/nb-sidebar/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d304f1ff-ed23-407f-8d84-022c6d8fb365</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>scrollable</value>
+      <webElementGuid>b23651cc-6a8f-46b7-b1ae-96d4a49e25e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> DashboardMain DashboardStatistik-pesertaStatistik-campaign ActionSetting CampaignSetting Catalog RewardRedeemSetting MD Survey MasterMaster BarangMaster WalletMaster Target PesertaBC Message TemplateSetting Roles AdministrationCreate User InternalUser MishirinVerifikasi PesertaReward VerificationMapping ZonaVerifikasi Campaign FotoUser Wallet ManagementUser Activity Log SupportTicket MessagesBroadcast Message ReportingMD Survey &amp; AttendanceCampaign Quiz Report MonitoringMonitoring Scan QRMonitoring Sys Action LogMonitoring Vendor IAK</value>
+      <webElementGuid>6d455577-d712-4aa0-a475-3f6f93f3cd60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/nb-sidebar[@class=&quot;menu-sidebar left expanded&quot;]/div[@class=&quot;main-container main-container-fixed&quot;]/div[@class=&quot;scrollable&quot;]</value>
+      <webElementGuid>b45318ec-f7c2-44e5-aec9-f94f31784d08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/nb-sidebar/div/div</value>
+      <webElementGuid>3d08c26e-f8e6-42b8-8ee7-b2de141648b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='administrator'])[1]/following::div[3]</value>
+      <webElementGuid>a02c202e-90d9-41fe-a498-d43125b0ba43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='amink@jasakom.com'])[1]/following::div[4]</value>
+      <webElementGuid>dcea7552-035c-40e4-a691-e1c11d2d9c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-sidebar/div/div</value>
+      <webElementGuid>c2aed819-e71d-44e1-bf0b-f52af7b42931</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' DashboardMain DashboardStatistik-pesertaStatistik-campaign ActionSetting CampaignSetting Catalog RewardRedeemSetting MD Survey MasterMaster BarangMaster WalletMaster Target PesertaBC Message TemplateSetting Roles AdministrationCreate User InternalUser MishirinVerifikasi PesertaReward VerificationMapping ZonaVerifikasi Campaign FotoUser Wallet ManagementUser Activity Log SupportTicket MessagesBroadcast Message ReportingMD Survey &amp; AttendanceCampaign Quiz Report MonitoringMonitoring Scan QRMonitoring Sys Action LogMonitoring Vendor IAK' or . = ' DashboardMain DashboardStatistik-pesertaStatistik-campaign ActionSetting CampaignSetting Catalog RewardRedeemSetting MD Survey MasterMaster BarangMaster WalletMaster Target PesertaBC Message TemplateSetting Roles AdministrationCreate User InternalUser MishirinVerifikasi PesertaReward VerificationMapping ZonaVerifikasi Campaign FotoUser Wallet ManagementUser Activity Log SupportTicket MessagesBroadcast Message ReportingMD Survey &amp; AttendanceCampaign Quiz Report MonitoringMonitoring Scan QRMonitoring Sys Action LogMonitoring Vendor IAK')]</value>
+      <webElementGuid>0c7d04cd-7368-484f-9c70-6a5d5209c302</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

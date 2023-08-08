@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_kabupaten-msr-1</name>
+   <tag></tag>
+   <elementGuidId>a6719978-d691-4829-b96b-061c5003f016</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nb-option-29 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nb-option[@id='nb-option-29']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6f3247f-4ba1-4c7c-a2e0-110c7244c47b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>kabupaten-msr-1</value>
+      <webElementGuid>7b5f4c7b-9e8d-40e3-8c47-0b4f3fe0a009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nb-option-29&quot;)/div[1]</value>
+      <webElementGuid>b455472c-1b90-42cd-8502-fc14d5bd0c53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nb-option[@id='nb-option-29']/div</value>
+      <webElementGuid>c523925f-08fa-42b8-82c0-563b58781e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZKABUPATEN1'])[1]/following::div[1]</value>
+      <webElementGuid>24e4f07a-d0d6-411f-aca7-e393b7d76ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST_SONNY_QR_2-PEMENANG-UNDIAN-ZONA'])[1]/following::div[2]</value>
+      <webElementGuid>1465d731-70d7-4464-9b53-6e5910b076f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='provinsi-msr-1'])[1]/preceding::div[1]</value>
+      <webElementGuid>50aa9c87-b0d9-4d95-acb8-da16ca880521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='provinsi-msr-2'])[1]/preceding::div[2]</value>
+      <webElementGuid>7a9c2fc7-920d-4a15-a0dc-44f35bf22a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='kabupaten-msr-1']/parent::*</value>
+      <webElementGuid>5ffe63a6-b0cb-4e54-9f19-21600ed9b97f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-option[11]/div</value>
+      <webElementGuid>e3efb041-1f07-42b5-8ef4-d37d97ea8657</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'kabupaten-msr-1' or . = 'kabupaten-msr-1')]</value>
+      <webElementGuid>a310f2f6-da58-4a14-a867-13d8e5b2561a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

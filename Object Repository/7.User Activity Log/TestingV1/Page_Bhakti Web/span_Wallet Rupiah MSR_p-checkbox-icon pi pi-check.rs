@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Wallet Rupiah MSR_p-checkbox-icon pi pi-check</name>
+   <tag></tag>
+   <elementGuidId>40ff2157-174f-4631-a1d0-7ac68cc3fb44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-checkbox-icon.pi.pi-check</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-setting-modal/div/div/nb-card/nb-card-body/div[2]/div[4]/p-checkbox/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>62d9d721-0d28-4a09-bf9b-93fb8aa51777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-checkbox-icon pi pi-check</value>
+      <webElementGuid>27861348-c9fa-4352-87f1-4ed2bd15bea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>pi pi-check</value>
+      <webElementGuid>3c32ce98-0cf8-4179-8293-0377105f578c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/ngx-setting-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;d-flex flex-column border-bottom mt-3&quot;]/div[@class=&quot;d-flex flex-row align-items-center mb-2 ng-star-inserted&quot;]/p-checkbox[@class=&quot;p-element mr-3 ng-valid ng-dirty ng-touched&quot;]/div[@class=&quot;p-checkbox p-component p-checkbox-checked&quot;]/div[@class=&quot;p-checkbox-box p-highlight&quot;]/span[@class=&quot;p-checkbox-icon pi pi-check&quot;]</value>
+      <webElementGuid>cd7f2b7b-ba11-4b39-87aa-fbf780460bda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-setting-modal/div/div/nb-card/nb-card-body/div[2]/div[4]/p-checkbox/div/div[2]/span</value>
+      <webElementGuid>79d1de1f-1249-4fd5-93ae-cdcffd4f99fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/p-checkbox/div/div[2]/span</value>
+      <webElementGuid>b00b94f0-944c-4df8-922e-402613aad960</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

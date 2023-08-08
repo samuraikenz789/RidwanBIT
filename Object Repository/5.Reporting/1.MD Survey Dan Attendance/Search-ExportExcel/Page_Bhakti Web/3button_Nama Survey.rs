@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3button_Nama Survey</name>
+   <tag></tag>
+   <elementGuidId>b32c9182-44af-4c67-a78e-76d8a7d2c159</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>nb-select.custom-style.mr-2.appearance-outline.size-medium.status-basic.shape-rectangle.ng-untouched.ng-pristine.ng-valid.nb-transition > button.select-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c97a7f04-5092-4802-bfcf-0ce92b3de398</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8dc76b99-eae9-47d4-a92f-7d0a35c7c018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button</value>
+      <webElementGuid>4715f645-e597-45bf-b713-09e23188901e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nama Survey</value>
+      <webElementGuid>ce1988c5-372a-4c54-85b2-4fd1fd4e9b1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/div[@class=&quot;ng-star-inserted&quot;]/ngx-survey-history-report[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column flex-lg-row justify-content-between mt-3 mb-2&quot;]/div[@class=&quot;col mb-2 p-0 d-flex flex-column flex-sm-row align-items-start align-items-sm-end justify-content-lg-between&quot;]/div[@class=&quot;col p-0 mt-2 d-flex flex-row&quot;]/nb-select[@class=&quot;custom-style mr-2 appearance-outline size-medium status-basic shape-rectangle ng-untouched ng-pristine ng-valid nb-transition&quot;]/button[@class=&quot;select-button&quot;]</value>
+      <webElementGuid>573e432e-b529-483a-9e60-5008a5f8d750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>94063e1e-1b4b-4935-970d-671c769e42eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/div/ngx-survey-history-report/div/div[2]/div/div/nb-select/button</value>
+      <webElementGuid>c93b685c-7e67-48f3-97a0-012fda3dcd22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA'])[1]/following::button[1]</value>
+      <webElementGuid>58252807-e110-459c-a437-92af7d23c69b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export To Excel'])[1]/following::button[2]</value>
+      <webElementGuid>04cd8567-a20c-4e57-b32d-89d6a5232fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[1]/preceding::button[1]</value>
+      <webElementGuid>1286ac3d-3d45-4508-98a4-dbfb55657617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/nb-select/button</value>
+      <webElementGuid>846b51ca-d4e5-45ad-a647-e7f5c018e773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Nama Survey' or . = 'Nama Survey')]</value>
+      <webElementGuid>14eb7c29-6140-4fb1-be95-62a21dffd1db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>99Click Setelah Pilih Target Group Peserta</name>
+   <tag></tag>
+   <elementGuidId>011a3533-33f6-41a4-9e9f-6e1fc2abc3a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-display/nb-tabset/nb-tab/setting-a-display/form/div/div[19]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>973b9f80-db25-464f-96e0-97539f60d084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Header Campaign  File gambar Header Campaign yang berisi tentang detail informasi dan cara permainan campaign. </value>
+      <webElementGuid>1b7848a2-311c-4c97-9681-79365bb4d622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-editors[@class=&quot;ng-star-inserted&quot;]/campaign-templates[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[@class=&quot;ng-star-inserted&quot;]/program-display[@class=&quot;ng-star-inserted&quot;]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/setting-a-display[@class=&quot;ng-star-inserted&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 mb-4 vertical-center&quot;]/p[1]</value>
+      <webElementGuid>d99b5634-efff-4e38-9910-4a56c9dcd6dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-editors/campaign-templates/nb-card/nb-card-body/program-display/nb-tabset/nb-tab/setting-a-display/form/div/div[19]/p</value>
+      <webElementGuid>90a0c1b4-7d64-40a5-ba4e-b26fb359b664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Banner akan ditampilkan di card campaign di sebelah kanan atas.'])[1]/following::p[2]</value>
+      <webElementGuid>c7ab75f8-994c-4e70-b3f9-b7bce706d33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warna Tulisan Campaign'])[1]/following::p[3]</value>
+      <webElementGuid>3951fefd-eba5-4dab-87ae-284e2e3abf2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setting B: Pengaturan Zona &amp; Peserta Campaign'])[1]/preceding::p[1]</value>
+      <webElementGuid>d96b1117-ada6-4f0f-93cf-3cc4d9985492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[19]/p</value>
+      <webElementGuid>2dc851fe-c93a-448d-b465-8713374ab890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' Header Campaign  File gambar Header Campaign yang berisi tentang detail informasi dan cara permainan campaign. ' or . = ' Header Campaign  File gambar Header Campaign yang berisi tentang detail informasi dan cara permainan campaign. ')]</value>
+      <webElementGuid>f04d9473-a081-4c53-9a22-18e15249bc94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

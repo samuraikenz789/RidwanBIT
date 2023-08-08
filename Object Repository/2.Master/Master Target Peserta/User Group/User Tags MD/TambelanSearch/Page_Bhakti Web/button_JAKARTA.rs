@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_JAKARTA</name>
+   <tag></tag>
+   <elementGuidId>29bbbbcf-c5e1-4789-97f1-4abf7eaa370c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.select-button.cdk-focused.cdk-program-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[11]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ccb0d3e3-85b1-4683-a663-eae123fcb272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e2967699-b0cf-46f7-b245-9d510da81607</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-button cdk-focused cdk-program-focused</value>
+      <webElementGuid>332fabfb-4c18-4473-9898-20f0e22ff308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> JAKARTA </value>
+      <webElementGuid>66b74f20-42f7-4cb5-801f-a8c9b1ec8057</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-0&quot;)/user-group[1]/nb-tabset[1]/nb-tab[@class=&quot;content-active&quot;]/user-tags-md[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mt-2&quot;]/div[@class=&quot;col-md-10 mt-2&quot;]/nb-select[@class=&quot;ml-3 appearance-outline size-medium status-primary shape-rectangle ng-valid nb-transition ng-dirty ng-touched&quot;]/button[@class=&quot;select-button cdk-focused cdk-program-focused&quot;]</value>
+      <webElementGuid>b4c23a7d-2f06-4c09-acab-aaf505c1ed12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>7b0722dd-036c-4990-a8c2-7529fd1f3602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-tabpanel-0']/user-group/nb-tabset/nb-tab[2]/user-tags-md/div/div[2]/nb-select[2]/button</value>
+      <webElementGuid>989b712c-b4c0-4699-83a2-4f311c36d4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA'])[1]/following::button[1]</value>
+      <webElementGuid>718c04f1-dbc8-4476-9e3e-d2993481a9f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse User'])[2]/following::button[2]</value>
+      <webElementGuid>52b8b3d6-330c-47fd-b8e0-aa62c729a64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-select[2]/button</value>
+      <webElementGuid>e5d82f25-10ca-4ec0-8049-70e299a3de48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' JAKARTA ' or . = ' JAKARTA ')]</value>
+      <webElementGuid>654cee2c-0b3b-4f8f-9c8a-d42385c7fae4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

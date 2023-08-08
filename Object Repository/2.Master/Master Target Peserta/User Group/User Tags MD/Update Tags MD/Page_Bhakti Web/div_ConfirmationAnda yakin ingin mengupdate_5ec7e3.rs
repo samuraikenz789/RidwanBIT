@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ConfirmationAnda yakin ingin mengupdate_5ec7e3</name>
+   <tag></tag>
+   <elementGuidId>c59fa4d4-1900-4581-af79-1cc885c7ba31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ng-tns-c462-0.ng-star-inserted.p-dialog-mask.p-component-overlay.p-dialog-mask-scrollblocker</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/master-target-peserta/div/p-confirmdialog/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f4b5a191-b11d-4753-ac09-14ab94f93281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c462-0 ng-star-inserted p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker</value>
+      <webElementGuid>7bad1831-ccca-487b-a1a0-dca0b64ef0cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>b3fd6a23-805c-4e69-8e93-8ed2f9242442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ConfirmationAnda yakin ingin mengupdate User Group JAKARTA@TEST2?NoYes</value>
+      <webElementGuid>9441a4fc-0d75-4f7e-827f-1348a20431f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-master[1]/master-target-peserta[1]/div[@class=&quot;ng-star-inserted&quot;]/p-confirmdialog[@class=&quot;p-element ng-tns-c462-0 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c462-0 ng-star-inserted p-dialog-mask p-component-overlay p-dialog-mask-scrollblocker&quot;]</value>
+      <webElementGuid>5ea67c87-9741-447d-8d49-457584fdd947</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-master/master-target-peserta/div/p-confirmdialog/div</value>
+      <webElementGuid>3aa0a217-ed9e-4550-90db-367fb7b728b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pemenang Peringkat Test Sonny QR'])[1]/following::div[2]</value>
+      <webElementGuid>10bd1e27-a30c-4c90-8b18-884af9feb977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test_sonny_qr'])[3]/following::div[4]</value>
+      <webElementGuid>a6916a9c-1294-477d-967c-5e0052639810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p-confirmdialog/div</value>
+      <webElementGuid>8e464cd5-4456-4e09-a674-a876688769bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ConfirmationAnda yakin ingin mengupdate User Group JAKARTA@TEST2?NoYes' or . = 'ConfirmationAnda yakin ingin mengupdate User Group JAKARTA@TEST2?NoYes')]</value>
+      <webElementGuid>0550321f-fc80-4194-aa7c-4db1b6957f4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

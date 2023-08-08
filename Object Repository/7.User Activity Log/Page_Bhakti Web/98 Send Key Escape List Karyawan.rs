@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>98 Send Key Escape List Karyawan</name>
+   <tag></tag>
+   <elementGuidId>06b306f8-da29-4d61-b1e7-018201de61a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>nb-card-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-12']/nb-dialog-container/ngx-list-karyawan-modal/div/div/nb-card/nb-card-header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-card-header</value>
+      <webElementGuid>d65a36f5-7bb0-4665-b58e-f96008e297f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>align</name>
+      <type>Main</type>
+      <value>center</value>
+      <webElementGuid>7e25023a-ac56-4252-99fb-b02f77b3d4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> List Karyawan </value>
+      <webElementGuid>d5a3d25e-3574-49b6-8500-5e2667dbc54c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-12&quot;)/nb-dialog-container[1]/ngx-list-karyawan-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-header[1]</value>
+      <webElementGuid>1db40737-7ae2-4331-af18-9c60a9f8bc87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-12']/nb-dialog-container/ngx-list-karyawan-modal/div/div/nb-card/nb-card-header</value>
+      <webElementGuid>0093cd6c-3f83-4568-837e-232cb49176e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miyako XX'])[3]/following::nb-card-header[1]</value>
+      <webElementGuid>bd87a5cc-ac6a-4d30-b7d7-efe5c827136c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Belum Memiliki Karyawan'])[1]/preceding::nb-card-header[1]</value>
+      <webElementGuid>28171ab9-c06a-4f7c-9f31-ea79a9887e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-card-header</value>
+      <webElementGuid>8d4cb1b6-8d7c-4eb7-a405-903732b9d907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-card-header[(text() = ' List Karyawan ' or . = ' List Karyawan ')]</value>
+      <webElementGuid>a1887baa-121c-439d-ac91-8b6d778e5983</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

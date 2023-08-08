@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>7OBAbsensiCode</name>
+   <tag></tag>
+   <elementGuidId>0cd1eaaf-7b46-47f8-ba9f-5a17ad2becca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_3-table']/thead/tr/th[3]/div/p-sorticon/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-content-between.align-items-center.text-center > p-sorticon.p-element > i.p-sortable-column-icon.pi.pi-fw.pi-sort-alt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>69dd2acb-d8e6-472e-b724-cc54e0dd4997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-sortable-column-icon pi pi-fw pi-sort-alt</value>
+      <webElementGuid>9bebba0e-3b9f-4da3-b8fa-93c26cc01aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>84432188-d003-452f-87bc-c20f15a97811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_3-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;no-highlight ng-star-inserted&quot;]/th[@class=&quot;p-element p-sortable-column&quot;]/div[@class=&quot;flex justify-content-between align-items-center text-center&quot;]/p-sorticon[@class=&quot;p-element&quot;]/i[@class=&quot;p-sortable-column-icon pi pi-fw pi-sort-alt&quot;]</value>
+      <webElementGuid>1a70e1ba-e60e-4448-bf92-071493e3a3f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_3-table']/thead/tr/th[3]/div/p-sorticon/i</value>
+      <webElementGuid>c66e33fe-695c-479c-a0f6-eb4f9b510c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[3]/div/p-sorticon/i</value>
+      <webElementGuid>82462e32-57a0-4f4f-9e22-bf0161cf5836</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

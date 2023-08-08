@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>4TSAfterSSClickrect</name>
+   <tag></tag>
+   <elementGuidId>4df09b97-3327-4265-9c11-c6cbe56089d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.eva.eva-chevron-right-outline > g > g > rect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>d162ea56-f2ce-4ed5-9bc5-7399b12b6b56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>67020b9e-5095-4cc8-96df-d879ea90d7e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>d0c40b83-0d70-4724-9128-38b419f4c7a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>rotate(-90 12 12)</value>
+      <webElementGuid>e7f6e4a3-00c3-4502-8e82-60df08556c85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>opacity</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>be4b00a9-096e-4874-bd0c-6930343fc6c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-tabpanel-1&quot;)/div[@class=&quot;ng-star-inserted&quot;]/nb-card[@class=&quot;mt-4 ng-star-inserted&quot;]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-2&quot;]/nb-icon[@class=&quot;status-dark&quot;]/svg[@class=&quot;eva eva-chevron-right-outline&quot;]/g[1]/g[1]/rect[1]</value>
+      <webElementGuid>05b077f7-cea6-456f-a981-abfe04af3cb9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>12Clickspan_Filter Result</name>
+   <tag></tag>
+   <elementGuidId>85726056-a54e-495d-b470-5c224e70b27e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-reporting/ngx-quiz-report/ngx-quiz-report-result/div/nb-card/nb-card-body/nb-tabset/nb-tab[2]/div/ngx-periode/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-filter</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ea0003b6-2369-4f4f-a2b0-b956739ab21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-filter</value>
+      <webElementGuid>46a3baba-423c-4a90-8f59-e914e08f46f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Filter Result</value>
+      <webElementGuid>ab9a9407-8369-4f2a-944c-92f9b3434d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body&quot;)/nb-layout[@class=&quot;window-mode with-scroll&quot;]/div[@class=&quot;scrollable-container&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;layout-container&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;columns&quot;]/nb-layout-column[1]/ngx-reporting[@class=&quot;ng-star-inserted&quot;]/ngx-quiz-report[@class=&quot;ng-star-inserted&quot;]/ngx-quiz-report-result[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/nb-card[1]/nb-card-body[1]/nb-tabset[1]/nb-tab[@class=&quot;tab-style ng-star-inserted content-active&quot;]/div[@class=&quot;ng-star-inserted&quot;]/ngx-periode[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row mt-4&quot;]/div[@class=&quot;col d-flex flex-row justify-content-end&quot;]/span[@class=&quot;button-filter&quot;]</value>
+      <webElementGuid>18424175-1e21-4458-8dfe-cf4905e1ae4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ngx-one-column-layout[@id='body']/nb-layout/div/div/div/div/div/nb-layout-column/ngx-reporting/ngx-quiz-report/ngx-quiz-report-result/div/nb-card/nb-card-body/nb-tabset/nb-tab[2]/div/ngx-periode/div[3]/div/span</value>
+      <webElementGuid>7ce14f7e-5e80-423f-a71b-a92ff5f875de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tingkat Keberhasilan Peserta Quiz'])[1]/following::span[1]</value>
+      <webElementGuid>23209a9a-7c3f-4f5b-a5dd-18375744ee17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Reward'])[1]/following::span[1]</value>
+      <webElementGuid>5e24f11e-f47e-464c-be6d-0cb4c71880c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa nama produk yang tepat untuk gambar berikut ini?'])[1]/preceding::span[1]</value>
+      <webElementGuid>9bee4765-1fe5-48ec-a49e-b972a91fdfb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Filter Result']/parent::*</value>
+      <webElementGuid>262d3631-0afb-420c-b1c8-30fab61f311a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-periode/div[3]/div/span</value>
+      <webElementGuid>446fd955-e403-4d1f-8140-b40c6c06404b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Filter Result' or . = ' Filter Result')]</value>
+      <webElementGuid>87382361-47d6-4119-8a2d-992994dc8ccf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

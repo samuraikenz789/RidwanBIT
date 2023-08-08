@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>1Clickdiv_B_toggle ng-tns-c252-38</name>
+   <tag></tag>
+   <elementGuidId>e401d53e-b4dd-4ec0-aa9c-588702440b86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toggle.ng-tns-c252-38</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_1-table']/tfoot/nb-toggle/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c11f049e-7f7a-4a39-bf6d-2e982c3984a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toggle ng-tns-c252-38</value>
+      <webElementGuid>7f9535ba-ecd2-433c-848e-b0bb46a286c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_1-table&quot;)/tfoot[@class=&quot;p-datatable-tfoot ng-star-inserted&quot;]/nb-toggle[@class=&quot;switch ng-tns-c252-38 status-basic toggle-label-end ng-untouched ng-pristine ng-valid ng-star-inserted nb-transition&quot;]/label[@class=&quot;toggle-label ng-tns-c252-38&quot;]/div[@class=&quot;toggle ng-tns-c252-38&quot;]</value>
+      <webElementGuid>c82a6a83-1351-4fd4-9914-d314d234c3b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_1-table']/tfoot/nb-toggle/label/div</value>
+      <webElementGuid>e37f44b8-6f5b-41ef-8455-6887f81dd64b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='B'])[2]/following::div[4]</value>
+      <webElementGuid>efa131c7-ae38-465e-b517-fba6811538a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kota Semarang'])[1]/following::div[5]</value>
+      <webElementGuid>3eb58687-230b-4542-b12e-feb9694b6f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Export To Excel'])[1]/preceding::div[1]</value>
+      <webElementGuid>4e2b3092-31b6-4adf-b092-e712527fd3b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Toko'])[2]/preceding::div[2]</value>
+      <webElementGuid>caf59e68-26a2-4e89-ad68-a2a2b5f7d008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>a95ca45f-5bc5-4265-b212-f9419f8e9759</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>14Click nb-option_Wallet Point MSR 2</name>
+   <tag></tag>
+   <elementGuidId>39b05a5f-3543-49d3-a19c-5811f8db81b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nb-option-136</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='TCNew'])[1]/following::nb-option[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>nb-option</value>
+      <webElementGuid>107bba1e-d681-4341-80f5-929b0d16d6c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-value</name>
+      <type>Main</type>
+      <value>wallet_point_msr_2</value>
+      <webElementGuid>0d7fe8bc-9332-44c1-89f5-f3814b94558b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>c6062324-da94-4be1-b446-157fa3100a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nb-option-136</value>
+      <webElementGuid>27b7bfbf-eaaf-47d6-8dca-802676d9c329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nb-transition ng-star-inserted</value>
+      <webElementGuid>0f08d7e5-17b2-41fc-a963-87caa856834c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Wallet Point MSR 2 </value>
+      <webElementGuid>e4994d91-431a-4dd4-96ca-b6b8b3c73261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nb-option-136&quot;)</value>
+      <webElementGuid>dd68bfc9-cf8e-4ef8-a6aa-dbf82470dd2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//nb-option[@id='nb-option-136']</value>
+      <webElementGuid>8d997bb7-31d9-4d20-ab30-87c2bfdb8742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-21']/nb-option-list/ul/nb-option[3]</value>
+      <webElementGuid>5139ae0e-f5bc-42f1-8c09-69d03c6600d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TCNew'])[1]/following::nb-option[1]</value>
+      <webElementGuid>7909c614-58eb-4780-86b4-716b7ddf0aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tc'])[1]/following::nb-option[2]</value>
+      <webElementGuid>9d616b5e-65d0-4e2b-aef0-e1c3dab178c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Rupiah MSR'])[1]/preceding::nb-option[1]</value>
+      <webElementGuid>dbac5900-97a9-40a4-b450-ab1c3e394e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wallet Point MSR'])[1]/preceding::nb-option[2]</value>
+      <webElementGuid>f75ca8ab-8d80-49cf-893e-49b8f4c6dd11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wallet Point MSR 2']/parent::*</value>
+      <webElementGuid>7ffcf9fe-56a8-49f0-9755-0546bd191727</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nb-option[3]</value>
+      <webElementGuid>bd092286-9c2f-4040-825e-34c8248a34d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//nb-option[@id = 'nb-option-136' and (text() = ' Wallet Point MSR 2 ' or . = ' Wallet Point MSR 2 ')]</value>
+      <webElementGuid>1150f71f-fb5b-473c-b15e-8b0ea677127c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

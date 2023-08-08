@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>11Click h5_Browse Data User</name>
+   <tag></tag>
+   <elementGuidId>ab42c992-be6f-4bad-9789-99d613e29c41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h5.mt-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-6']/nb-dialog-container/browse-user-for-cakupan/div/div/nb-card/nb-card-body/div/div/h5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>0dd524f0-e095-4218-a64b-bbe48298919b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-1</value>
+      <webElementGuid>dd436c85-bc55-44fc-9a5c-05f7f42161de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse Data User</value>
+      <webElementGuid>6b3444ce-b3b2-49df-98d1-a78e0fcff266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-6&quot;)/nb-dialog-container[1]/browse-user-for-cakupan[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 mb-2&quot;]/h5[@class=&quot;mt-1&quot;]</value>
+      <webElementGuid>03c509e3-7bab-4e3d-987a-6f8dc672f722</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-6']/nb-dialog-container/browse-user-for-cakupan/div/div/nb-card/nb-card-body/div/div/h5</value>
+      <webElementGuid>901b1e00-01c3-4132-a3c7-1a43cfa56f6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Pemenang Peringkat Test Sonny QR'])[1]/following::h5[1]</value>
+      <webElementGuid>aa146ff9-47fa-4b2f-af9b-42fdf75c6cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JAKARTA'])[4]/preceding::h5[1]</value>
+      <webElementGuid>78478ac2-8fd8-4b0a-8edf-475b679536dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse Data User']/parent::*</value>
+      <webElementGuid>1305b548-41db-4af0-a5b4-8b8796d367c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>0c7de0de-90b9-4876-9b90-bdea5cf49174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Browse Data User' or . = 'Browse Data User')]</value>
+      <webElementGuid>8f4b9435-52b5-4710-8293-790af6edaedf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

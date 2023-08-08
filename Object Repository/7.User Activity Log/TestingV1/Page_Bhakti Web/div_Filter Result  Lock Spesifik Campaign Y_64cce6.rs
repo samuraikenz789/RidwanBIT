@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Filter Result  Lock Spesifik Campaign Y_64cce6</name>
+   <tag></tag>
+   <elementGuidId>f17cf3db-2b37-460a-921f-c16b751ceecc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-setting-modal/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bec4a141-502b-4317-8b7d-47d58855e142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12</value>
+      <webElementGuid>807861ae-428b-49cf-871f-1f4154573c3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Filter Result  Lock Spesifik Campaign Yang Sedang Berjalan Test Sonny QRTest Sonny QR 2Test Sonny QR 3Testing Sonny DisplayLock Spesifik Wallet Yang Sedang AktifWallet Point MSRWallet Rupiah MSRUNDIAN AKHIR TAHUN MISHIRINUNDIAN AKHIR TAHUN MISHIRIN Suspend Campaign  Suspend Account Save</value>
+      <webElementGuid>86d283b9-eb2f-464b-b251-d68689898ede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-0&quot;)/nb-dialog-container[1]/ngx-setting-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]</value>
+      <webElementGuid>090455fd-4e83-4a94-92fb-2b5156c710a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-0']/nb-dialog-container/ngx-setting-modal/div/div</value>
+      <webElementGuid>4a5a9649-322a-4bdb-84d4-ca22e7e38833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Miyako XX'])[3]/following::div[9]</value>
+      <webElementGuid>ca8610d0-7571-4f54-9a98-266a6d250d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ngx-setting-modal/div/div</value>
+      <webElementGuid>c7fdb21d-d0e6-4bfd-b1b2-a505cd26df7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Filter Result  Lock Spesifik Campaign Yang Sedang Berjalan Test Sonny QRTest Sonny QR 2Test Sonny QR 3Testing Sonny DisplayLock Spesifik Wallet Yang Sedang AktifWallet Point MSRWallet Rupiah MSRUNDIAN AKHIR TAHUN MISHIRINUNDIAN AKHIR TAHUN MISHIRIN Suspend Campaign  Suspend Account Save' or . = ' Filter Result  Lock Spesifik Campaign Yang Sedang Berjalan Test Sonny QRTest Sonny QR 2Test Sonny QR 3Testing Sonny DisplayLock Spesifik Wallet Yang Sedang AktifWallet Point MSRWallet Rupiah MSRUNDIAN AKHIR TAHUN MISHIRINUNDIAN AKHIR TAHUN MISHIRIN Suspend Campaign  Suspend Account Save')]</value>
+      <webElementGuid>52e3a12e-91c2-4dfa-8967-1b9e44cc504d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

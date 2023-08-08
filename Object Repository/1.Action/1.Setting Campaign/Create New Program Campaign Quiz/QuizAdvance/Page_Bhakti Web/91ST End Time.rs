@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>91ST End Time</name>
+   <tag></tag>
+   <elementGuidId>b7635098-5adf-46fa-bc7f-596435329dc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-34']/nb-dialog-container/ngx-upload-video-modal/div/div/nb-card/nb-card-body/div[3]/div[3]/input-time-minute</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input-time-minute</value>
+      <webElementGuid>81e7c8ea-050f-4cf4-b67a-1569f62c46a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-2 box-time ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>091994be-32e6-45c7-8982-e0464e7d519f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>:</value>
+      <webElementGuid>672df3a4-10ed-4a92-a1cb-24eb3e09952a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-34&quot;)/nb-dialog-container[1]/ngx-upload-video-modal[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col-md-12&quot;]/nb-card[1]/nb-card-body[1]/div[@class=&quot;d-flex flex-row justify-content-between align-items-end ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column&quot;]/input-time-minute[@class=&quot;mt-2 box-time ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>df289e64-6385-48fe-a1b1-665a4cb1d145</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-34']/nb-dialog-container/ngx-upload-video-modal/div/div/nb-card/nb-card-body/div[3]/div[3]/input-time-minute</value>
+      <webElementGuid>6e4c7c99-c91b-42dd-a49b-66dbed45ac98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Time'])[1]/following::input-time-minute[1]</value>
+      <webElementGuid>36032109-6da3-4305-8c0c-d81609e07ca2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='s/d'])[9]/following::input-time-minute[1]</value>
+      <webElementGuid>80be77bc-00dc-43ab-941b-9b23b8ab0f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Video'])[2]/preceding::input-time-minute[1]</value>
+      <webElementGuid>49ee7ada-c79e-4be0-bcd5-554507d31053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input-time-minute</value>
+      <webElementGuid>bb2a285d-f3d3-4078-b0c2-43bb9de89e8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input-time-minute[(text() = ':' or . = ':')]</value>
+      <webElementGuid>d1580daa-6a1a-472f-9269-4d82a1ee2d3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>22ClickIconSearchh</name>
+   <tag></tag>
+   <elementGuidId>1ba4b538-da5e-453c-a530-93c27881c409</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.td-center > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_46-table']/tbody/tr/td[8]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fafe1685-5243-41e9-a63b-a3817ee4a369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>../messagetable/70167673-3148-</value>
+      <webElementGuid>86052a7b-705b-4a96-be34-c23ed056c280</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#/pages/support/messagetable/70167673-3148-c93d-f15a-178f6d6a9db1/Toko%20Bagusss/6sizOr1wcLYXrOs1qIFukTo6cJg2</value>
+      <webElementGuid>da8d3d6c-d0b8-4174-ab5d-241da298c0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_46-table&quot;)/tbody[@class=&quot;p-element p-datatable-tbody&quot;]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;td-center&quot;]/a[1]</value>
+      <webElementGuid>5f9b07c6-c503-457c-b171-5b4cd649ba2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_46-table']/tbody/tr/td[8]/a</value>
+      <webElementGuid>7e22107a-281d-41a7-9e58-102e491352b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test'])[1]/following::a[1]</value>
+      <webElementGuid>5c0c51e2-4429-442c-8ce7-77fffb97c5cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cara_join_campaign'])[1]/following::a[1]</value>
+      <webElementGuid>3bb3e93a-8850-44cd-b5cd-b30f387ff3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Bagusss'])[2]/preceding::a[1]</value>
+      <webElementGuid>5b3e489c-ea8f-4330-9a50-20f5a8bb99a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kabupaten Kubu Raya'])[2]/preceding::a[1]</value>
+      <webElementGuid>a941880b-e1e3-4f79-b648-aa917a301fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#/pages/support/messagetable/70167673-3148-c93d-f15a-178f6d6a9db1/Toko%20Bagusss/6sizOr1wcLYXrOs1qIFukTo6cJg2')]</value>
+      <webElementGuid>35b6a827-6d2a-4120-81bd-f4896970fec4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a</value>
+      <webElementGuid>f7205466-eea0-4d4f-95eb-693d15452955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#/pages/support/messagetable/70167673-3148-c93d-f15a-178f6d6a9db1/Toko%20Bagusss/6sizOr1wcLYXrOs1qIFukTo6cJg2']</value>
+      <webElementGuid>8927fc15-2072-4166-a8bb-c3d150fd23f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

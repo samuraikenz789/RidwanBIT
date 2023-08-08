@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>33 Click Button Request Approval</name>
+   <tag></tag>
+   <elementGuidId>3be4f083-1ba9-47dc-8f05-fe94f47fb85f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mb-3.w-100.icon-button.success.appearance-filled.size-medium.shape-rectangle.icon-start.status-basic.nb-transition</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/nb-dialog-container/ngx-send-link-approval/div/div[5]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>784339f4-8107-4c1e-934a-6e8cc26fbd60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-3 w-100 icon-button success appearance-filled size-medium shape-rectangle icon-start status-basic nb-transition</value>
+      <webElementGuid>7c35c75c-938e-4f94-ba0d-84973347e9c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>3ac1bce5-3ac1-462e-8d59-f7fc0075c56f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a4a04090-d497-461f-a379-1d0b209ce56a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> REQUEST APPROVAL </value>
+      <webElementGuid>d17d1d52-1c3b-4502-85fa-7a1e89a0e8a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/ngx-send-link-approval[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;d-flex flex-column justify-content-center align-items-center&quot;]/div[@class=&quot;d-flex flex-row justify-content-between mt-3&quot;]/button[@class=&quot;mb-3 w-100 icon-button success appearance-filled size-medium shape-rectangle icon-start status-basic nb-transition&quot;]</value>
+      <webElementGuid>412cf197-d9bf-4294-9506-2191fb8a585e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nb-dialog-container/ngx-send-link-approval/div/div[5]/button</value>
+      <webElementGuid>c284b9db-2f80-4cea-9988-f2c96f68d7a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oscarhasanputra1@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>8b4d8f49-c5d0-44aa-9edd-b0b2a4a531b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oscarhasanputra2@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>b30196e0-5f75-4996-82c6-15bb2cf5a2ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>ded1f11c-c8c9-46d5-8524-2fa606f8937a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>f355f4f8-cde7-4270-850c-633d461d80f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' REQUEST APPROVAL ' or . = ' REQUEST APPROVAL ')]</value>
+      <webElementGuid>54a558bd-805c-43b5-a9db-76153fcfb8d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ACTION</name>
+   <tag></tag>
+   <elementGuidId>464960bc-536c-4864-8690-7d5f56f21261</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_3-table']/thead/tr/th[8]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>th:nth-of-type(8) > div.flex.justify-content-between.align-items-center.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>53b05887-6276-44b0-b277-ef62c4b7ccec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-content-between align-items-center text-center</value>
+      <webElementGuid>72fb6eda-9a88-4b1b-9545-dd55ddafbfda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ACTION </value>
+      <webElementGuid>6a83e36d-8b39-4723-bc4e-35bfaaadf2af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_3-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;no-highlight ng-star-inserted&quot;]/th[8]/div[@class=&quot;flex justify-content-between align-items-center text-center&quot;]</value>
+      <webElementGuid>09578458-74bd-4a2a-b772-9d86b9938a1a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_3-table']/thead/tr/th[8]/div</value>
+      <webElementGuid>4198b442-3934-4d32-b7c0-2281bedf3b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL VISIT PERIODE'])[1]/following::div[1]</value>
+      <webElementGuid>28fd9622-ef92-4c79-91e0-7711a56472f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL VISIT GP'])[1]/following::div[2]</value>
+      <webElementGuid>d4191b3b-f8bc-40cb-95aa-eb2217edb0f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='le minerale'])[1]/preceding::div[1]</value>
+      <webElementGuid>fea85bc2-fb9d-4c69-b35f-31f40fe32888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jalan Perjuangan'])[1]/preceding::div[2]</value>
+      <webElementGuid>bdb39b90-993e-4588-a39e-813ec69c7345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ACTION']/parent::*</value>
+      <webElementGuid>798bef6a-61a7-4be7-9f12-f50723eeeeca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[8]/div</value>
+      <webElementGuid>6752f10d-f131-49c6-8956-de1c241a78ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' ACTION ' or . = ' ACTION ')]</value>
+      <webElementGuid>1ba739a1-7e20-4c2f-92bd-1b446df05727</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

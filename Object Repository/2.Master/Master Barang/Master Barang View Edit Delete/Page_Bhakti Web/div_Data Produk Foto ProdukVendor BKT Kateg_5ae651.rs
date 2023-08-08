@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Data Produk Foto ProdukVendor BKT Kateg_5ae651</name>
+   <tag></tag>
+   <elementGuidId>da949e8d-561d-4041-aff2-4be8317d773b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-4']/nb-dialog-container/form-master-barang/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form-master-barang.ng-star-inserted > div.row > div.col-md-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7ff76aab-32a5-4c4b-baf5-ffdf395f2932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-12</value>
+      <webElementGuid>5da0610a-0b9f-4473-9d22-4d2378a31581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Data Produk Foto ProdukVendor BKT Kategori Produk Produk Product IDNama ProdukTerm &amp; ConditionAuto FillDeskripsi ProdukRemarks Edit </value>
+      <webElementGuid>9a54d864-8472-418e-a677-1d437c0e3e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-4&quot;)/nb-dialog-container[1]/form-master-barang[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]</value>
+      <webElementGuid>719cfe6c-1325-425d-b7ec-39e96c909a57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-4']/nb-dialog-container/form-master-barang/div/div</value>
+      <webElementGuid>6fd7bc32-a0a2-4bca-9ed9-5312af1ce9c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[5]/following::div[11]</value>
+      <webElementGuid>25eafc08-9530-4d7b-9d6d-36794e563c98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form-master-barang/div/div</value>
+      <webElementGuid>8b92f017-209b-4541-a9bd-abd2fe8b2eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Data Produk Foto ProdukVendor BKT Kategori Produk Produk Product IDNama ProdukTerm &amp; ConditionAuto FillDeskripsi ProdukRemarks Edit ' or . = ' Data Produk Foto ProdukVendor BKT Kategori Produk Produk Product IDNama ProdukTerm &amp; ConditionAuto FillDeskripsi ProdukRemarks Edit ')]</value>
+      <webElementGuid>67a0ab7b-b8ce-44bd-b464-72552dbae924</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

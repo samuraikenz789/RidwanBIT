@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>5OBNamaToko</name>
+   <tag></tag>
+   <elementGuidId>a6b6811f-712f-4297-9e4b-b7503720325f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='pr_id_3-table']/thead/tr/th/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.pi.pi-fw.pi-sort.pointer.ui-sortable-column-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7eaeea1f-4bb0-4af3-8414-f10c180a5626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pi pi-fw pi-sort pointer ui-sortable-column-icon</value>
+      <webElementGuid>2bb044aa-01ed-49e2-8f16-677a7fa60951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pr_id_3-table&quot;)/thead[@class=&quot;p-datatable-thead&quot;]/tr[@class=&quot;no-highlight ng-star-inserted&quot;]/th[1]/div[@class=&quot;flex justify-content-between align-items-center&quot;]/i[@class=&quot;pi pi-fw pi-sort pointer ui-sortable-column-icon&quot;]</value>
+      <webElementGuid>46200efc-9c74-44b1-b534-894be8aa5a45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='pr_id_3-table']/thead/tr/th/div/i</value>
+      <webElementGuid>93747e2d-0fd3-4e88-a378-b1bb73d5a0bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>fc8ed3e0-e8ae-4d49-b9de-e10bdb626b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
